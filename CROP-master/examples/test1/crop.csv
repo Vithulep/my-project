@@ -1,0 +1,5 @@
+Crop ID,Name,Filename,Transport Cost
+rice,rice,rice.csv,100
+wheat,wheat,wheat.csv,200
+rice,rice,rice_1.csv,100
+wheat,wheat,wheat_1.csv,200

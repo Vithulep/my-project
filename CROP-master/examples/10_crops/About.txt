@@ -1,0 +1,15 @@
+Area restricted to: Karnataka
+Granularity: Districts
+Standard allocation: 2017-18
+New allocation: 2018 - 19
+Yield taken as the average yield of last 3 years (2016-17, 2017-18, 2018-19). Where crop was not grown for last 3 years, yield taken as average of last 3 available datasets.
+Price, for now, is taken as the first available modal price of the year 2018. (the average is taken where more than one mandi in the district has the price data on that day). Price taken as zero if no sale was made throughout 2018. For CHIKBALLAPUR we take KOLAR price(or wages) as CHIKBALLAPUR was carved out of Kolar. For YADGIR we take the average of Gulbarga and Raichur as they sandwich Yadgir. Similarly for Kodagu we average Mysore, Hassan, and Dakshina Kannada. Ramanagara has no data as it was carved out of Bangalore Rural - so we take Bangalore rural's data for Ramanagara. Similarly for Bagalkot we take Bijapur, for Chamrajnagar we take Mysore, for Gadag and Haveri we take Dharwad, for Koppal we take Raichur, for Udupi we take Dakshina Kannada. Davanagere = AVG(Chitradurga,Shimoga,Bellary)
+Q)What do we do if price = 0 and min demand >0?
+
+Cost is taken (from the 2017-18 file) as 1.6+(11.1.4*W) where 1.6 is cost per hectare for that crop in the state, 11.1.4 is the cost of human labour per hectare for that crop, and W = Fractional increase in human labour cost in this district compared to the state average = (MALE_WAGE+FEMALE_WAGE-MALE_SAW-FEMALE_SAW)/(MALE_SAW+FEMALE_SAW). Here we are assuming that number of male and female workers is the same. Also, this is data from 2010. So we are assuming that the wages have increased in all districts proportionally.
+
+For now min and max demand (for each district-crop pair) is taken as the min and max of the standard allocation and new allocation multiplied by yield. Later we shall take it as demand from NSSO data +/- 10%
+
+New updates: For crops other than ragi and maize : If no data available value of area grown: 0. In case Kharif/Rabi data is only there that is taken as annual data. Yield new data average of 17-18-19
+
+Cost of cultivation: Bajra -> Maharashtra

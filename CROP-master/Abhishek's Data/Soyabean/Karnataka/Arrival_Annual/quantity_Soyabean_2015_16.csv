@@ -1,0 +1,1700 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,500,01-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,65,01-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,80,01-Jan-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,3,01-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,108,01-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,11,01-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,123,01-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,90,01-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,300,02-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,231,02-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,65,02-Jan-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,10,02-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,50,02-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,02-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,605,02-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,125,02-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,10,03-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,200,03-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,168,03-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,50,03-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,210,03-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,15,03-Jan-2015
+Karnataka,KK,Gadag,Gadag,Soyabean,13,3,03-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,132,03-Jan-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,261,03-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,200,05-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,80,05-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,57,05-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,152,05-Jan-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,9,05-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,300,06-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,80,06-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,110,06-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,22,06-Jan-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,158,06-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,211,06-Jan-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,181,06-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,200,07-Jan-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,535,07-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,185,07-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,60,07-Jan-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,10,07-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,100,07-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,22,07-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,122,07-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,400,08-Jan-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,40,08-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,202,08-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,70,08-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,95,08-Jan-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,4,08-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,11,08-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,233,08-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,151,08-Jan-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,8,08-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,700,09-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,141,09-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,40,09-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,158,09-Jan-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,5,09-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,50,09-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,09-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,125,09-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,615,10-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,40,10-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,709,10-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,10-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,415,10-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,115,10-Jan-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,6,11-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,12-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,400,12-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,171,12-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,180,12-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,12-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,212,12-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,135,12-Jan-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,450,12-Jan-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,18,12-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,400,13-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,85,13-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,40,13-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,64,13-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,213,13-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,152,13-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,48,14-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,50,14-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,225,14-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,30,14-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,130,14-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,110,14-Jan-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,350,14-Jan-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,100,16-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,688,16-Jan-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,89,17-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,202,17-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,45,17-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,49,17-Jan-2015
+Karnataka,KK,Belgaum,Gokak,Soyabean,13,222,18-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,192,18-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,500,19-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,206,19-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,50,19-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,41,19-Jan-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,110,19-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,151,19-Jan-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,4,19-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,300,20-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,200,21-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,197,21-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,16,21-Jan-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,5,21-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,519,21-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,45,21-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,363,21-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,55,21-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,510,22-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,176,22-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,55,22-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,21,22-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,151,22-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,87,22-Jan-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,160,22-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,102,22-Jan-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,2,22-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,128,23-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,55,23-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,93,23-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,50,23-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,28,23-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,111,23-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,95,23-Jan-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,110,23-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,210,24-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,45,24-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,150,24-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,24-Jan-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,53,24-Jan-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,15,26-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,27-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,13,27-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,27-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,27-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,4,27-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,18,27-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,47,27-Jan-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,27-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,15,27-Jan-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,13,27-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,100,28-Jan-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,10,28-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,152,28-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,28-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,4,28-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,28-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,12,28-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,8,28-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,50,29-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,110,29-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,50,29-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,205,29-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,257,29-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,118,29-Jan-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,54,29-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,75,29-Jan-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,252,29-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,100,30-Jan-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,10,30-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,87,30-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,25,30-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,230,30-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,42,30-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,61,30-Jan-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,161,30-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,52,30-Jan-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,105,30-Jan-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,112,31-Jan-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,40,31-Jan-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,125,31-Jan-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,5,31-Jan-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,100,31-Jan-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,31-Jan-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,58,31-Jan-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,300,02-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,108,02-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,70,02-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,200,02-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,97,02-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,131,02-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,90,02-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,1,03-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,200,03-Feb-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,100,03-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,50,03-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,50,03-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,150,03-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,96,03-Feb-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,160,03-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,150,03-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,100,04-Feb-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,350,04-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,55,04-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,50,04-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,115,04-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,156,04-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,13,04-Feb-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,52,04-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,60,04-Feb-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,172,04-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,1,05-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,200,05-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,70,05-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,70,05-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,70,05-Feb-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,6,05-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,28,05-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,131,05-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,7,05-Feb-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,434,05-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,180,06-Feb-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,97,06-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,06-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,55,06-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,352,06-Feb-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,6,06-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,716,06-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,153,06-Feb-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,160,06-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,60,06-Feb-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,162,06-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,07-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,45,07-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,440,07-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,49,07-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,200,07-Feb-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,1,08-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,377,08-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,19,09-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,09-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,55,09-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,40,09-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,100,09-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,154,09-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,132,09-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,30,09-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,10-Feb-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,10,10-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,10-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,10-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,6,10-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,31,10-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,10-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,11,10-Feb-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,16,10-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,6,10-Feb-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,29,10-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,11-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,11-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,6,11-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,17,11-Feb-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,1,11-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,41,11-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,11-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,39,11-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,6,11-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,13,12-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,12-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,12-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,10,12-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,33,12-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,19,12-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,6,12-Feb-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,34,12-Feb-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,12-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,17,13-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,13-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,10,13-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,8,13-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,29,13-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,13-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,25,14-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,14-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,6,14-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,14-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,53,14-Feb-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,14-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,14-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,50,16-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,16-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,9,16-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,10,16-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,13,16-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,16-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,33,17-Feb-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,16,17-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,18-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,12,18-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,13,18-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,19-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,19-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,93,19-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,25,19-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,11,19-Feb-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,33,19-Feb-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,15,19-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,5,20-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,20-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,20-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,5,20-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,20-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,19,20-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,30,20-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,6,20-Feb-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,6,20-Feb-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,21-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,21-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,4,21-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,23,21-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,21-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,6,21-Feb-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,25,21-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,102,22-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,23-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,23-Feb-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,10,23-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,23-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,23-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,23-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,16,23-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,13,23-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,8,23-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,24-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,2,24-Feb-2015
+Karnataka,KK,Belgaum,Nandagada,Soyabean,13,15,24-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,24-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,5,24-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,24-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,8,24-Feb-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,24,24-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,6,25-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,6,25-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,39,25-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,25-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,12,25-Feb-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,27,25-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,8,25-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,60,26-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,26-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,26-Feb-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,3,26-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,19,26-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,26-Feb-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,26-Feb-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,7,26-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,5,27-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,27-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,19,27-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,13,27-Feb-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,28-Feb-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,28-Feb-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,32,28-Feb-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,28-Feb-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,12,28-Feb-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,49,28-Feb-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,02-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,02-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,15,02-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,02-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,66,02-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,8,02-Mar-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,7,02-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,4,03-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,53,03-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,03-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,03-Mar-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,03-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,48,03-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,7,03-Mar-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,3,03-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,26,04-Mar-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,42,04-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,04-Mar-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,04-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,49,04-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,15,04-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,12,04-Mar-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,11,04-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,8,04-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,05-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,64,05-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,14,05-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,28,05-Mar-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,51,05-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,3,06-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,06-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,5,07-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,07-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,11,07-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,9,07-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,6,09-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,09-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,09-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,34,09-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,09-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,12,10-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,10-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,10-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,56,10-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,10-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,10-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,11-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,11-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,11-Mar-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,11-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,28,11-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,10,11-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,30,11-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,11-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,12-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,12-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,12-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,37,12-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,12-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,33,12-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,12-Mar-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,23,12-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,5,13-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,13-Mar-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,4,13-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,13-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,13-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,14,13-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,6,13-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,14-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,14-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,17,14-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,14-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,6,14-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,12,15-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,16-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,5,16-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,19,16-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,14,16-Mar-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,10,16-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,16-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,4,17-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,4,17-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,17-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,17-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,74,17-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,17-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,37,17-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,17-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,24,18-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,18-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,18-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,51,18-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,18-Mar-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,10,18-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,18-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,17,19-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,19-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,19-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,8,19-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,16,19-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,31,19-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,19-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,13,20-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,4,23-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,26,23-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,23-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,32,23-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,37,23-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,54,23-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,23-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,24-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,24-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,24-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,16,24-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,10,24-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,10,24-Mar-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,11,24-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,24-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,29,25-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,25-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,27,25-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,10,25-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,21,25-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,25-Mar-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,8,25-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,26-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,26-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,26-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,32,26-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,15,26-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,26-Mar-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,8,26-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,27-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,27-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,44,27-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,27-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,10,27-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,27-Mar-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,23,27-Mar-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,6,27-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,4,28-Mar-2015
+Karnataka,KK,Belgaum,Gokak,Soyabean,13,22,28-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,43,28-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,13,28-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,29-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,30-Mar-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,67,30-Mar-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,30-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,30-Mar-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,30-Mar-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,39,30-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,30-Mar-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,31-Mar-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,40,31-Mar-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,31-Mar-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,14,31-Mar-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,13,01-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,01-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,01-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,17,01-Apr-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,16,01-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,01-Apr-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,03-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,70,04-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,45,04-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,33,04-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,2419,04-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,33,05-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,26,06-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,6,06-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,49,06-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,39,06-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,6,06-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,51,06-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,07-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,07-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,11,07-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,18,07-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,07-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,131,08-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,08-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,14,08-Apr-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,35,08-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,137,09-Apr-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,8,09-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,09-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,09-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,09-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,43,09-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,13,09-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,8,09-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,42,09-Apr-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,09-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,16,10-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,10-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,57,10-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,14,10-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,45,10-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,6,10-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,34,10-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,11-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,11-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,12,11-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,22,11-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,7,11-Apr-2015
+Karnataka,KK,Belgaum,Gokak,Soyabean,13,22,12-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,46,12-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,13-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,13-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,13-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,84,13-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,31,13-Apr-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,14,13-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,13-Apr-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,14,14-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,15-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,16,15-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,15-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,15-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,79,15-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,26,15-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,20,15-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,59,15-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,73,16-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,16-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,34,16-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,17,16-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,59,16-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,8,16-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,39,16-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,17-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,23,17-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,17-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,27,17-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,17-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,16,18-Apr-2015
+Karnataka,KK,Belgaum,Gokak,Soyabean,13,22,19-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,13,19-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,6,20-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,20-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,20-Apr-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,20-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,35,20-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,26,20-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,14,20-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,15,20-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,59,20-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,33,21-Apr-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,21-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,28,22-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,23,22-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,36,22-Apr-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,12,22-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,8,22-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,24,23-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,23-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,11,23-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,51,23-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,136,23-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,10,23-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,61,23-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,67,24-Apr-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,24-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,24-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,54,24-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,11,24-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,18,24-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,71,25-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,25-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,53,25-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,52,25-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,93,25-Apr-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,18,25-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,11,25-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,12,25-Apr-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,10,25-Apr-2015
+Karnataka,KK,Belgaum,Gokak,Soyabean,13,22,26-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,27-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,34,27-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,37,27-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,30,27-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,28-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,16,28-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,39,28-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,47,28-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,58,29-Apr-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,29-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,36,29-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,29-Apr-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,20,29-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,11,29-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,14,29-Apr-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,68,30-Apr-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,30-Apr-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,8,30-Apr-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,3,30-Apr-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,86,02-May-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,8,02-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,68,02-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,46,04-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,28,04-May-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,16,04-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,65,05-May-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,6,05-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,05-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,66,05-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,26,05-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,05-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,13,05-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,30,05-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,109,06-May-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,06-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,06-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,24,06-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,06-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,13,06-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,13,06-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,15,06-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,89,07-May-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,10,07-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,07-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,26,07-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,44,07-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,25,07-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,15,07-May-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,3,08-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,13,08-May-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,7,08-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,08-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,68,08-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,08-May-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,16,08-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,22,08-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,66,08-May-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,11,09-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,67,09-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,38,09-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,15,09-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,29,11-May-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,11-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,11-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,13,11-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,11-May-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,12,11-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,11-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,44,12-May-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,8,12-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,12-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,12-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,12-May-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,13,12-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,20,12-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,25,13-May-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,6,13-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,13-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,25,13-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,13-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,18,13-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,14,13-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,28,14-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,14-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,30,14-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,14,14-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,20,14-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,100,14-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,7,15-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,15-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,35,15-May-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,17,15-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,15-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,100,15-May-2015
+Karnataka,KK,Belgaum,Nandagada,Soyabean,13,230,16-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,31,16-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,12,16-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,16-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,16-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,23,16-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,71,18-May-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,9,18-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,9,18-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,17,19-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,19-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,40,19-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,19-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,64,19-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,13,19-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,4,20-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,20-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,33,20-May-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,7,20-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,8,20-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,47,20-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,6,21-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,21-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,8,21-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,10,21-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,51,21-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,11,21-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,9,21-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,9,22-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,22-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,28,22-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,22-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,13,22-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,9,22-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,2,23-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,23-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,25,23-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,55,23-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,24-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,15,25-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,25-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,17,25-May-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,10,25-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,25-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,26-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,6,26-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,17,26-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,15,26-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,1,27-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,27-May-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,17,27-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,11,27-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,90,27-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,1,28-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,28-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,28-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,9,28-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,11,28-May-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,20,28-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,29-May-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,7,29-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,13,29-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,7,29-May-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,30-May-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,30-May-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,30-May-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,13,30-May-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,35,30-May-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,17,01-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,01-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,11,01-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,11,01-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,01-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,13,01-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,16,02-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,02-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,9,03-Jun-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,36,03-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,43,03-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,03-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,7,03-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,9,04-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,11,04-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,10,04-Jun-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,39,04-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,27,05-Jun-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,05-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,21,05-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,31,05-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,10,05-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,1,06-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,06-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,30,06-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,22,06-Jun-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,9,06-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,10,06-Jun-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,5,07-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,19,08-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,13,08-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,08-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,41,08-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,08-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,5,09-Jun-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,2,09-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,25,09-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,09-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,13,09-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,09-Jun-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,50,09-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,10-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,10-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,10-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,10-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,2,11-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,42,11-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,11-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,22,11-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,11-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,12-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,13-Jun-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,13-Jun-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,1,13-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,13-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,10,13-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,13-Jun-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,15-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,15-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,56,15-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,15-Jun-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,16,15-Jun-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,15-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,6,16-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,3,16-Jun-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,17-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,44,17-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,17-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,7,17-Jun-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,20,17-Jun-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,18-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,7,18-Jun-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,17,18-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,2,19-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,9,19-Jun-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,19-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,19-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,20-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,20-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,20-Jun-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,36,20-Jun-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,21,20-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,21-Jun-2015
+Karnataka,KK,Bagalkot,Jamakhandi,Soyabean,13,9,22-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,22-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,22-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,22-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,23-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,6,23-Jun-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,23-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,12,23-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,23-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,2,24-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,24-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,6,24-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,6,24-Jun-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,30,24-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,39,25-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,25-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,30,25-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,7,25-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,27-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,27-Jun-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,2,29-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,29-Jun-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,15,29-Jun-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,29-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,93,29-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,29-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,30-Jun-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,30-Jun-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,28,30-Jun-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,30-Jun-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,01-Jul-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,01-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,01-Jul-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,1,02-Jul-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,02-Jul-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,02-Jul-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,02-Jul-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,7,03-Jul-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,03-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,03-Jul-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,3,04-Jul-2015
+Karnataka,KK,Belgaum,Gokak,Soyabean,13,5,04-Jul-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,04-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,04-Jul-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,13,06-Jul-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,40,06-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,07-Jul-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,69,07-Jul-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,14,07-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,07-Jul-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,10,07-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,08-Jul-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,08-Jul-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,95,08-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,6,08-Jul-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,39,09-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,09-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,10-Jul-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,10-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,10-Jul-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,3,11-Jul-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,11-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,11-Jul-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,1,13-Jul-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,13-Jul-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,8,14-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,14-Jul-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,14-Jul-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,14-Jul-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,23,14-Jul-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,14-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,14-Jul-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,15-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,15-Jul-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,14,16-Jul-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,16-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,17-Jul-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,33,17-Jul-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,16,17-Jul-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,5,20-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,20-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,21-Jul-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,35,21-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,21-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,22-Jul-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,22-Jul-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,43,22-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,5,22-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,23-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,24-Jul-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,25,24-Jul-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,11,24-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,24-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,25-Jul-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,25-Jul-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,25-Jul-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,25-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,27-Jul-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,27-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,27-Jul-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,21,28-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,4,28-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,29-Jul-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,29-Jul-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,29-Jul-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,29-Jul-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,17,29-Jul-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,33,29-Jul-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,30-Jul-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,30-Jul-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,30-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,30-Jul-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,31-Jul-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,4,03-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,03-Aug-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,03-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,03-Aug-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,2,04-Aug-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,04-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,04-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,3,05-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,05-Aug-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,05-Aug-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,05-Aug-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,05-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,05-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,06-Aug-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,06-Aug-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,06-Aug-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,11,06-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,06-Aug-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,07-Aug-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,11,07-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,07-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,08-Aug-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,08-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,08-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,10-Aug-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,10-Aug-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,13,10-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,10-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,11-Aug-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,11-Aug-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,11-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,11-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,12-Aug-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,1,12-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,12-Aug-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,2,13-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,13-Aug-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,1,13-Aug-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,13-Aug-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,17,13-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,13-Aug-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,23,17-Aug-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,17-Aug-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,17-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,17-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,18-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,18-Aug-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,20-Aug-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,20-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,20-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,21-Aug-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,21-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,21-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,22-Aug-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,27,24-Aug-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,24-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,24-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,25-Aug-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,25-Aug-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,25-Aug-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,12,25-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,25-Aug-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,13,26-Aug-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,18,26-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,26-Aug-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,18,26-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,27-Aug-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,1,28-Aug-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,21,28-Aug-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,11,28-Aug-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,28-Aug-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,12,31-Aug-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,31-Aug-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,01-Sep-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,11,02-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,03-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,03-Sep-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,03-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,03-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,6,04-Sep-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,1,04-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,04-Sep-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,04-Sep-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,04-Sep-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,04-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,04-Sep-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,13,05-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,4,07-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,07-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,08-Sep-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,10,08-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,08-Sep-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,13,09-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,09-Sep-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,37,09-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,09-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,10-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,10-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,11-Sep-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,11-Sep-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,12,11-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,11-Sep-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,12-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,12-Sep-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,12,13-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,23,14-Sep-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,52,14-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,14-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,1,15-Sep-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,82,15-Sep-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,10,15-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,15-Sep-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,11,15-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,15-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,1,16-Sep-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,31,16-Sep-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,3,16-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,7,16-Sep-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,15,16-Sep-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,13,16-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,16-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,50,18-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,18-Sep-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,20,18-Sep-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,18-Sep-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,15,19-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,19-Sep-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,19-Sep-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,19-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,25,21-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,21-Sep-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,21-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,67,22-Sep-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,4,22-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,22-Sep-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,22-Sep-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,22-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,96,23-Sep-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,115,23-Sep-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,72,23-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,23-Sep-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,3,23-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,23-Sep-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,16,23-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,79,24-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,24-Sep-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,3,24-Sep-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,24-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,24-Sep-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,17,25-Sep-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,39,26-Sep-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,39,26-Sep-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,15,26-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,99,28-Sep-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,27,28-Sep-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,78,28-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,11,28-Sep-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,15,28-Sep-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,13,28-Sep-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,11,28-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,28-Sep-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,21,28-Sep-2015
+Karnataka,KK,Bagalkot,Jamakhandi,Soyabean,13,8,29-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,85,29-Sep-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,35,29-Sep-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,40,29-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,9,29-Sep-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,35,29-Sep-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,29-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,29-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,141,30-Sep-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,12,30-Sep-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,446,30-Sep-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,30-Sep-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,36,30-Sep-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,30-Sep-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,30-Sep-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,35,01-Oct-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,10,01-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,9,01-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,35,01-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,37,01-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,01-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,01-Oct-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,2,01-Oct-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,12,03-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,15,03-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,55,03-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,35,03-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,12,03-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,12,03-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,03-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,12,04-Oct-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,352,05-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,28,05-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,35,05-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,11,05-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,05-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,52,05-Oct-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,2,05-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,93,06-Oct-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,529,06-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,23,06-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,7,06-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,40,06-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,06-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,06-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,68,06-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,68,07-Oct-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,318,07-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,30,07-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,6,07-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,85,07-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,18,07-Oct-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,11,07-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,07-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,61,07-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,170,08-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,9,08-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,08-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,08-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,08-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,100,09-Oct-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,8,09-Oct-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,47,09-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,18,09-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,81,09-Oct-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,10,09-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,18,09-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,13,09-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,09-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,8,09-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,26,10-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,7,10-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,83,10-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,33,10-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,17,10-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,3,10-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,17,11-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,7,12-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,326,13-Oct-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,28,13-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,78,13-Oct-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,6,13-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,35,13-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,13-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,13-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,84,14-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,23,14-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,81,14-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,15,14-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,13,14-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,33,14-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,20,14-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,94,14-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,53,15-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,24,15-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,8,15-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,125,15-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,16,15-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,21,15-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,25,15-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,52,16-Oct-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,40,16-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,28,16-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,10,16-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,105,16-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,20,16-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,24,16-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,31,16-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,36,16-Oct-2015
+Karnataka,KK,Haveri,Ranebennur,Soyabean,13,38,16-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,59,17-Oct-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,548,17-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,28,17-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,7,17-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,85,17-Oct-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,5,17-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,11,17-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,32,17-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,45,17-Oct-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,6,18-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,26,18-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,60,19-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,24,19-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,9,19-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,105,19-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,23,19-Oct-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,14,19-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,35,19-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,18,19-Oct-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,2,19-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,20-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,84,20-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,32,20-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,7,20-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,50,20-Oct-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,7,20-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,12,20-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,20-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,18,20-Oct-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,20-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,43,20-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,63,20-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,112,21-Oct-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,418,21-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,21-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,40,21-Oct-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,3,21-Oct-2015
+Karnataka,KK,Haveri,Ranebennur,Soyabean,13,17,22-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,23,25-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,80,26-Oct-2015
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,30,26-Oct-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,137,26-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,75,26-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,14,26-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,33,26-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,35,26-Oct-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,26-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,62,28-Oct-2015
+Karnataka,KK,Belgaum,Soundati,Soyabean,13,4,28-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,6,28-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,102,28-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,68,28-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,30,28-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,54,28-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,40,29-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,195,29-Oct-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,5,29-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,14,29-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,29-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,36,29-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,88,30-Oct-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,43,30-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,23,30-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,30-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,50,30-Oct-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,6,30-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,30,30-Oct-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,30-Oct-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,29,30-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,45,30-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,31-Oct-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,320,31-Oct-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,31-Oct-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,45,31-Oct-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,90,31-Oct-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,31-Oct-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,46,31-Oct-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,41,31-Oct-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,29,02-Nov-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,16,02-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,26,02-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,8,02-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,41,02-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,84,02-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,26,02-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,7,02-Nov-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,23,02-Nov-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,02-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,21,03-Nov-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,688,03-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,26,03-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,7,03-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,31,03-Nov-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,5,03-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,46,03-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,03-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,29,03-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,14,04-Nov-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,198,04-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,28,04-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,8,04-Nov-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,7,04-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,12,04-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,04-Nov-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,6,04-Nov-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,17,04-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,34,05-Nov-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,57,05-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,21,05-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,38,05-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,05-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,58,05-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,43,06-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,2,06-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,10,06-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,28,06-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,26,07-Nov-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,10,07-Nov-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,8,07-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,07-Nov-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,10,07-Nov-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,17,07-Nov-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,5,08-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,23,08-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,39,09-Nov-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,1,09-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,55,09-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,09-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,7,09-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,6,11-Nov-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,16,11-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,25,12-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,12-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,13-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,24,13-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,121,13-Nov-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,6,13-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,19,13-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,23,13-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,65,13-Nov-2015
+Karnataka,KK,Haveri,Hanagal,Soyabean,13,10,13-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,25,14-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,85,14-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,12,14-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,66,14-Nov-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,3,15-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,15-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,12,16-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,45,16-Nov-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,535,16-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,23,16-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,51,16-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,16,16-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,36,16-Nov-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,5,16-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,65,16-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,55,17-Nov-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,107,17-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,22,17-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,6,17-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,22,17-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,12,17-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,6,17-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,76,17-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,42,18-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,22,18-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,44,18-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,18-Nov-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,24,18-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,1,18-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,53,19-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,9,19-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,19-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,106,19-Nov-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,3,19-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,25,19-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,19-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,57,19-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,15,19-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,20-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,14,20-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,20-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,45,20-Nov-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,1,20-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,20,20-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,20-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,20-Nov-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,6,20-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,30,20-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,21-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,21-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,75,21-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,24,21-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,21-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,19,21-Nov-2015
+Karnataka,KK,Gadag,Gadag,Soyabean,13,1,21-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,31,21-Nov-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,7,22-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,23-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,15,23-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,41,23-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,11,23-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,23-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,24,23-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,2,23-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,11,24-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,24-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,21,24-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,22,24-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,24-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,20,24-Nov-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,48,24-Nov-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,27,25-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,11,25-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,30,25-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,25-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,25-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,52,25-Nov-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,10,26-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,8,26-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,26-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,30,26-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,26-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,35,26-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,12,27-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,27-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,25,27-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,17,27-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,27-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,38,27-Nov-2015
+Karnataka,KK,Haveri,Hanagal,Soyabean,13,45,27-Nov-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,35,27-Nov-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,6,28-Nov-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,11,28-Nov-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,3,29-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,6,30-Nov-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,10,30-Nov-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,30-Nov-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,55,30-Nov-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,51,30-Nov-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,30-Nov-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,35,30-Nov-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,13,30-Nov-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,30-Nov-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,96,01-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,9,01-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,01-Dec-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,50,01-Dec-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,4,01-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,54,01-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,01-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,27,01-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,40,01-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,32,02-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,11,02-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,02-Dec-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,27,02-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,02-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,6,02-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,45,02-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,33,03-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,7,03-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,03-Dec-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,35,03-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,60,03-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,03-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,46,03-Dec-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,11,03-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,45,03-Dec-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,2,03-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,23,04-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,8,04-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,04-Dec-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,31,04-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,04-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,38,04-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,24,05-Dec-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,152,05-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,05-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,05-Dec-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,25,05-Dec-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,3,05-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,16,05-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,05-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,17,05-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,38,05-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,05-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,14,06-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,7,07-Dec-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,9,07-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,07-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,07-Dec-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,21,07-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,07-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,28,07-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,45,07-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,3,07-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,12,08-Dec-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,227,08-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,08-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,08-Dec-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,25,08-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,29,08-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,08-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,10,08-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,45,08-Dec-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,19,08-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,08-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,25,09-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,09-Dec-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,4,09-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,09-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,09-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,35,09-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,5,10-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,10-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,10-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,14,10-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,13,10-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,30,10-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,2,10-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,21,12-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,12-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,12-Dec-2015
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,3,12-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,40,12-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,18,12-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,21,12-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,31,12-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,24,14-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,14-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,5,14-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,12,14-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,17,14-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,35,14-Dec-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,45,14-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,4,14-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,22,15-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,2,15-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,2,15-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,15-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,36,15-Dec-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,28,15-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,15-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,16-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,16-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,16-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,38,16-Dec-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,14,16-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,5,17-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,22,17-Dec-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,132,17-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,17-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,12,17-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,40,17-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,5,17-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,18-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,18-Dec-2015
+Karnataka,KK,Bidar,Bidar,Soyabean,13,7,18-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,23,18-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,18-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,22,18-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,105,18-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,19-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,4,19-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,17,19-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,19-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,14,19-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,106,19-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,24,21-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,21-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,21-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,21-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,27,21-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,38,21-Dec-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,33,21-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,4,21-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,3,22-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,31,22-Dec-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,1,22-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,22-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,3,22-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,29,22-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,35,22-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,22-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,23-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,23-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,23-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,2,23-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,31,23-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,23-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,23,24-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,38,24-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,16,26-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,26-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,43,26-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,26-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,26-Dec-2015
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,28,28-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,28-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,5,28-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,12,28-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,23,28-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,11,28-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,25,28-Dec-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,87,28-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,7,28-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,29-Dec-2015
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,12,29-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,29-Dec-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,25,29-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,21,29-Dec-2015
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,Soyabean,13,16,29-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,30-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,30-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,30-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,17,30-Dec-2015
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,15,30-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,21,30-Dec-2015
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,64,31-Dec-2015
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,31-Dec-2015
+Karnataka,KK,Bidar,Bhalki,Soyabean,13,3,31-Dec-2015
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,31-Dec-2015
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,38,31-Dec-2015
+Karnataka,KK,Gulbarga,Gulbarga,Soyabean,13,28,31-Dec-2015
+Karnataka,KK,Haveri,Haveri,Soyabean,13,64,31-Dec-2015
+Karnataka,KK,Haveri,Savanur,Soyabean,13,3,31-Dec-2015

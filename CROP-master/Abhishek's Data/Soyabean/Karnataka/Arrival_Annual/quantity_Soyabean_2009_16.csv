@@ -1,0 +1,639 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,05-Jan-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,06-Jan-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,07-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,10,07-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,108,07-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,08-Jan-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,09-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,09-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,8,09-Jan-2009
+Karnataka,KK,Shimoga,Sagar,Soyabean,13,193.9,09-Jan-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,10-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,14,10-Jan-2009
+Karnataka,KK,Shimoga,Sagar,Soyabean,13,91.2,10-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,40,12-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,12-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,70,12-Jan-2009
+Karnataka,KK,Shimoga,Sagar,Soyabean,13,34,12-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,160,13-Jan-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,5,13-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,13-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,13-Jan-2009
+Karnataka,KK,Shimoga,Sagar,Soyabean,13,198.2,13-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,60,15-Jan-2009
+Karnataka,KK,Shimoga,Sagar,Soyabean,13,93.8,15-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,170,16-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,16-Jan-2009
+Karnataka,KK,Shimoga,Sagar,Soyabean,13,225,16-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,135,17-Jan-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,5,17-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,17,17-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,17-Jan-2009
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,7,17-Jan-2009
+Karnataka,KK,Shimoga,Sagar,Soyabean,13,211.5,17-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,210,19-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,19-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,47,19-Jan-2009
+Karnataka,KK,Shimoga,Sagar,Soyabean,13,260.5,19-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,98,20-Jan-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,6,20-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,20-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,54,20-Jan-2009
+Karnataka,KK,Shimoga,Sagar,Soyabean,13,211.3,20-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,100,21-Jan-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,21-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,40,21-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,90,22-Jan-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,22-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,22-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,90,23-Jan-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,23-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,23-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,120,24-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,29,24-Jan-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,24-Jan-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,5,27-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,85,27-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,27-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,8,27-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,40,28-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,28-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,62,28-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,40,29-Jan-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,29-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,29-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,30-Jan-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,30-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,38,30-Jan-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,31-Jan-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,31-Jan-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,31-Jan-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,266,31-Jan-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,3,31-Jan-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,70,02-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,02-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,02-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,02-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,37,03-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,03-Feb-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,2,03-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,03-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,5,03-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,46,04-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,04-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,04-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,64,04-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,16,05-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,05-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,9,05-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,18,06-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,06-Feb-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,2,06-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,06-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,7,06-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,25,07-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,14,07-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,07-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,93,08-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,35,09-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,09-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,25,10-Feb-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,4,10-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,10-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,45,11-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,11-Feb-2009
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,1,11-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,40,12-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,16,12-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,93,12-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,50,13-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,13-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,13-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,13-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,45,14-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,14-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,14-Feb-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,16-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,35,16-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,6,16-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,64,16-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,17-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,17-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,17-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,18-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,18-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,23,18-Feb-2009
+Karnataka,KK,Haveri,Hanagal,Soyabean,13,32,18-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,19-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,19-Feb-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,19-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,20-Feb-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,1,20-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,118,20-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,21-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,21-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,21-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,24-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,24-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,25-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,25-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,25-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,26-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,26-Feb-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,27-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,80,28-Feb-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,28-Feb-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,116,28-Feb-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,50,02-Mar-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,02-Mar-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,02-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,02-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,40,03-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,24,03-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,04-Mar-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,04-Mar-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,04-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,40,04-Mar-2009
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,4,04-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,24,05-Mar-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,05-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,40,06-Mar-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,06-Mar-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,06-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,31,06-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,58,07-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,49,10-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,100,11-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,59,11-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,24,13-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,106,13-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,14-Mar-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,14-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,31,14-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,70,16-Mar-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,16-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,115,17-Mar-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,17-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,22,17-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,100,18-Mar-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,18-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,57,19-Mar-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,19-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,29,19-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,40,20-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,8,20-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,40,21-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,21-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,50,23-Mar-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,23-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,23-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,60,24-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,98,24-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,56,25-Mar-2009
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,4,25-Mar-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,28-Mar-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,28-Mar-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,31,28-Mar-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,30-Mar-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,30-Mar-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,31-Mar-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,01-Apr-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,02-Apr-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,11,02-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,02-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,03-Apr-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,100,06-Apr-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,16,06-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,8,06-Apr-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,07-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,102,07-Apr-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,50,08-Apr-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,09-Apr-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,11-Apr-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,80,13-Apr-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,13-Apr-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,70,15-Apr-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,21,15-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,136,15-Apr-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,5,16-Apr-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,85,16-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,40,16-Apr-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,16-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,5,17-Apr-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,18-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,23,18-Apr-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,80,20-Apr-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,100,21-Apr-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,21-Apr-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,60,22-Apr-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,23-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,167,23-Apr-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,15,24-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,156,24-Apr-2009
+Karnataka,KK,Belgaum,Gokak,Soyabean,13,34,25-Apr-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,10,25-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,25-Apr-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,28-Apr-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,29-Apr-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,02-May-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,47,02-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,50,04-May-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,04-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,55,05-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,25,06-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,8,07-May-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,08-May-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,12-May-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,15-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,1,16-May-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,16-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,25,18-May-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,19,18-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,20-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,21-May-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,171,21-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,22-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,23-May-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,23-May-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,66,23-May-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,25-May-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,25-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,27-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,28-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,29-May-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,27,29-May-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,9,30-May-2009
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,1,01-Jun-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,01-Jun-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,03-Jun-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,05-Jun-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,27,05-Jun-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,06-Jun-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,09-Jun-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,09-Jun-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,10-Jun-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,11-Jun-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,12-Jun-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,31,12-Jun-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,18,13-Jun-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,15-Jun-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,15-Jun-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,16-Jun-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,17-Jun-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,18-Jun-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,35,19-Jun-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,20-Jun-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,20-Jun-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,68,20-Jun-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,22-Jun-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,23-Jun-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,24-Jun-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,25-Jun-2009
+Karnataka,KK,Dharwad,Kundagol,Soyabean,13,3,26-Jun-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,30-Jun-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,7,01-Jul-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,8,01-Jul-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,53,02-Jul-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,03-Jul-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,4,07-Jul-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,24,07-Jul-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,9,08-Jul-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,25,09-Jul-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,10-Jul-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,13-Jul-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,23-Jul-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,27-Jul-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,14,27-Jul-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,4,28-Jul-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,24,28-Jul-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,14,29-Jul-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,30-Jul-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,92,07-Aug-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,13,10-Aug-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,9,12-Aug-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,30,14-Aug-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,19-Aug-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,13,24-Aug-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,2,01-Sep-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,07-Sep-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,1,07-Sep-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,25,07-Sep-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,22,14-Sep-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,44,16-Sep-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,16-Sep-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,12,18-Sep-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,3,22-Sep-2009
+Karnataka,KK,Bagalkot,Jamakhandi,Soyabean,13,14,23-Sep-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,91,01-Oct-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,01-Oct-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,8,01-Oct-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,03-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,51,03-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,9,03-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,37,05-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,18,05-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,12,06-Oct-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,1,07-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,40,07-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,6,07-Oct-2009
+Karnataka,KK,Bidar,Aurad,Soyabean,13,10,07-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,45,08-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,50,09-Oct-2009
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,3,09-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,31,09-Oct-2009
+Karnataka,KK,Bagalkot,Jamakhandi,Soyabean,13,12,10-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,45,10-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,24,10-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,10-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,55,11-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,68,12-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,32,12-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,12-Oct-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,12-Oct-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,12-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,2.4,12-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,51,13-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,53,13-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,67,14-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,47,14-Oct-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,14-Oct-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,14-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,0.1,14-Oct-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,15-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,58,15-Oct-2009
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,3,15-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,11,15-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,11.7,15-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,165,16-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,26,16-Oct-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,16-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,80,17-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,8.4,18-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,75,19-Oct-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,12,19-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,29.8,19-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,74,20-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,16,20-Oct-2009
+Karnataka,KK,Bidar,Aurad,Soyabean,13,3,20-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,9,20-Oct-2009
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,1,20-Oct-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,20-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,90.1,20-Oct-2009
+Karnataka,KK,Bagalkot,Jamakhandi,Soyabean,13,9,21-Oct-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,21-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,67,21-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,27,21-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,15,21-Oct-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,19,21-Oct-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,21-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,30.5,21-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,81,22-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,31,22-Oct-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,22-Oct-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,2,22-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,90,23-Oct-2009
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,4,23-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,130,23-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,13,23-Oct-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,6,23-Oct-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,23-Oct-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,23-Oct-2009
+Karnataka,KK,Bagalkot,Jamakhandi,Soyabean,13,12,24-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,77,24-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,17,24-Oct-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,5,24-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,80.3,24-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,41.8,25-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,100,26-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,178,26-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,26,26-Oct-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,5,26-Oct-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,26-Oct-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,26-Oct-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,26-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,174.2,26-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,110,27-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,35,27-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,19,27-Oct-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,9,27-Oct-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,27-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,95.1,27-Oct-2009
+Karnataka,KK,Bagalkot,Jamakhandi,Soyabean,13,8,28-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,70,28-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,25,28-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,20,28-Oct-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,5,28-Oct-2009
+Karnataka,KK,Mangalore(Dakshin Kannad),Sulya,Soyabean,13,148.9,28-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,29-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,16,29-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,15,29-Oct-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,29-Oct-2009
+Karnataka,KK,Bidar,Humanabad,Soyabean,13,1,29-Oct-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,29-Oct-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,29-Oct-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,2,29-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,60,30-Oct-2009
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,1,30-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,11,30-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,11,30-Oct-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,30-Oct-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,30-Oct-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,31-Oct-2009
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,1,31-Oct-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,20,31-Oct-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,22,31-Oct-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,31-Oct-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,31-Oct-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,31-Oct-2009
+Karnataka,KK,Bagalkot,Jamakhandi,Soyabean,13,12,02-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,29,02-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,15,02-Nov-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,02-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,03-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,9,03-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,20,03-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,8,03-Nov-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,03-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,03-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,42,04-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,42,04-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,15,04-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,04-Nov-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,32,04-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,70,06-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,26,06-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,22,06-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,06-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,06-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,09-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,7,09-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,22,09-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,4,09-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,10,09-Nov-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,09-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,10,10-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,15,10-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,11,10-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,2,11-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,12,11-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,4,11-Nov-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,11-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,12-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,9,12-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,12-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,12-Nov-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,12-Nov-2009
+Karnataka,KK,Bagalkot,Jamakhandi,Soyabean,13,6,13-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,13-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,7,13-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,10,13-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,13-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,13-Nov-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,79,13-Nov-2009
+Karnataka,KK,Gadag,Laxmeshwar,Soyabean,13,1,13-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,14-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,13,14-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,14-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,8,14-Nov-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,14-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,16-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,18,16-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,17-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,12,17-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,17-Nov-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,6,17-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,17-Nov-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,17-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,35,19-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,9,19-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,8,19-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,19-Nov-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,10,19-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,19-Nov-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,19-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,20-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,8,20-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,9,20-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,20-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,20-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,45,21-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,7,21-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,6,21-Nov-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,21-Nov-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,21-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,23-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,32,23-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,7,23-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,1,23-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,23-Nov-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,2,23-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,35,25-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,4,25-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,25-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,25-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,28,26-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,4,26-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,26-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,2,26-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,26-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,27-Nov-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,15,27-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,27-Nov-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,3,27-Nov-2009
+Karnataka,KK,Haveri,Haveri,Soyabean,13,34,27-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,28-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,30,30-Nov-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,8,30-Nov-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,30-Nov-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,01-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,01-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,01-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,6,01-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,02-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,5,02-Dec-2009
+Karnataka,KK,Bidar,Bidar,Soyabean,13,4,03-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,5,03-Dec-2009
+Karnataka,KK,Belgaum,Nippani,Soyabean,13,1,04-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,05-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,6,05-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,4,05-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,3,05-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,15,07-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,07-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,3,07-Dec-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,08-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,09-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,13,10-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,6,10-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,11-Dec-2009
+Karnataka,KK,Bidar,Aurad,Soyabean,13,3,11-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,4,11-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,11-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,12-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,12-Dec-2009
+Karnataka,KK,Bidar,Aurad,Soyabean,13,3,14-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,14-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,24,14-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,6,14-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,15-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,15-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,2,15-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,18,16-Dec-2009
+Karnataka,KK,Belgaum,Sankeshwar,Soyabean,13,9,16-Dec-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,46,16-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,17-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,23,17-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,103,17-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,20,18-Dec-2009
+Karnataka,KK,Bidar,Aurad,Soyabean,13,3,18-Dec-2009
+Karnataka,KK,Haveri,Haveri,Soyabean,13,55,18-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,19-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,7,19-Dec-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,15,19-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,6,19-Dec-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,1,21-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,17,21-Dec-2009
+Karnataka,KK,Bidar,Aurad,Soyabean,13,2,21-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,21-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,19,21-Dec-2009
+Karnataka,KK,Haveri,Haveri,Soyabean,13,95,21-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,36,21-Dec-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,2,22-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,18,22-Dec-2009
+Karnataka,KK,Bidar,Aurad,Soyabean,13,5,22-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,22-Dec-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,52,22-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,1,22-Dec-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,22-Dec-2009
+Karnataka,KK,Bangalore,Bangalore,Soyabean,13,1,23-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,12,23-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,3,23-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,24-Dec-2009
+Karnataka,KK,Bidar,Aurad,Soyabean,13,1,24-Dec-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,6,24-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,24-Dec-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,63,24-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,9,24-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,7,26-Dec-2009
+Karnataka,KK,Bidar,Aurad,Soyabean,13,2,26-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,6,26-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,18,26-Dec-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,63,26-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,7,26-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,6,29-Dec-2009
+Karnataka,KK,Bidar,Aurad,Soyabean,13,3,29-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,1,29-Dec-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,4,29-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,12,29-Dec-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,16,29-Dec-2009
+Karnataka,KK,Haveri,Savanur,Soyabean,13,1,29-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,10,30-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,3,30-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,30-Dec-2009
+Karnataka,KK,Belgaum,Bailahongal,Soyabean,13,6,31-Dec-2009
+Karnataka,KK,Bidar,Basava Kalayana,Soyabean,13,2,31-Dec-2009
+Karnataka,KK,Dharwad,Dharwar,Soyabean,13,16,31-Dec-2009
+Karnataka,KK,Dharwad,Hubli (Amaragol),Soyabean,13,2,31-Dec-2009
+Karnataka,KK,Dharwad,Kalagategi,Soyabean,13,47,31-Dec-2009
+Karnataka,KK,Haveri,Haveri,Soyabean,13,37,31-Dec-2009

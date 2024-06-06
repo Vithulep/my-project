@@ -1,0 +1,76 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,164,01-Jan-2016
+Karnataka,KK,Hassan,Arasikere,Arhar,260,4,01-Jan-2016
+Karnataka,KK,Madikeri(Kodagu),Madikeri,Arhar,260,1,01-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,01-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,217,02-Jan-2016
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,02-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,22,02-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,442,04-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,8,04-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,249,05-Jan-2016
+Karnataka,KK,Bangalore,Hoskote,Arhar,260,10,05-Jan-2016
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,23,05-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,219,06-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,265,08-Jan-2016
+Karnataka,KK,Davangere,Davangere,Arhar,260,1,08-Jan-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,08-Jan-2016
+Karnataka,KK,Tumkur,Tumkur,Arhar,260,1,08-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,673,11-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,27,11-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,187,12-Jan-2016
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,12-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,48,12-Jan-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,12-Jan-2016
+Karnataka,KK,Udupi,Kundapura,Arhar,260,2,12-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,261,13-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,54,13-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,139,14-Jan-2016
+Karnataka,KK,Davangere,Davangere,Arhar,260,1,14-Jan-2016
+Karnataka,KK,Hassan,Arasikere,Arhar,260,4,14-Jan-2016
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,19,14-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,29,14-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,448,16-Jan-2016
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,14,16-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,46,16-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,209,18-Jan-2016
+Karnataka,KK,Hassan,Hassan,Arhar,260,15,18-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,29,18-Jan-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,18-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,199,19-Jan-2016
+Karnataka,KK,Bangalore,Hoskote,Arhar,260,9,19-Jan-2016
+Karnataka,KK,Tumkur,Tumkur,Arhar,260,2,19-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,54,20-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,25,20-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,56,21-Jan-2016
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,21-Jan-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,21-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,72,23-Jan-2016
+Karnataka,KK,Hassan,Hassan,Arhar,260,12,23-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,14,23-Jan-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,309,25-Jan-2016
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,06-Feb-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,264,08-Feb-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,08-Feb-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,229,12-Feb-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,12-Feb-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,489,15-Feb-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,15-Feb-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,177,16-Feb-2016
+Karnataka,KK,Udupi,Kundapura,Arhar,260,3,16-Feb-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,67,17-Feb-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,17-Feb-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,87,18-Feb-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,18-Feb-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,130,19-Feb-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,19-Feb-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,116,20-Feb-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,20-Feb-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,308,22-Feb-2016
+Karnataka,KK,Hassan,Arasikere,Arhar,260,4,22-Feb-2016
+Karnataka,KK,Udupi,Kundapura,Arhar,260,2,22-Feb-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,196,23-Feb-2016
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,23-Feb-2016
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,23-Feb-2016
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,40,24-Feb-2016
+Karnataka,KK,Hassan,Arasikere,Arhar,260,8,24-Feb-2016

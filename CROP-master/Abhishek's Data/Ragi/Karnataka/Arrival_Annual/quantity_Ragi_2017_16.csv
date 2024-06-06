@@ -1,0 +1,2401 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,10,01-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,02-Jan-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,02-Jan-2017
+Karnataka,KK,Chitradurga,Hiriyur,Ragi,30,21,02-Jan-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,02-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,4,02-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,03-Jan-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,03-Jan-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,42,03-Jan-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,17,03-Jan-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,10,03-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,04-Jan-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,12,04-Jan-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,10,04-Jan-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,30,04-Jan-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,2,04-Jan-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,04-Jan-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,12,04-Jan-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,4,04-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,5,05-Jan-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,56,05-Jan-2017
+Karnataka,KK,Kolar,Kolar,Ragi,30,1,05-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,05-Jan-2017
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,3,05-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,40,05-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,06-Jan-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,10,06-Jan-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,21,06-Jan-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,06-Jan-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,24,06-Jan-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,12,06-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,12,06-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,07-Jan-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,3,07-Jan-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,07-Jan-2017
+Karnataka,KK,Mysore,Nanjangud,Ragi,30,5,07-Jan-2017
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,07-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,23,07-Jan-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,08-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,09-Jan-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,3,09-Jan-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,09-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,09-Jan-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,20,09-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,23,09-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,10-Jan-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,10-Jan-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,2,10-Jan-2017
+Karnataka,KK,Haveri,Haveri,Ragi,30,7,10-Jan-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,10-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,10-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,10-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,11-Jan-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,6,11-Jan-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,13,11-Jan-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,11-Jan-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,4,11-Jan-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,2,11-Jan-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,3,11-Jan-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,11-Jan-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,11-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,11-Jan-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,11-Jan-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,12,11-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,47,11-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,10,12-Jan-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,8,12-Jan-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,4,12-Jan-2017
+Karnataka,KK,Kolar,Kolar,Ragi,30,1,12-Jan-2017
+Karnataka,KK,Mandya,Maddur,Ragi,30,7319,12-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,12-Jan-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,12-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,13-Jan-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,42,13-Jan-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2815,13-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,13-Jan-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,6,13-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,38,13-Jan-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,15-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,16-Jan-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,15,16-Jan-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,5,16-Jan-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,24,16-Jan-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,16-Jan-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,16-Jan-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,16-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,17-Jan-2017
+Karnataka,KK,Belgaum,Sankeshwar,Ragi,30,17,17-Jan-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,2,17-Jan-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,17-Jan-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,17-Jan-2017
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,3344,17-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,17-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,17-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,18-Jan-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,12,18-Jan-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,40,18-Jan-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,26,18-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,2,19-Jan-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,19-Jan-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,10,19-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,16,19-Jan-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,20-Jan-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,46,20-Jan-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,20-Jan-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,21-Jan-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,23-Jan-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,19,23-Jan-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,23-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,23-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,24-Jan-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,6,24-Jan-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,24-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,20,24-Jan-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,5,24-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,3,24-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,25-Jan-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,13,25-Jan-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,9,25-Jan-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,2,25-Jan-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,4,25-Jan-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,24,25-Jan-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,10,25-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,34,25-Jan-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,4,25-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,25-Jan-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,26-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,27-Jan-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,27-Jan-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,27-Jan-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,12,27-Jan-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,148,27-Jan-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,7,27-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,27-Jan-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,27-Jan-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,27-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,28-Jan-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,4,28-Jan-2017
+Karnataka,KK,Chitradurga,Hiriyur,Ragi,30,9,28-Jan-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,28-Jan-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,26,28-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,30,28-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,17,28-Jan-2017
+Karnataka,KK,Chitradurga,Hiriyur,Ragi,30,34,29-Jan-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,29-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,34,30-Jan-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,30-Jan-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,25,30-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,30-Jan-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,25,30-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,30-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,31-Jan-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,31-Jan-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,31-Jan-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,11,31-Jan-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,31-Jan-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,31-Jan-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,31-Jan-2017
+Karnataka,KK,Haveri,Haveri,Ragi,30,9,31-Jan-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,9,31-Jan-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,31-Jan-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,31-Jan-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,9,31-Jan-2017
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,43,31-Jan-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,13,31-Jan-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,01-Feb-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,29,01-Feb-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,30,01-Feb-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,10,01-Feb-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,01-Feb-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,5,01-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,24,01-Feb-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,16,01-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,02-Feb-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,6,02-Feb-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,4,02-Feb-2017
+Karnataka,KK,Chitradurga,Hiriyur,Ragi,30,20,02-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,02-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,03-Feb-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,11,03-Feb-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,03-Feb-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,2,03-Feb-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,48,03-Feb-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,7,03-Feb-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,03-Feb-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,38,03-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,04-Feb-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,14,04-Feb-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,04-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,04-Feb-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,04-Feb-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,04-Feb-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,8,05-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,06-Feb-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,06-Feb-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,06-Feb-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,14,06-Feb-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,3,06-Feb-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,35,06-Feb-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,6330,06-Feb-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,14,06-Feb-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,20,06-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,07-Feb-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,07-Feb-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,15,07-Feb-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,8,07-Feb-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,9,07-Feb-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,36,07-Feb-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,07-Feb-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,07-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,07-Feb-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,07-Feb-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,3,07-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,08-Feb-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,11,08-Feb-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,08-Feb-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,1,08-Feb-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,10,08-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,08-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,09-Feb-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,09-Feb-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,3,09-Feb-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,7,09-Feb-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,09-Feb-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,7,09-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,17,09-Feb-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,23,09-Feb-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,13,09-Feb-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,09-Feb-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,4,09-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,10-Feb-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,9,10-Feb-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,7,10-Feb-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,10-Feb-2017
+Karnataka,KK,Kolar,Malur,Ragi,30,3,10-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,22,10-Feb-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,2,10-Feb-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,11-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,35,13-Feb-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,12,13-Feb-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,13-Feb-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,30,13-Feb-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,13-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,13-Feb-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,10,13-Feb-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,17,13-Feb-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,15,13-Feb-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,36,14-Feb-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,14-Feb-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,10,14-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,15-Feb-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,7,15-Feb-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,15-Feb-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,7,15-Feb-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,2,15-Feb-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,15-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,15-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,16-Feb-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,16-Feb-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,16-Feb-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,11,16-Feb-2017
+Karnataka,KK,Hassan,Belur,Ragi,30,15,16-Feb-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,7,16-Feb-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,10,16-Feb-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,16-Feb-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,16-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,17-Feb-2017
+Karnataka,KK,Chitradurga,Hiriyur,Ragi,30,26,17-Feb-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,58,17-Feb-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,7,17-Feb-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,17-Feb-2017
+Karnataka,KK,Kolar,Malur,Ragi,30,3,17-Feb-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,26,17-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,18-Feb-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,25,18-Feb-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,10,20-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,3,21-Feb-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,5,21-Feb-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,5,21-Feb-2017
+Karnataka,KK,Davangere,Honnali,Ragi,30,20,21-Feb-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,22,21-Feb-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,32,21-Feb-2017
+Karnataka,KK,Mandya,Pandavapura,Ragi,30,420,21-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,21-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,58,22-Feb-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,38,22-Feb-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,24,22-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,22-Feb-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,22-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,23-Feb-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,13,23-Feb-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,4,23-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,23-Feb-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,23-Feb-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,24-Feb-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,26,24-Feb-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,10,25-Feb-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,25-Feb-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,25-Feb-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,26-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,27-Feb-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,10,27-Feb-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,17,27-Feb-2017
+Karnataka,KK,Haveri,Haveri,Ragi,30,9,27-Feb-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,30,27-Feb-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,27-Feb-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,27-Feb-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,20,27-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,28-Feb-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,27,28-Feb-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,28-Feb-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,28-Feb-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,8,28-Feb-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,28-Feb-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,32,28-Feb-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,26,28-Feb-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,01-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,01-Mar-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,01-Mar-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,01-Mar-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,61,01-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,43,01-Mar-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,20,01-Mar-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,30,01-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,34,02-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,02-Mar-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,02-Mar-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,02-Mar-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,61,02-Mar-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,27,02-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,02-Mar-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,02-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,03-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,03-Mar-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,144,03-Mar-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,03-Mar-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,24,03-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,70,04-Mar-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,1,04-Mar-2017
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,10,04-Mar-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,04-Mar-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,31,04-Mar-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,41,04-Mar-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,15,04-Mar-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,04-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,04-Mar-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,04-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,2,06-Mar-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,5,06-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,4,06-Mar-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,5,06-Mar-2017
+Karnataka,KK,Haveri,Haveri,Ragi,30,12,06-Mar-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,46,06-Mar-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,06-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,06-Mar-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,17,06-Mar-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,27,06-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,07-Mar-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,20,07-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,07-Mar-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,1,07-Mar-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,07-Mar-2017
+Karnataka,KK,Haveri,Haveri,Ragi,30,8,07-Mar-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,39,07-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,07-Mar-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,07-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,07-Mar-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,07-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,08-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,08-Mar-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,08-Mar-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,6,08-Mar-2017
+Karnataka,KK,Hassan,Belur,Ragi,30,29,08-Mar-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,21,08-Mar-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,26,08-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,09-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,09-Mar-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,09-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,30,09-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,16,09-Mar-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,13,09-Mar-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,21,09-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,10-Mar-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,6,10-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,10-Mar-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,10-Mar-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,89,10-Mar-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,10-Mar-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,49,10-Mar-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,10,10-Mar-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,10,10-Mar-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,15,11-Mar-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,9,11-Mar-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,28,11-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,13-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,13-Mar-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,3,13-Mar-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,5,13-Mar-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,13-Mar-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,13-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,25,13-Mar-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,43,13-Mar-2017
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,10,13-Mar-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,4,13-Mar-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,10,13-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,2,14-Mar-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,22,14-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,14-Mar-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,14-Mar-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,14-Mar-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,18,14-Mar-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,11,14-Mar-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,14-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,19,14-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,14-Mar-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,24,14-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,15-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,8,15-Mar-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,15-Mar-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,20,15-Mar-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,15-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,51,15-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,15-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,16-Mar-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,18,16-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,16-Mar-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,22,16-Mar-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,27,16-Mar-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,16-Mar-2017
+Karnataka,KK,Kolar,Chickkaballapura,Ragi,30,3,16-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,16-Mar-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,25,16-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,17-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,17-Mar-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,50,17-Mar-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,17-Mar-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,15,17-Mar-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,17-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,13,17-Mar-2017
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,10,17-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,35,18-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,18-Mar-2017
+Karnataka,KK,Davangere,Honnali,Ragi,30,29,18-Mar-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,42,18-Mar-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,18-Mar-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,18-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,35,18-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,20-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,20-Mar-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,4,20-Mar-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,20-Mar-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,20-Mar-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,20-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,20-Mar-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,5,20-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,21-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,21-Mar-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,21-Mar-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,11,21-Mar-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,19,21-Mar-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,18,21-Mar-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,21-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,22,21-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,21-Mar-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,97,21-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,22-Mar-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,8,22-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,22-Mar-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,25,22-Mar-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,32,22-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,24,22-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,34,22-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,23-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,23-Mar-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,23-Mar-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,9,23-Mar-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,7,23-Mar-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,23-Mar-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,23-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,24-Mar-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,10,24-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,24-Mar-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,130,24-Mar-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,24-Mar-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,24-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,25-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,25-Mar-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,10,25-Mar-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,5,25-Mar-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,14,25-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,18,25-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,25-Mar-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,34,25-Mar-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,17,26-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,27-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,9,27-Mar-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,75,27-Mar-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,30,27-Mar-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,27-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,13,27-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,5,27-Mar-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,21,27-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,28-Mar-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,28-Mar-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,37,28-Mar-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,28-Mar-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,2,28-Mar-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,28-Mar-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,28-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,30-Mar-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,13,30-Mar-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,10,30-Mar-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,30-Mar-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,26,30-Mar-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,5,30-Mar-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,10,30-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,31-Mar-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,31-Mar-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,10,31-Mar-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,309,31-Mar-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,31-Mar-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,40,31-Mar-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,16,31-Mar-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,5,31-Mar-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,01-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,01-Apr-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,2,01-Apr-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,01-Apr-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,01-Apr-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,7,01-Apr-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,8,01-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,01-Apr-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,8,01-Apr-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,13,02-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,2,03-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,8,03-Apr-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,03-Apr-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,03-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,03-Apr-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,14,03-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,6,04-Apr-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,10,04-Apr-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,04-Apr-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,04-Apr-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,04-Apr-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,20,04-Apr-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,04-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,04-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,34,05-Apr-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,10,05-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,05-Apr-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,2,05-Apr-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,05-Apr-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,05-Apr-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,69,05-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,05-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,06-Apr-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,15,06-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,06-Apr-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,06-Apr-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,06-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,35,07-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,07-Apr-2017
+Karnataka,KK,Chitradurga,Hiriyur,Ragi,30,3,07-Apr-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,83,07-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,07-Apr-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,40,08-Apr-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,18,08-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,10-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,10-Apr-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,25,10-Apr-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,10-Apr-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,12,10-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,11-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,11-Apr-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,11-Apr-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,11-Apr-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,11-Apr-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,35,11-Apr-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,36,11-Apr-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,17,11-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,11-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,12-Apr-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,8,12-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,12-Apr-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,3,12-Apr-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,3,12-Apr-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,61,12-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,12-Apr-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,26,12-Apr-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,17,12-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,5,13-Apr-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,11,13-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,13-Apr-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,46,13-Apr-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,24,13-Apr-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,13-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,13-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,15-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,15-Apr-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,21,15-Apr-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,15-Apr-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,29,15-Apr-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,13,15-Apr-2017
+Karnataka,KK,Kolar,Gowribidanoor,Ragi,30,19,15-Apr-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,17,15-Apr-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,15-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,15-Apr-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,3,16-Apr-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,16-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,17-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,17-Apr-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,2,17-Apr-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,17-Apr-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,17-Apr-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,17-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,19,17-Apr-2017
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,10,17-Apr-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,12,17-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,43,18-Apr-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,25,18-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,18-Apr-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,15,18-Apr-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,15,18-Apr-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,59,18-Apr-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,49,18-Apr-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,21,18-Apr-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,18-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,19-Apr-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,21,19-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,19-Apr-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,19-Apr-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,19-Apr-2017
+Karnataka,KK,Kolar,Malur,Ragi,30,2,19-Apr-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,15,19-Apr-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,41,19-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,19-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,20-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,20-Apr-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,20-Apr-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,20-Apr-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,20-Apr-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,20-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,20-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,41,21-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,21-Apr-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,30,21-Apr-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,3,21-Apr-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,13,21-Apr-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,17,21-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,21-Apr-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,21-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,22-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,22-Apr-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,22,22-Apr-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,22-Apr-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,2,22-Apr-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,28,22-Apr-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,2,22-Apr-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,22-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,24-Apr-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,11,24-Apr-2017
+Karnataka,KK,Bellary,Hoovinahadagali,Ragi,30,10,24-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,24-Apr-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,24-Apr-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,24-Apr-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,38,24-Apr-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,37,24-Apr-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,24-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,24-Apr-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,13,24-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,25-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,6,25-Apr-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,25-Apr-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,2,25-Apr-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,25-Apr-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,17,25-Apr-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,25-Apr-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,10,25-Apr-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,35,25-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,26-Apr-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,26-Apr-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,3,26-Apr-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,14,26-Apr-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,4026,26-Apr-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,26-Apr-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,3,26-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,1,27-Apr-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,13,27-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,27-Apr-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,27-Apr-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,27-Apr-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,22,27-Apr-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,27-Apr-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,28-Apr-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,28-Apr-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,28,28-Apr-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,10,28-Apr-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,28-Apr-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,12,28-Apr-2017
+Karnataka,KK,Haveri,Ranebennur,Ragi,30,1,28-Apr-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,16,28-Apr-2017
+Karnataka,KK,Kolar,Kolar,Ragi,30,3,28-Apr-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,28-Apr-2017
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,2291,28-Apr-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,20,29-Apr-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,30-Apr-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,2,01-May-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,31,01-May-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,11,01-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,52,02-May-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,7,02-May-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,02-May-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,02-May-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,11,02-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,12,02-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,03-May-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,03-May-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,11,03-May-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,18,03-May-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,03-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,04-May-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,41,04-May-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,10,04-May-2017
+Karnataka,KK,Kolar,Kolar,Ragi,30,18,04-May-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,15,04-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,04-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,05-May-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,05-May-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,115,05-May-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,12,05-May-2017
+Karnataka,KK,Kolar,Chickkaballapura,Ragi,30,3,05-May-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,6,05-May-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,5,05-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,35,06-May-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,06-May-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,54,06-May-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,06-May-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,3,06-May-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,17,06-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,07-May-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,07-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,08-May-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,08-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,08-May-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,6,08-May-2017
+Karnataka,KK,Kolar,Chickkaballapura,Ragi,30,3,08-May-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,08-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,5,09-May-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,5,09-May-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,09-May-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,5,09-May-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,18,09-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,16,09-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,10-May-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,21,10-May-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,22,10-May-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,21,10-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,10-May-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,10-May-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,50,10-May-2017
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,1,10-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,16,10-May-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,21,10-May-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,3,10-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,11-May-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,15,11-May-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,11-May-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,7,11-May-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,11-May-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,10,11-May-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,15,11-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,12-May-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,12-May-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,12-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,13,12-May-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,12,12-May-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,13,12-May-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,12-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,12-May-2017
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,12-May-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,3,12-May-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,9,13-May-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,1,13-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,15-May-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,15-May-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,15-May-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,8,15-May-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,2,15-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,15-May-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,16,15-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,15-May-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,10,15-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,3,16-May-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,16-May-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,44,16-May-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,2,16-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,1440,16-May-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,28,16-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,50,17-May-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,15,17-May-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,22,17-May-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,20,17-May-2017
+Karnataka,KK,Davangere,Honnali,Ragi,30,22,17-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,25,17-May-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,8,17-May-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,16,17-May-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,38,17-May-2017
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,10,17-May-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,25,17-May-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,22,17-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,18-May-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,26,18-May-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,18-May-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,7,18-May-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,18-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,25,18-May-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,18-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,3,18-May-2017
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,1469,18-May-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,18-May-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,18-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,19-May-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,19-May-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,14,19-May-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,22,19-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,19-May-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,30,19-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,20-May-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,20-May-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,20-May-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,20-May-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,2,20-May-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,20-May-2017
+Karnataka,KK,Chitradurga,Hiriyur,Ragi,30,21,21-May-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,15,21-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,22-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,22-May-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,18,22-May-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,3,22-May-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,5,22-May-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,34,22-May-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,19,22-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,23-May-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,23-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,23-May-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,13,23-May-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,28,23-May-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,23-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,24-May-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,16,24-May-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,16,24-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,24-May-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,3,24-May-2017
+Karnataka,KK,Kolar,Chickkaballapura,Ragi,30,14,24-May-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,24-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,24-May-2017
+Karnataka,KK,Mysore,T. Narasipura,Ragi,30,5526,24-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,2,25-May-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,6,25-May-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,21,25-May-2017
+Karnataka,KK,Davangere,Honnali,Ragi,30,18,25-May-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,16,25-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,25-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,25-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,26-May-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,26-May-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,40,26-May-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,2,26-May-2017
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,10,26-May-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,26-May-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,26-May-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,17,26-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,3,27-May-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,13,27-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,27-May-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,1,27-May-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,12,27-May-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,27-May-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,27-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,27-May-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,27-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,29-May-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,23,29-May-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,16,29-May-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,20,29-May-2017
+Karnataka,KK,Kolar,Chickkaballapura,Ragi,30,3,29-May-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,20,29-May-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,16,29-May-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,10,29-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,10,30-May-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,18,30-May-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,30-May-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,30-May-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,40,30-May-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,5,30-May-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,10,30-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,31-May-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,9,31-May-2017
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,31-May-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,8,31-May-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,31-May-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,35,31-May-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,31-May-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,5,31-May-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,11,31-May-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,88,31-May-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,31-May-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,31-May-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,01-Jun-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,17,01-Jun-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,01-Jun-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,27,01-Jun-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,16,01-Jun-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,01-Jun-2017
+Karnataka,KK,Kolar,Kolar,Ragi,30,4,01-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,01-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,10,02-Jun-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,1,02-Jun-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,3,02-Jun-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,14,02-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,03-Jun-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,03-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,03-Jun-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,15,03-Jun-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,14,04-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,05-Jun-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,10,05-Jun-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,05-Jun-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,8,05-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,05-Jun-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,05-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,05-Jun-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,05-Jun-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,21,05-Jun-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,16,05-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,2,06-Jun-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,1,06-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,06-Jun-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,27,06-Jun-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,29,06-Jun-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,06-Jun-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,21,06-Jun-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,5,06-Jun-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,15,06-Jun-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,86,06-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,07-Jun-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,1,07-Jun-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,6,07-Jun-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,15,07-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,07-Jun-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,7,07-Jun-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,22,07-Jun-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,45,07-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,08-Jun-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,18,08-Jun-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,22,08-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,08-Jun-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,08-Jun-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,8,08-Jun-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,08-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,09-Jun-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,22,09-Jun-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,09-Jun-2017
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,11,09-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,09-Jun-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,09-Jun-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,09-Jun-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,6,10-Jun-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,22,10-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,12-Jun-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,12-Jun-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,21,12-Jun-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,14,12-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,12-Jun-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,22,12-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,12-Jun-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,12-Jun-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,9,12-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,13-Jun-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,10,13-Jun-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,35,13-Jun-2017
+Karnataka,KK,Bellary,Bellary,Ragi,30,1,13-Jun-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,13-Jun-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,5,13-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,13-Jun-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,6,13-Jun-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,13-Jun-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,5,13-Jun-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,13-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,14-Jun-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,2,14-Jun-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,14-Jun-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,14-Jun-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,6,14-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,14-Jun-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,4,14-Jun-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,14-Jun-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,41,14-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,16,14-Jun-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,12,14-Jun-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,23,14-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,15-Jun-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,15-Jun-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,2,15-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,5,15-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,15-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,16-Jun-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,7,16-Jun-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,21,16-Jun-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,22,16-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,13,16-Jun-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,24,16-Jun-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,2,16-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,17-Jun-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,17-Jun-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,25,17-Jun-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,22,17-Jun-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,17-Jun-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,18-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,19-Jun-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,10,19-Jun-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,19-Jun-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,19-Jun-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,21,19-Jun-2017
+Karnataka,KK,Mysore,Nanjangud,Ragi,30,10,19-Jun-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,20,19-Jun-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,16,19-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,20-Jun-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,14,20-Jun-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,12,20-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,7,20-Jun-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,11,20-Jun-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,8,20-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,20-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,21-Jun-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,15,21-Jun-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,1,21-Jun-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,21-Jun-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,4,21-Jun-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,42,21-Jun-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,77,21-Jun-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,21,21-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,22-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,22-Jun-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,22-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,1,23-Jun-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,4,23-Jun-2017
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,2119,23-Jun-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,23-Jun-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,4,23-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,24-Jun-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,15,24-Jun-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,34,24-Jun-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,24-Jun-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,21,24-Jun-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,4,24-Jun-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,21,24-Jun-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,25-Jun-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,25-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,1,27-Jun-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,17,27-Jun-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,32,27-Jun-2017
+Karnataka,KK,Bellary,Bellary,Ragi,30,1,27-Jun-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,27-Jun-2017
+Karnataka,KK,Kolar,Chickkaballapura,Ragi,30,10,27-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,27-Jun-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,11,27-Jun-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,38,27-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,28-Jun-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,4,28-Jun-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,28-Jun-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,25,28-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,28-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,29-Jun-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,8,29-Jun-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,29-Jun-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,29-Jun-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,11,29-Jun-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,17,29-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,29-Jun-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,29-Jun-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,11,29-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,3,30-Jun-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,3,30-Jun-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,30-Jun-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,5,30-Jun-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,24,30-Jun-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,30-Jun-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,26,30-Jun-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,30-Jun-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,30-Jun-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,49,01-Jul-2017
+Karnataka,KK,Chitradurga,Holalkere,Ragi,30,17,01-Jul-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,23,01-Jul-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,15,01-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,01-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,01-Jul-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,26,01-Jul-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,01-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,02-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,03-Jul-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,03-Jul-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,41,03-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,03-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,03-Jul-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,03-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,04-Jul-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,12,04-Jul-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,04-Jul-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,04-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,04-Jul-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,04-Jul-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,20,04-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,05-Jul-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,05-Jul-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,05-Jul-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,49,05-Jul-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,05-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,06-Jul-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,06-Jul-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,06-Jul-2017
+Karnataka,KK,Haveri,Haveri,Ragi,30,10,06-Jul-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,10,06-Jul-2017
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,2,06-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,06-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,07-Jul-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,20,07-Jul-2017
+Karnataka,KK,Chitradurga,Hiriyur,Ragi,30,25,07-Jul-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,3,07-Jul-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,24,07-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,28,07-Jul-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,08-Jul-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,3,08-Jul-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,08-Jul-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,38,09-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,10-Jul-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,10-Jul-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,10-Jul-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,19,10-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,10-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,10-Jul-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,13,10-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,5,11-Jul-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,12,11-Jul-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,11,11-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,11-Jul-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,45,11-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,12-Jul-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,76,12-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,12-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,61,13-Jul-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,5,13-Jul-2017
+Karnataka,KK,Hassan,Belur,Ragi,30,5,13-Jul-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,16,13-Jul-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,12,13-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,13-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,13-Jul-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,13-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,14-Jul-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,82,14-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,14-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,14-Jul-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,14-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,15-Jul-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,5,15-Jul-2017
+Karnataka,KK,Kolar,Mulabagilu,Ragi,30,16,15-Jul-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,43,15-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,15-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,17-Jul-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,15,17-Jul-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,5,17-Jul-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,17-Jul-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,17-Jul-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,38,17-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,17-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,17-Jul-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,17-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,18-Jul-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,18-Jul-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,25,18-Jul-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,17,18-Jul-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,3,18-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,18-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,19-Jul-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,14,19-Jul-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,24,19-Jul-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,28,19-Jul-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,5,19-Jul-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,19-Jul-2017
+Karnataka,KK,Haveri,Haveri,Ragi,30,8,19-Jul-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,188,19-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,19-Jul-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,19-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,20-Jul-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,15,20-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,20-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,21,20-Jul-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,20-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,21-Jul-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,23,21-Jul-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,21-Jul-2017
+Karnataka,KK,Haveri,Ranebennur,Ragi,30,1,21-Jul-2017
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,1,21-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,21-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,21-Jul-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,16,21-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,22-Jul-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,22-Jul-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,1,22-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,22-Jul-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,25,22-Jul-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,20,23-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,24-Jul-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,24-Jul-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,24-Jul-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,24-Jul-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,24-Jul-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,33,24-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,24-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,24-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,25-Jul-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,25-Jul-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,8,25-Jul-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,2,25-Jul-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,25-Jul-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,6,25-Jul-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,25-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,25-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,25-Jul-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,7,25-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,66,26-Jul-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,9,26-Jul-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,42,26-Jul-2017
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,5,26-Jul-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,26-Jul-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,36,26-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,26-Jul-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,26-Jul-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,20,26-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,27-Jul-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,10,27-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,27-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,28-Jul-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,6,28-Jul-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,39,28-Jul-2017
+Karnataka,KK,Haveri,Ranebennur,Ragi,30,2,28-Jul-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,25,28-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,27,28-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,28-Jul-2017
+Karnataka,KK,Raichur,Sindhanur,Ragi,30,6,28-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,29-Jul-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,29-Jul-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,29-Jul-2017
+Karnataka,KK,Mysore,Nanjangud,Ragi,30,9,29-Jul-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,29-Jul-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,16,30-Jul-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,20,30-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,44,31-Jul-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,31-Jul-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,30,31-Jul-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,15,31-Jul-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,42,31-Jul-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,22,31-Jul-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,31-Jul-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,5,31-Jul-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,42,31-Jul-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,31-Jul-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,31-Jul-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,31-Jul-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,3,01-Aug-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,24,01-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,01-Aug-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,15,01-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,2,01-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,01-Aug-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,11,01-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,02-Aug-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,8,02-Aug-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,23,02-Aug-2017
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,5,02-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,02-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,26,02-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,93,02-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,02-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,02-Aug-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,02-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,03-Aug-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,5,03-Aug-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,4,03-Aug-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,03-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,50,03-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,03-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,45,04-Aug-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,04-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,14,04-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,05-Aug-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,1,05-Aug-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,05-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,05-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,3,05-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,101,06-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,06-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,07-Aug-2017
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,1,07-Aug-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,07-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,24,07-Aug-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,5,07-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,8,07-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,07-Aug-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,4,07-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,08-Aug-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,08-Aug-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,5,08-Aug-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,17,08-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,87,08-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,08-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,08-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,41,09-Aug-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,5,09-Aug-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,32,09-Aug-2017
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,5,09-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,4,09-Aug-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,42,09-Aug-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,09-Aug-2017
+Karnataka,KK,Kolar,Mulabagilu,Ragi,30,8,09-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,15,09-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,63,09-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,10-Aug-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,8,10-Aug-2017
+Karnataka,KK,Bangalore,Kanakapura,Ragi,30,10,10-Aug-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,10-Aug-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,6,10-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,10-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,10-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,14,10-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,11-Aug-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,11-Aug-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,11-Aug-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,50,11-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,12,11-Aug-2017
+Karnataka,KK,Tumkur,Pavagada,Ragi,30,3,11-Aug-2017
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,12-Aug-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,12-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,14-Aug-2017
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,17,14-Aug-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,14-Aug-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,12,14-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,14-Aug-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,14-Aug-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,24,14-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,26,14-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,31,14-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,14-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,11,14-Aug-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,2,14-Aug-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,8,14-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,12,15-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,15-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,16-Aug-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,32,16-Aug-2017
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,4,16-Aug-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,43,16-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,16-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,26,16-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,16-Aug-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,25,16-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,17-Aug-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,5,17-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,17-Aug-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,17,17-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,26,17-Aug-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,4,17-Aug-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,17-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,18-Aug-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,18-Aug-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,17,18-Aug-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,14,18-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,26,18-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,54,18-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,18-Aug-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,5,18-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,19-Aug-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,11,19-Aug-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,19-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,19-Aug-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,19-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,14,19-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,19-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,14,19-Aug-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,14,20-Aug-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,15,20-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,21-Aug-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,21-Aug-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,31,21-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,21-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,21-Aug-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,21-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,22-Aug-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,6,22-Aug-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,22-Aug-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,16,22-Aug-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,22-Aug-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,20,22-Aug-2017
+Karnataka,KK,Davangere,Honnali,Ragi,30,12,22-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,22-Aug-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,33,22-Aug-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,22-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,12,22-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,22-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,23-Aug-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,45,23-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,51,23-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,12,23-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,36,23-Aug-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,23-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,24-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,1,24-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,9,24-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,63,24-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,26-Aug-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,26-Aug-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,26-Aug-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,26-Aug-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,26,27-Aug-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,13,28-Aug-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,28-Aug-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,28-Aug-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,8,28-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,28-Aug-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,28-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,28-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,46,28-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,28-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,23,28-Aug-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,3,28-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,29-Aug-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,29-Aug-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,4,29-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,9,29-Aug-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,29-Aug-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,57,29-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,29-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,29-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,29-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,30-Aug-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,6,30-Aug-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,12,30-Aug-2017
+Karnataka,KK,Chitradurga,Hiriyur,Ragi,30,21,30-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,30-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,10,30-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,53,30-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,21,30-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,30-Aug-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,30-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,31-Aug-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,75,31-Aug-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,12,31-Aug-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,25,31-Aug-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,31-Aug-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,31-Aug-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,31-Aug-2017
+Karnataka,KK,Kolar,Kolar,Ragi,30,1,31-Aug-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,5,31-Aug-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,63,31-Aug-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,31-Aug-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,20,31-Aug-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,31-Aug-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,01-Sep-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,01-Sep-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,16,01-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,22,01-Sep-2017
+Karnataka,KK,Hassan,Belur,Ragi,30,12,01-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,36,01-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,01-Sep-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,16,02-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,44,02-Sep-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,8,03-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,43,04-Sep-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,10,04-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,33,04-Sep-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,8,04-Sep-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,5,04-Sep-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,04-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,5,04-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,04-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,12,04-Sep-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,7,04-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,05-Sep-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,3,05-Sep-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,2,05-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,05-Sep-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,21,05-Sep-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,05-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,31,05-Sep-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,14,05-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,05-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,05-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,06-Sep-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,06-Sep-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,17,06-Sep-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,06-Sep-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,38,06-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,06-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,06-Sep-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,30,06-Sep-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,06-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,73,07-Sep-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,7,07-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,07-Sep-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,12,07-Sep-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,07-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,83,07-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,07-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,07-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,08-Sep-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,08-Sep-2017
+Karnataka,KK,Chitradurga,Hiriyur,Ragi,30,26,08-Sep-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,40,08-Sep-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,20,08-Sep-2017
+Karnataka,KK,Haveri,Haveri,Ragi,30,10,08-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,08-Sep-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,08-Sep-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,12,08-Sep-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,08-Sep-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,09-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,20,09-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,10-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,11-Sep-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,11-Sep-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,10,11-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,18,11-Sep-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,70,11-Sep-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,39,11-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,31,11-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,11-Sep-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,11-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,12-Sep-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,47,12-Sep-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,46,12-Sep-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,7,12-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,40,12-Sep-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,12-Sep-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,78,12-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,67,12-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,12-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,13-Sep-2017
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,2,13-Sep-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,10,13-Sep-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,20,13-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,25,13-Sep-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,20,13-Sep-2017
+Karnataka,KK,Kolar,Gowribidanoor,Ragi,30,6,13-Sep-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,10,13-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,15,13-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,13-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,13-Sep-2017
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,1,13-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,40,14-Sep-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,6,14-Sep-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,28,14-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,14-Sep-2017
+Karnataka,KK,Kolar,Gowribidanoor,Ragi,30,6,14-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,30,14-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,14-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,22,14-Sep-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,14-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,3,15-Sep-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,15,15-Sep-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,15-Sep-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,15-Sep-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,15,15-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,15-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,4,15-Sep-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,20,15-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,16-Sep-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,16-Sep-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,38,16-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,30,16-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,16-Sep-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,4,16-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,34,17-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,17-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,18-Sep-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,15,18-Sep-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,18-Sep-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,38,18-Sep-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,74,18-Sep-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,25,18-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,50,18-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,18-Sep-2017
+Karnataka,KK,Tumkur,Pavagada,Ragi,30,64,18-Sep-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,10,19-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,69,19-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,19-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,20-Sep-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,6,20-Sep-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,20-Sep-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,19,20-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,33,20-Sep-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,22,20-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,111,20-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,20-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,5,20-Sep-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,9,20-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,21-Sep-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,9,21-Sep-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,21-Sep-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,3,21-Sep-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,21-Sep-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,23,21-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,96,21-Sep-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,10,21-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,21-Sep-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,21-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,22-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,58,22-Sep-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,6,22-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,123,22-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,23-Sep-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,23-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,23-Sep-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,23-Sep-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,23,23-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,20,23-Sep-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,39,23-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,64,24-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,25-Sep-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,25-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,25-Sep-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,51,25-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,25-Sep-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,4,25-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,26-Sep-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,17,26-Sep-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,26-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,70,26-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,29,26-Sep-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,35,26-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,27-Sep-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,8,27-Sep-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,24,27-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,27-Sep-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,27-Sep-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,15,27-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,25,27-Sep-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,27-Sep-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,27-Sep-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,27-Sep-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,28-Sep-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,4,28-Sep-2017
+Karnataka,KK,Haveri,Ranebennur,Ragi,30,1,28-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,41,28-Sep-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,15,30-Sep-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,25,01-Oct-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,36,02-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,18,02-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,02-Oct-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,02-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,10,03-Oct-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,16,03-Oct-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,03-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,03-Oct-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,9,03-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,03-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,9,03-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,40,03-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,23,03-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,03-Oct-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,03-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,04-Oct-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,04-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,04-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,04-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,3,04-Oct-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,23,04-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,1,04-Oct-2017
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,10,04-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,04-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,20,05-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,06-Oct-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,17,06-Oct-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,8,06-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,21,06-Oct-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,10,06-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,50,06-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,4,06-Oct-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,23,06-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,96,06-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,16,06-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,06-Oct-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,21,06-Oct-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,3,06-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,07-Oct-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,07-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,07-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,54,07-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,25,07-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,50,07-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,07-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,12,07-Oct-2017
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,8,08-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,105,08-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,4,09-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,09-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,144,09-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,13,09-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,58,09-Oct-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,57,09-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,85,09-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,09-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,09-Oct-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,9,09-Oct-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,30,09-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,10-Oct-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,11,10-Oct-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,8,10-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,27,10-Oct-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,16,10-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,41,10-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,27,10-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,63,10-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,26,10-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,51,10-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,10-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,20,10-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,11-Oct-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,12,11-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,27,11-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,19,11-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,11-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,11-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,99,11-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,11-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,11-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,12-Oct-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,12-Oct-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,10,12-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,12-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,34,12-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,12-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,13,12-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,28,12-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,12-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,9,12-Oct-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,12-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,13-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,13-Oct-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,50,13-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,13-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,28,13-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,25,13-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,13-Oct-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,13-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,46,14-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,14-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,37,14-Oct-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,5,14-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,14-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,15,15-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,15-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,59,16-Oct-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,13,16-Oct-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,16-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,16-Oct-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,37,16-Oct-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,10,16-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,64,16-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,16-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,16-Oct-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,28,16-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,16-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,16-Oct-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,7,16-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,17-Oct-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,18,17-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,36,17-Oct-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,6,17-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,58,17-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,25,17-Oct-2017
+Karnataka,KK,Haveri,Haveri,Ragi,30,9,17-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,57,17-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,17-Oct-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,17-Oct-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,11,18-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,155,18-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,18-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,78,19-Oct-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,8,19-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,65,19-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,19-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,60,19-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,19-Oct-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,19-Oct-2017
+Karnataka,KK,Tumkur,Pavagada,Ragi,30,7,19-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,91,20-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,21-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,35,21-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,28,21-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,28,21-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,22,21-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,21-Oct-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,4,21-Oct-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,21-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,37,22-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,69,22-Oct-2017
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,2,22-Oct-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,13,23-Oct-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,10,23-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,9,23-Oct-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,56,23-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,32,23-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,23-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,16,23-Oct-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,8,23-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,24-Oct-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,27,24-Oct-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,24-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,4,24-Oct-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,30,24-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,70,24-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,8,24-Oct-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,76,24-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,8,24-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,114,24-Oct-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,5,24-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,24-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,24-Oct-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,24-Oct-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,24-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,25-Oct-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,22,25-Oct-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,25-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,18,25-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,6,25-Oct-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,100,25-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,40,25-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,25-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,26-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,26-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,26-Oct-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,26-Oct-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,149,26-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,32,26-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,59,26-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,26-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,27-Oct-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,27-Oct-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,27-Oct-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,27-Oct-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,27,27-Oct-2017
+Karnataka,KK,Kolar,Gowribidanoor,Ragi,30,11,27-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,26,27-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,80,27-Oct-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,27-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,28-Oct-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,28-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,113,28-Oct-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,28-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,28-Oct-2017
+Karnataka,KK,Hassan,Belur,Ragi,30,10,28-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,40,28-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,10,28-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,28-Oct-2017
+Karnataka,KK,Tumkur,Pavagada,Ragi,30,33,28-Oct-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,5,28-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,29-Oct-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,29-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,24,29-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,43,30-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,30-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,41,30-Oct-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,8,30-Oct-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,50,30-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,189,30-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,30-Oct-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,30-Oct-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,30-Oct-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,31-Oct-2017
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,31-Oct-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,31-Oct-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,29,31-Oct-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,31-Oct-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,29,31-Oct-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,16,31-Oct-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,45,31-Oct-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,31-Oct-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,9,31-Oct-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,15,01-Nov-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,01-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,41,01-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,23,01-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,02-Nov-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,16,02-Nov-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,3,02-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,02-Nov-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,8,02-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,38,02-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,15,02-Nov-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,02-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,42,02-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,02-Nov-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,02-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,03-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,03-Nov-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,6,03-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,03-Nov-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,16,03-Nov-2017
+Karnataka,KK,Kolar,Gowribidanoor,Ragi,30,12,03-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,72,03-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,03-Nov-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,03-Nov-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,5,03-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,04-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,6,04-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,37,04-Nov-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,21,04-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,30,04-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,91,05-Nov-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,23,06-Nov-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,23,06-Nov-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,11,06-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,60,06-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,06-Nov-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,3,06-Nov-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,5,06-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,72,07-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,07-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,07-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,07-Nov-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,39,07-Nov-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,50,07-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,22,07-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,07-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,07-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,08-Nov-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,5,08-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,22,08-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,11,08-Nov-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,31,08-Nov-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,48,08-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,08-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,09-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,09-Nov-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,20,09-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,09-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,11,09-Nov-2017
+Karnataka,KK,Kolar,Kolar,Ragi,30,7,09-Nov-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,43,09-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,123,09-Nov-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,5,09-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,09-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,09-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,10-Nov-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,52,10-Nov-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,21,10-Nov-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,50,10-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,20,10-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,36,11-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,60,11-Nov-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,11-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,47,12-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,13-Nov-2017
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,1,13-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,14,13-Nov-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,16,13-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,41,13-Nov-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,13,13-Nov-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,60,13-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,80,13-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,13-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,14,13-Nov-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,13-Nov-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,5,13-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,14-Nov-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,20,14-Nov-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,15,14-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,11,14-Nov-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,40,14-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,9,14-Nov-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,18,14-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,14-Nov-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,14-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,15-Nov-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,10,15-Nov-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,15-Nov-2017
+Karnataka,KK,Kolar,Chickkaballapura,Ragi,30,2,15-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,192,15-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,15-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,16-Nov-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,9,16-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,8,16-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,9,16-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,16-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,16-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,17-Nov-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,17-Nov-2017
+Karnataka,KK,Chitradurga,Hiriyur,Ragi,30,4,17-Nov-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,2,17-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,17-Nov-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,17-Nov-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,36,17-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,83,17-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,17-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,14,17-Nov-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,21,17-Nov-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,4,17-Nov-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,3,17-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,18-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,18-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,18-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,25,18-Nov-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,18-Nov-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,18-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,130,18-Nov-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,31,18-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,11,19-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,34,19-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,20-Nov-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,6,20-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,20-Nov-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,20,20-Nov-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,12,20-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,20-Nov-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,47,20-Nov-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,67,20-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,122,20-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,20-Nov-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,20-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,35,21-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,36,21-Nov-2017
+Karnataka,KK,Hassan,Belur,Ragi,30,18,21-Nov-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,32,21-Nov-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,20,21-Nov-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,90,21-Nov-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,21-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,35,21-Nov-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,5,21-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,21-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,21-Nov-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,10,21-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,22-Nov-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,25,22-Nov-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,22-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,22-Nov-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,18,22-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,51,22-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,22-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,22-Nov-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,22-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,23-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,138,23-Nov-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,23-Nov-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,10,23-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,23-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,90,23-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,23-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,24-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,24-Nov-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,9,24-Nov-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,50,24-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,24-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,13,24-Nov-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,71,24-Nov-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,30,24-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,40,24-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,24-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,17,24-Nov-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,7,24-Nov-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,24-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,25-Nov-2017
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,4,25-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,25-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,25-Nov-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,25,25-Nov-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,25-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,9,26-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,20,26-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,3,27-Nov-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,27-Nov-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,27-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,7,27-Nov-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,12,27-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,27-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,27-Nov-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,58,27-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,37,27-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,27-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,27-Nov-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,5,27-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,28-Nov-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,44,28-Nov-2017
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,2,28-Nov-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,28-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,28-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,25,28-Nov-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,28-Nov-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,15,28-Nov-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,28,28-Nov-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,18,28-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,90,28-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,25,28-Nov-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,28-Nov-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,28-Nov-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,28-Nov-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,3,28-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,29-Nov-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,29,29-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,29-Nov-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,6,29-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,5,29-Nov-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,25,29-Nov-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,25,29-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,136,29-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,29-Nov-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,57,29-Nov-2017
+Karnataka,KK,Tumkur,Pavagada,Ragi,30,6,29-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,30-Nov-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,8,30-Nov-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,30-Nov-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,134,30-Nov-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,30-Nov-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,14,30-Nov-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,30-Nov-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,65,30-Nov-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,16,30-Nov-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,10,30-Nov-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,6,30-Nov-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,18,30-Nov-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,3,30-Nov-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,01-Dec-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,50,01-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,01-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,8,01-Dec-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,15,01-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,77,01-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,01-Dec-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,01-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,35,02-Dec-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,17,02-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,11,02-Dec-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,9,02-Dec-2017
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,2,03-Dec-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,03-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,04-Dec-2017
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,4,04-Dec-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,9,04-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,27,04-Dec-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,10,04-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,04-Dec-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,5,04-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,24,04-Dec-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,52,04-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,60,04-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,04-Dec-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,11,04-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,05-Dec-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,87,05-Dec-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,13,05-Dec-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,05-Dec-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,16,05-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,34,05-Dec-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,26,05-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,51,05-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,05-Dec-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,12,05-Dec-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,05-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,61,06-Dec-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,20,06-Dec-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,37,06-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,06-Dec-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,06-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,06-Dec-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,06-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,06-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,52,06-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,06-Dec-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,06-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,07-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,07-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,07-Dec-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,07-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,141,07-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,23,07-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,08-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,73,08-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,16,08-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,20,08-Dec-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,08-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,09-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,43,09-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,135,09-Dec-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,10,09-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,10-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,90,10-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,62,11-Dec-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,6,11-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,11-Dec-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,6,11-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,11-Dec-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,13,11-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,11-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,20,11-Dec-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,30,11-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,17,11-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,18,11-Dec-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,5,11-Dec-2017
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,11-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,12-Dec-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,24,12-Dec-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,225,12-Dec-2017
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,12-Dec-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,12-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,34,12-Dec-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,7,12-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,9,12-Dec-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,27,12-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,21,12-Dec-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,43,12-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,108,12-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,32,12-Dec-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,12-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,13-Dec-2017
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,13-Dec-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,8,13-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,13-Dec-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,56,13-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,16,13-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,48,13-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,13-Dec-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,13-Dec-2017
+Karnataka,KK,Tumkur,Pavagada,Ragi,30,14,13-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,14-Dec-2017
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,5,14-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,14-Dec-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,11,14-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,28,14-Dec-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,25,14-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,30,14-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,16,14-Dec-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,80,14-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,40,15-Dec-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,15-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,15-Dec-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,30,15-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,15-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,7,15-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,41,15-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,15-Dec-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,15-Dec-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,15-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,16-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,96,16-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,16-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,30,16-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,34,16-Dec-2017
+Karnataka,KK,Mysore,Hunsur,Ragi,30,5,16-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,16-Dec-2017
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,22,17-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,17-Dec-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,13,17-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,64,17-Dec-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,27,18-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,18-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,18-Dec-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,23,18-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,18-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,78,18-Dec-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,45,18-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,30,18-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,18-Dec-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,11,18-Dec-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,10,18-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,19-Dec-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,19,19-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,19-Dec-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,19-Dec-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,4,19-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,19-Dec-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,34,19-Dec-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,19-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,9,19-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,40,19-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,19-Dec-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,13,19-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,20-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,20-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,20-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,18,20-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,23,20-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,101,20-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,20-Dec-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,20-Dec-2017
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,20-Dec-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,20-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,21-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,21-Dec-2017
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,21-Dec-2017
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,13,21-Dec-2017
+Karnataka,KK,Chitradurga,Holalkere,Ragi,30,597,21-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,2,21-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,9,21-Dec-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,30,21-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,24,21-Dec-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,40,21-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,106,21-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,21-Dec-2017
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,21-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,52,22-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,22-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,22-Dec-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,13,22-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,28,22-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,33,22-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,100,22-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,14,22-Dec-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,46,22-Dec-2017
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,3,22-Dec-2017
+Karnataka,KK,Tumkur,Pavagada,Ragi,30,10,22-Dec-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,22-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,23-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,23-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,23-Dec-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,18,23-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,23-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,11,23-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,24,23-Dec-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,17,23-Dec-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,15,23-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,23-Dec-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,23-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,30,24-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,43,25-Dec-2017
+Karnataka,KK,Kolar,Chintamani,Ragi,30,30,25-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,30,25-Dec-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,24,25-Dec-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,7,25-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,26-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,26-Dec-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,18,26-Dec-2017
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,12,26-Dec-2017
+Karnataka,KK,Hassan,Arakalgud,Ragi,30,9,26-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,22,26-Dec-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,61,26-Dec-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,17,26-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,55,26-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,26-Dec-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,24,26-Dec-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,26-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,27-Dec-2017
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,35,27-Dec-2017
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,22,27-Dec-2017
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,1,27-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,27-Dec-2017
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,5,27-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,36,27-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,27-Dec-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,27-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,5,27-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,27-Dec-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,27-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,28-Dec-2017
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,28-Dec-2017
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,18,28-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,28-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,42,28-Dec-2017
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,56,28-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,18,28-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,28-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,29-Dec-2017
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,29-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,27,29-Dec-2017
+Karnataka,KK,Chitradurga,Holalkere,Ragi,30,8,29-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,52,29-Dec-2017
+Karnataka,KK,Hassan,Hassan,Ragi,30,7,29-Dec-2017
+Karnataka,KK,Haveri,Haveri,Ragi,30,3,29-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,44,29-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,70,29-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,25,29-Dec-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,29-Dec-2017
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,29-Dec-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,10,29-Dec-2017
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,38,29-Dec-2017
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,16,29-Dec-2017
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,30-Dec-2017
+Karnataka,KK,Bangalore,Hoskote,Ragi,30,25,30-Dec-2017
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,16,30-Dec-2017
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,139,30-Dec-2017
+Karnataka,KK,Chitradurga,Holalkere,Ragi,30,8,30-Dec-2017
+Karnataka,KK,Davangere,Davangere,Ragi,30,23,30-Dec-2017
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,30-Dec-2017
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,25,30-Dec-2017
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,62,30-Dec-2017
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,17,30-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,50,30-Dec-2017
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,30-Dec-2017
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,30-Dec-2017
+Karnataka,KK,Tumkur,Pavagada,Ragi,30,25,30-Dec-2017
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,25,31-Dec-2017
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,3,31-Dec-2017

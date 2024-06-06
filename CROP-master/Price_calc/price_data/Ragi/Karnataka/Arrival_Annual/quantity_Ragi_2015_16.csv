@@ -1,0 +1,1990 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,107,01-Jan-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,273,01-Jan-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,20,01-Jan-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,500,01-Jan-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,200,01-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,163,01-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,01-Jan-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,110,01-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,244,02-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,30,02-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,74,02-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,75,02-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,86,03-Jan-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,180,03-Jan-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,82,03-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,60,03-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,140,03-Jan-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,100,03-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,283,03-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,180,03-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,40,04-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,221,05-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,853,05-Jan-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,70,05-Jan-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,25,05-Jan-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,110,05-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,270,05-Jan-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,50,05-Jan-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,53,05-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,262,06-Jan-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,15,06-Jan-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,202,06-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,168,06-Jan-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,1150,06-Jan-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,150,06-Jan-2015
+Karnataka,KK,Mysore,Hunsur,Ragi,30,60,06-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,120,06-Jan-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,200,06-Jan-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,06-Jan-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1200,06-Jan-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,4,06-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,420,06-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,386,07-Jan-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,100,07-Jan-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,07-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,245,07-Jan-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,40,07-Jan-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,1535,07-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,105,07-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,50,08-Jan-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,444,08-Jan-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,100,08-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,398,08-Jan-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,3,08-Jan-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,100,08-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,355,08-Jan-2015
+Karnataka,KK,Mysore,Nanjangud,Ragi,30,228,08-Jan-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,180,08-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,402,09-Jan-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,11,09-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,163,09-Jan-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,120,09-Jan-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,50,09-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,09-Jan-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,300,09-Jan-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,60,09-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,75,09-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,40,10-Jan-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,22,11-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,55,11-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,267,12-Jan-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,50,12-Jan-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,220,12-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,904,12-Jan-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,310,12-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,181,12-Jan-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,106,12-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,60,12-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,191,13-Jan-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,40,13-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,378,13-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,50,13-Jan-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,90,13-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,216,13-Jan-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,3,13-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,240,13-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,273,14-Jan-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,20,14-Jan-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,120,14-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,95,14-Jan-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,443,14-Jan-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,14-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,213,16-Jan-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,118,16-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,230,16-Jan-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,4,16-Jan-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,20,16-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,90,16-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,238,17-Jan-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,20,17-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,90,17-Jan-2015
+Karnataka,KK,Haveri,Haveri,Ragi,30,10,17-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,40,17-Jan-2015
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,90,17-Jan-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,200,17-Jan-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,17-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,200,17-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,40,18-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,299,19-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,315,19-Jan-2015
+Karnataka,KK,Haveri,Haveri,Ragi,30,25,19-Jan-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,185,19-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,81,19-Jan-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,71,19-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,150,19-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,299,20-Jan-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,7,20-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,447,20-Jan-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,130,20-Jan-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,100,20-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,20-Jan-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,20-Jan-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,10,20-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,300,20-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,229,21-Jan-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,67,21-Jan-2015
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,100,21-Jan-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,360,21-Jan-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,150,21-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,344,21-Jan-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,30,21-Jan-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,1659,21-Jan-2015
+Karnataka,KK,Mysore,Hunsur,Ragi,30,3095,21-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,45,21-Jan-2015
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,80,21-Jan-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,50,21-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,234,22-Jan-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,388,22-Jan-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,30,22-Jan-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,176,22-Jan-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,140,22-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,267,22-Jan-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,22-Jan-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,100,22-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,47,22-Jan-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,50,22-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,264,22-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,295,23-Jan-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,324,23-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,81,23-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,25,23-Jan-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,200,23-Jan-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,120,23-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,120,23-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,110,24-Jan-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,275,24-Jan-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,100,24-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,153,24-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,110,24-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,163,24-Jan-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,40,24-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,240,24-Jan-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,4,25-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,8,25-Jan-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,26,26-Jan-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,11,26-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,26-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,27-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,67,27-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,27-Jan-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,12,27-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,28-Jan-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,5,28-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,56,28-Jan-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,21,28-Jan-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,2556,28-Jan-2015
+Karnataka,KK,Mysore,Hunsur,Ragi,30,6,28-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,28-Jan-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,750,28-Jan-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,170,28-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,35,28-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,112,29-Jan-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,138,29-Jan-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,100,29-Jan-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,29-Jan-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,160,29-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,452,29-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,100,29-Jan-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,120,29-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,75,29-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,243,30-Jan-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,30-Jan-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,100,30-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,134,30-Jan-2015
+Karnataka,KK,Mysore,Hunsur,Ragi,30,62,30-Jan-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,150,30-Jan-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,30,30-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,122,30-Jan-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,296,31-Jan-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,31-Jan-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,96,31-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,90,31-Jan-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,120,31-Jan-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,204,31-Jan-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,140,31-Jan-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,3,31-Jan-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,527,31-Jan-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,256,31-Jan-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,85,01-Feb-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,100,01-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,209,02-Feb-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,26618,02-Feb-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,18,02-Feb-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,50,02-Feb-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,7,02-Feb-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,60,02-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,285,02-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,260,02-Feb-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,12,02-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,37,02-Feb-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,02-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,110,03-Feb-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,100,03-Feb-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,90,03-Feb-2015
+Karnataka,KK,Haveri,Haveri,Ragi,30,6,03-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,177,03-Feb-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,100,03-Feb-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,14,03-Feb-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,400,03-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,381,04-Feb-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,15,04-Feb-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,15,04-Feb-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,2926,04-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,105,04-Feb-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,60,04-Feb-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,150,04-Feb-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,105,04-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,238,05-Feb-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,498,05-Feb-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,8,05-Feb-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,162,05-Feb-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,75,05-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,123,05-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,69,05-Feb-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,90,05-Feb-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,90,05-Feb-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,150,05-Feb-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,190,05-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,259,06-Feb-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,7,06-Feb-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,75,06-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,80,06-Feb-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,4,06-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,360,06-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,06-Feb-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,25,06-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,220,07-Feb-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,10,07-Feb-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,30,07-Feb-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,35,07-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,70,07-Feb-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,9,07-Feb-2015
+Karnataka,KK,Mysore,Hunsur,Ragi,30,60,07-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,51,07-Feb-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,15,08-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,213,09-Feb-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,7,09-Feb-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,80,09-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,13,09-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,620,09-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,32,09-Feb-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,65,09-Feb-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,123,09-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,10-Feb-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,10,10-Feb-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,30,10-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,10-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,10-Feb-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,6,10-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,11-Feb-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,8,11-Feb-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,11-Feb-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,19,11-Feb-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,11-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,11-Feb-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,11-Feb-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,125,11-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,11-Feb-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,34,11-Feb-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,11-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,12-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,12-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,20,12-Feb-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,12-Feb-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,10,12-Feb-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,12-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,13-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,27,13-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,13-Feb-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,30,13-Feb-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,8,14-Feb-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,14-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,14-Feb-2015
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,17,15-Feb-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,15-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,47,16-Feb-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,16-Feb-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,2,16-Feb-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,16-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,16-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,16-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,16-Feb-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,16-Feb-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,23,16-Feb-2015
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,16-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,34,18-Feb-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,18-Feb-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,59,18-Feb-2015
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,6,18-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,18,18-Feb-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,3,18-Feb-2015
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,9,19-Feb-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,19-Feb-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,12,19-Feb-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,30,19-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,19-Feb-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,24,19-Feb-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,19-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,20-Feb-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,20-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,20-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,20-Feb-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,3,20-Feb-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,10,20-Feb-2015
+Karnataka,KK,Mysore,Hunsur,Ragi,30,31,20-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,20-Feb-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,20,20-Feb-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,4,20-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,21-Feb-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,21-Feb-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,5,21-Feb-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,13,21-Feb-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,19,21-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,16,21-Feb-2015
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,17,22-Feb-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,17,22-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,23-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,23-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,23,23-Feb-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,22,23-Feb-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,25,23-Feb-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,8,23-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,24-Feb-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,24-Feb-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,15,24-Feb-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,30,24-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,24-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,8,24-Feb-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,4,24-Feb-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,5,24-Feb-2015
+Karnataka,KK,Mysore,Hunsur,Ragi,30,10,24-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,24-Feb-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,81,24-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,25-Feb-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,25-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,25-Feb-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,16,25-Feb-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,25-Feb-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,130,25-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,25-Feb-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,17,25-Feb-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,25-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,26-Feb-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,73,26-Feb-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,4,26-Feb-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,26-Feb-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,26-Feb-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,26-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,26-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,26-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,27-Feb-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,7,27-Feb-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,27-Feb-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,27-Feb-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,27-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,22,27-Feb-2015
+Karnataka,KK,Kolar,Gowribidanoor,Ragi,30,4,27-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,27-Feb-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,27-Feb-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,45,28-Feb-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,28-Feb-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,28-Feb-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,28-Feb-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,8,28-Feb-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,1,28-Feb-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,28-Feb-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,46,28-Feb-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,8,28-Feb-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,20,28-Feb-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,9,01-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,3,02-Mar-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,1,02-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,02-Mar-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,02-Mar-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,02-Mar-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,40,02-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,31,02-Mar-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,32,02-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,21,02-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,21,02-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,03-Mar-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,16,03-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,03-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,03-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,35,03-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,04-Mar-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,04-Mar-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,4,04-Mar-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,32,04-Mar-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,227,04-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,04-Mar-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,24,04-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,2,04-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,04-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,05-Mar-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,8,05-Mar-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,61,05-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,05-Mar-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,05-Mar-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,17,05-Mar-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,50,05-Mar-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,5,05-Mar-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,9,05-Mar-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,66,05-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,05-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,5,05-Mar-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,8,05-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,06-Mar-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,06-Mar-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,22,06-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,9,06-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,06-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,2,06-Mar-2015
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,06-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,06-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,46,07-Mar-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,07-Mar-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,07-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,07-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,07-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,07-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,24,07-Mar-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,14,08-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,09-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,09-Mar-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,9,09-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,38,09-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,09-Mar-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,88,09-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,2,10-Mar-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,17,10-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,10-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,5,10-Mar-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,10-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,32,10-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,11-Mar-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,9,11-Mar-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,24,11-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,11-Mar-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,8,11-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,12-Mar-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,30,12-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,4,12-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,21,12-Mar-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,59,12-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,12-Mar-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,11,12-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,12-Mar-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,12-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,13-Mar-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,20,13-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,16,13-Mar-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,2,13-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,13-Mar-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,20,13-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,2,13-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,13-Mar-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,7,14-Mar-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,14-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,8,14-Mar-2015
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,18,15-Mar-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,15-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,44,16-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,16-Mar-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,30,16-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,41,16-Mar-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,34,16-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,16-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,17-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,17-Mar-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,17-Mar-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,1,17-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,17-Mar-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,9,17-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,17-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,18-Mar-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,6,18-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,18-Mar-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,16,18-Mar-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,18-Mar-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,18-Mar-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,179,18-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,22,18-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,19-Mar-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,41,19-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,19-Mar-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,33,19-Mar-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,19-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,19-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,19-Mar-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,6,19-Mar-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,19-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,20-Mar-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,6,20-Mar-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,20-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,25,20-Mar-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,35,20-Mar-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,8,20-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,22,20-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,23-Mar-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,23-Mar-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,23-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,2,23-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,23-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,24-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,24-Mar-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,21,24-Mar-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,24-Mar-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,8,24-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,24-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,24-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,25-Mar-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,25-Mar-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,25-Mar-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,25-Mar-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,183,25-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,25-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,25-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,25-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,26-Mar-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,47,26-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,26-Mar-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,26-Mar-2015
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,6,26-Mar-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,16,26-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,26-Mar-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,26-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,27-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,27-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,9,27-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,27-Mar-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,27-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,5,27-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,17,27-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,28-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,28-Mar-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,2,28-Mar-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,10,28-Mar-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,16,28-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,28-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,16,28-Mar-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,8,29-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,30-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,4,30-Mar-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,30-Mar-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,36,30-Mar-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,30-Mar-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,30,30-Mar-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,54,30-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,31-Mar-2015
+Karnataka,KK,Bangalore,Kanakapura,Ragi,30,3,31-Mar-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,4,31-Mar-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,5,31-Mar-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,31-Mar-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,31-Mar-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,19,31-Mar-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,01-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,01-Apr-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,01-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,44,01-Apr-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,01-Apr-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,01-Apr-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,201,01-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,01-Apr-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,01-Apr-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,14,01-Apr-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,02-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,78,04-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,04-Apr-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,12,04-Apr-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,04-Apr-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,204,04-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,33,04-Apr-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,5,04-Apr-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,05-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,06-Apr-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,9,06-Apr-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,06-Apr-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,45,06-Apr-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,70,06-Apr-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,33,06-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,07-Apr-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,2,07-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,07-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,07-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,08-Apr-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,2,08-Apr-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,08-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,08-Apr-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,263,08-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,39,09-Apr-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,57,09-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,6,09-Apr-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,16,09-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,34,09-Apr-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,20,09-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,09-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,10-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,4,10-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,49,10-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,10-Apr-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,10-Apr-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,11-Apr-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,12-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,13-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,10,13-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,43,13-Apr-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,46,13-Apr-2015
+Karnataka,KK,Kolar,Malur,Ragi,30,3,13-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,13-Apr-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,21,13-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,15-Apr-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,15-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,44,15-Apr-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,47,15-Apr-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,38,15-Apr-2015
+Karnataka,KK,Haveri,Haveri,Ragi,30,1,15-Apr-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,243,15-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,15-Apr-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,17,15-Apr-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,15-Apr-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,21,15-Apr-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,17,15-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,16-Apr-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,8,16-Apr-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,21,16-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,16-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,16-Apr-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,28,16-Apr-2015
+Karnataka,KK,Kolar,Malur,Ragi,30,3,16-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,16-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,17-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,17-Apr-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,17-Apr-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,55,17-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,17-Apr-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,14,17-Apr-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,13,17-Apr-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,17-Apr-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,23,17-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,18-Apr-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,18-Apr-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,18-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,22,18-Apr-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,67,18-Apr-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,18,18-Apr-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,19-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,10,20-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,7,20-Apr-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,8,20-Apr-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,40,20-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,20-Apr-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,20,20-Apr-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,31,20-Apr-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,21-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,65,22-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,22-Apr-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,12,22-Apr-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,22-Apr-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,22-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,63,22-Apr-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,22-Apr-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,188,22-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,22-Apr-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,17,22-Apr-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,17,22-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,23-Apr-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,6,23-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,23-Apr-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,15,23-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,23-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,4,24-Apr-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,8,24-Apr-2015
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,5,24-Apr-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,10,24-Apr-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,28,24-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,24-Apr-2015
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,7,24-Apr-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,24-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,25-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,25-Apr-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,25-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,25-Apr-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,25-Apr-2015
+Karnataka,KK,Haveri,Haveri,Ragi,30,5,25-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,25-Apr-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,26-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,27-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,27-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,59,27-Apr-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,1,27-Apr-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,30,27-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,14,27-Apr-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,27-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,28-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,28-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,28-Apr-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,28-Apr-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,30,28-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,29-Apr-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,29-Apr-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,29-Apr-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,16,29-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,22,29-Apr-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,30,29-Apr-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,232,29-Apr-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,8,29-Apr-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,20,29-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,30-Apr-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,21,30-Apr-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,30-Apr-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,62,30-Apr-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,30-Apr-2015
+Karnataka,KK,Kolar,Gowribidanoor,Ragi,30,5,30-Apr-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,12,30-Apr-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,30-Apr-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,30-Apr-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,02-May-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,50,02-May-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,16,02-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,51,04-May-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,13,04-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,2,05-May-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,05-May-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,05-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,05-May-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,05-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,40,06-May-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,06-May-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,15,06-May-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,8,06-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,06-May-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,06-May-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,06-May-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,22,06-May-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,07-May-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,3,07-May-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,07-May-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,20,07-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,45,08-May-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,90,08-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,24,08-May-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,08-May-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,08-May-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,10-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,57,11-May-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,11-May-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,11-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,11-May-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,25,11-May-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,35,11-May-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,73,11-May-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,11-May-2015
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,11-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,12-May-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,4,12-May-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,12-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,12-May-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,6,12-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,13-May-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,9,13-May-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,13-May-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,21,13-May-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,13-May-2015
+Karnataka,KK,Kolar,Gowribidanoor,Ragi,30,3,13-May-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,224,13-May-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,13-May-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,10,13-May-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,3,13-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,14-May-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,29,14-May-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,14-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,56,14-May-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,16,14-May-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,14-May-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,14-May-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,21,14-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,15-May-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,15-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,15-May-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,10,15-May-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,15-May-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,2,15-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,16-May-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,10,16-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,18-May-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,18-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,18-May-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,48,18-May-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,14,18-May-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,13,18-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,19-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,52,19-May-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,20,19-May-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,19-May-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,19-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,20-May-2015
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,10,20-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,49,20-May-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,134,20-May-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,17,20-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,21-May-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,6,21-May-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,21,21-May-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,18,21-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,21-May-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,21-May-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,14,21-May-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,21-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,22-May-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,22-May-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,22-May-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,22-May-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,9,22-May-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,22-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,23-May-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,23-May-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,23-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,49,23-May-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,23-May-2015
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,4,23-May-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,20,23-May-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,23-May-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,24-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,25-May-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,6,25-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,25-May-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,32,25-May-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,25-May-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,25-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,26-May-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,12,26-May-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,26-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,26-May-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,15,26-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,27-May-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,9,27-May-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,12,27-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,27-May-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,17,27-May-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,411,27-May-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,27-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,28-May-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,16,28-May-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,28-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,29-May-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,29-May-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,20,29-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,29-May-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,22,29-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,30-May-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,30-May-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,24,30-May-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,71,30-May-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,30-May-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,01-Jun-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,5,01-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,01-Jun-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,9,01-Jun-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,10,01-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,01-Jun-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,2,01-Jun-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,21,01-Jun-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,02-Jun-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,18,02-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,02-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,03-Jun-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,03-Jun-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,162,03-Jun-2015
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,4,03-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,03-Jun-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,21,04-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,36,04-Jun-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,04-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,04-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,3,05-Jun-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,5,05-Jun-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,18,05-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,48,05-Jun-2015
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,1,05-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,06-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,06-Jun-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,06-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,24,06-Jun-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,07-Jun-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,3,07-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,08-Jun-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,4,08-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,08-Jun-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,08-Jun-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,18,08-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,08-Jun-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,27,08-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,09-Jun-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,14,09-Jun-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,11,09-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,09-Jun-2015
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,1,09-Jun-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,15,09-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,09-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,43,10-Jun-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,12,10-Jun-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,42,10-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,10-Jun-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,31,10-Jun-2015
+Karnataka,KK,Haveri,Haveri,Ragi,30,21,10-Jun-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,252,10-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,10-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,11-Jun-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,27,11-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,12-Jun-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,12-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,12-Jun-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,13-Jun-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,13-Jun-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,14-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,57,15-Jun-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,3,15-Jun-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,15-Jun-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,46,15-Jun-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,1,15-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,14,15-Jun-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,53,15-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,3,15-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,16-Jun-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,4,16-Jun-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,16-Jun-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,20,16-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,35,16-Jun-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,1,16-Jun-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,16-Jun-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,16-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,16-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,17-Jun-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,21,17-Jun-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,39,17-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,36,17-Jun-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,7766,17-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,17-Jun-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,8,17-Jun-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,12,17-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,17-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,18-Jun-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,18-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,19,18-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,18-Jun-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,15,18-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,19,18-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,19-Jun-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,36,19-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,19-Jun-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,12,19-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,19-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,20-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,39,20-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,20-Jun-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,20,20-Jun-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,22,20-Jun-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,1,21-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,1306,22-Jun-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,14,22-Jun-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,47,22-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,22-Jun-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,37,22-Jun-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,8,22-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,23-Jun-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,23-Jun-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,18,23-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,23-Jun-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,23-Jun-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,10,23-Jun-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,7,23-Jun-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,23-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,23-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,24-Jun-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,8,24-Jun-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,24-Jun-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,13,24-Jun-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,16,24-Jun-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,2,24-Jun-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,277,24-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,24-Jun-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,24-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,10,24-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,35,25-Jun-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,34,25-Jun-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,25-Jun-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,25,25-Jun-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,3,25-Jun-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,14,25-Jun-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,10,26-Jun-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,132,26-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,27-Jun-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,27-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,13,27-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,27-Jun-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,28-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,29-Jun-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,1,29-Jun-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,29-Jun-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,11,29-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,46,29-Jun-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,40,29-Jun-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,29-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,29-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,30-Jun-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,30-Jun-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,44,30-Jun-2015
+Karnataka,KK,Kolar,Malur,Ragi,30,1,30-Jun-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,8,30-Jun-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,30-Jun-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,30-Jun-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,01-Jul-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,9,01-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,01-Jul-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,01-Jul-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,87,01-Jul-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,01-Jul-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,17,01-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,02-Jul-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,30,02-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,02-Jul-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,02-Jul-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,02-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,03-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,19,03-Jul-2015
+Karnataka,KK,Haveri,Ranebennur,Ragi,30,1,03-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,03-Jul-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,03-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,04-Jul-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,84,04-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,41,04-Jul-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,04-Jul-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,04-Jul-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,05-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,06-Jul-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,1,06-Jul-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,06-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,06-Jul-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,2,06-Jul-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,13,06-Jul-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,23,06-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,06-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,07-Jul-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,07-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,07-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,16,07-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,08-Jul-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,08-Jul-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,08-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,08-Jul-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,08-Jul-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,12,08-Jul-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,173,08-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,08-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,45,09-Jul-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,18,09-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,22,09-Jul-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,2,09-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,09-Jul-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,6,09-Jul-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,09-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,10-Jul-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,10-Jul-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,10-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,10-Jul-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,10-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,10-Jul-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,13,10-Jul-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,11-Jul-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,12-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,13-Jul-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,25,13-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,14-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,14-Jul-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,29,14-Jul-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,7,14-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,14-Jul-2015
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,14-Jul-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,14-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,15-Jul-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,4,15-Jul-2015
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,7,15-Jul-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,2,15-Jul-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,15-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,42,15-Jul-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,44,15-Jul-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,58,15-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,16-Jul-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,26,16-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,16-Jul-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,10,16-Jul-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,16-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,16-Jul-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,16-Jul-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,25,16-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,17-Jul-2015
+Karnataka,KK,Bangalore,Kanakapura,Ragi,30,6,17-Jul-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,17-Jul-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,17-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,28,17-Jul-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,18-Jul-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,19-Jul-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,9,19-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,21-Jul-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,21-Jul-2015
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,10,21-Jul-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,4,21-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,49,21-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,21-Jul-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,21-Jul-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,27,21-Jul-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,22-Jul-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,15,22-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,22-Jul-2015
+Karnataka,KK,Kolar,Malur,Ragi,30,3,22-Jul-2015
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,5,22-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,22-Jul-2015
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,12,23-Jul-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,23-Jul-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,23-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,19,23-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,24-Jul-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,24-Jul-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,10,24-Jul-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,22,24-Jul-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,18,24-Jul-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,21,24-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,25-Jul-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,25-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,24,25-Jul-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,25-Jul-2015
+Karnataka,KK,Mysore,Hunsur,Ragi,30,9,25-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,25-Jul-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,4,25-Jul-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,26-Jul-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,16,26-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,27-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,27-Jul-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,25,27-Jul-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,16,27-Jul-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,2,27-Jul-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,3,27-Jul-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,27-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,28-Jul-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,2,28-Jul-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,28-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,58,28-Jul-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,28-Jul-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,5,28-Jul-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,17,28-Jul-2015
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,2,28-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,29-Jul-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,7,29-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,29-Jul-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,29-Jul-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,29-Jul-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,29-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,29-Jul-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,29-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,30-Jul-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,30,30-Jul-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,3,30-Jul-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,2,30-Jul-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,30-Jul-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,4,30-Jul-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,18,30-Jul-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,30-Jul-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,12,30-Jul-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,31-Jul-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,31-Jul-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,16,31-Jul-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,30,31-Jul-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,79,31-Jul-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,31-Jul-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,15,01-Aug-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,13,01-Aug-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,02-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,03-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,03-Aug-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,17,03-Aug-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,5,03-Aug-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,3,03-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,23,03-Aug-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,03-Aug-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,03-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,04-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,15,04-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,04-Aug-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,9,04-Aug-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,5,04-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,18,04-Aug-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,2,04-Aug-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,5,04-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,05-Aug-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,7,05-Aug-2015
+Karnataka,KK,Bellary,Hospet,Ragi,30,1,05-Aug-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,2,05-Aug-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,05-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,05-Aug-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,20,05-Aug-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,148,05-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,18,05-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,49,06-Aug-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,28,06-Aug-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,06-Aug-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,6,06-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,06-Aug-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,06-Aug-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,21,06-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,06-Aug-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,06-Aug-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,20,06-Aug-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,06-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,07-Aug-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,7,07-Aug-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,6,07-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,28,07-Aug-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,33,07-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,07-Aug-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,21,08-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,10-Aug-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,10-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,14,10-Aug-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,10-Aug-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,10-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,11-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,11-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,11-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,11-Aug-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,2,11-Aug-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,11-Aug-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,11-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,34,12-Aug-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,12,12-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,15,12-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,48,12-Aug-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,9,12-Aug-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,1,12-Aug-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,155,12-Aug-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,6,12-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,13-Aug-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,21,13-Aug-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,3,13-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,13-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,6,13-Aug-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,2,13-Aug-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,36,13-Aug-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,13-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,13-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,14-Aug-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,160,14-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,13,14-Aug-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,1,14-Aug-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,30,14-Aug-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,7,14-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,14-Aug-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,14-Aug-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,14-Aug-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,15-Aug-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,16-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,17-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,50,17-Aug-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,8,17-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,18-Aug-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,18-Aug-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,5,18-Aug-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,10,18-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,18-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,18-Aug-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,32,18-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,19-Aug-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,14,19-Aug-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,380,19-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,19-Aug-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,19-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,55,20-Aug-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,9,20-Aug-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,32,20-Aug-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,20-Aug-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,20-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,20-Aug-2015
+Karnataka,KK,Haveri,Haveri,Ragi,30,4,20-Aug-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,5,20-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,19,20-Aug-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,20-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,21-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,14,21-Aug-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,22-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,22-Aug-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,23-Aug-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,7,23-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,24-Aug-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,10,24-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,33,24-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,4,24-Aug-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,24-Aug-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,21,24-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,24-Aug-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,24-Aug-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,57,24-Aug-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,24-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,25-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,25-Aug-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,25-Aug-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,25-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,26-Aug-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,8,26-Aug-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,26-Aug-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,26-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,26-Aug-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,23,26-Aug-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,3,26-Aug-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,262,26-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,27-Aug-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,17,27-Aug-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,27-Aug-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,27-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,32,27-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,48,27-Aug-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,27-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,27-Aug-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,27-Aug-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,27-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,28-Aug-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,50,28-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,18,28-Aug-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,17,28-Aug-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,4,28-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,29-Aug-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,3,29-Aug-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,29-Aug-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,29-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,29-Aug-2015
+Karnataka,KK,Kolar,Malur,Ragi,30,2,29-Aug-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,29-Aug-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,30-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,43,31-Aug-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,31-Aug-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,10,31-Aug-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,31-Aug-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,3,31-Aug-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,42,31-Aug-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,31-Aug-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,60,31-Aug-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,16,31-Aug-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,31-Aug-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,31-Aug-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,01-Sep-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,01-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,01-Sep-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,01-Sep-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,22,01-Sep-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,01-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,35,02-Sep-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,9,02-Sep-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,75,02-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,02-Sep-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,2,02-Sep-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,156,02-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,03-Sep-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,19,03-Sep-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,03-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,03-Sep-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,39,03-Sep-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,03-Sep-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,03-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,04-Sep-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,10,04-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,04-Sep-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,04-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,05-Sep-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,05-Sep-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,18,05-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,28,05-Sep-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,05-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,07-Sep-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,07-Sep-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,18,07-Sep-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,40,07-Sep-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,07-Sep-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,07-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,08-Sep-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,08-Sep-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,9,08-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,09-Sep-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,9,09-Sep-2015
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,2,09-Sep-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,09-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,73,09-Sep-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,185,09-Sep-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,09-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,10-Sep-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,18,10-Sep-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,10-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,10-Sep-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,10-Sep-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,10,10-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,11-Sep-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,10,11-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,11-Sep-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,16,11-Sep-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,22,11-Sep-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,11-Sep-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,12-Sep-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,16,12-Sep-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,12-Sep-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,11,12-Sep-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,13-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,41,14-Sep-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,33,14-Sep-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,15,14-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,9,14-Sep-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,8,14-Sep-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,45,14-Sep-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,14-Sep-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,24,14-Sep-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,14-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,15-Sep-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,14,15-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,101,15-Sep-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,11,15-Sep-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,15-Sep-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,14,15-Sep-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,10,15-Sep-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,12,15-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,16-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,4,16-Sep-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,20,16-Sep-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,16-Sep-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,64,16-Sep-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,16-Sep-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,17,17-Sep-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,16,17-Sep-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,20,17-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,18-Sep-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,11,18-Sep-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,55,18-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,18-Sep-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,24,18-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,19-Sep-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,15,19-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,19-Sep-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,19-Sep-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,19-Sep-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,30,19-Sep-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,19-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,21-Sep-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,3,21-Sep-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,15,21-Sep-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,21,21-Sep-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,17,21-Sep-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,21-Sep-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,20,21-Sep-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,21-Sep-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,22,21-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,22-Sep-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,22-Sep-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,22-Sep-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,10,22-Sep-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,19,22-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,23-Sep-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,30,23-Sep-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,22,23-Sep-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,187,23-Sep-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,23-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,45,24-Sep-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,23,24-Sep-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,24-Sep-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,6,24-Sep-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,24-Sep-2015
+Karnataka,KK,Haveri,Ranebennur,Ragi,30,1,24-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,26-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,40,26-Sep-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,30,26-Sep-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,11,27-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,28-Sep-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,11,28-Sep-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,12,28-Sep-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,28-Sep-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,49,28-Sep-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,28-Sep-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,31,28-Sep-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,20,28-Sep-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,18,28-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,29-Sep-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,4,29-Sep-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,16,29-Sep-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,33,29-Sep-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,29-Sep-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,29-Sep-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,12,29-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,43,30-Sep-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,8,30-Sep-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,2,30-Sep-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,30-Sep-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,14,30-Sep-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,279,30-Sep-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,30-Sep-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,11,30-Sep-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,01-Oct-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,30,01-Oct-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,15,01-Oct-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,77,01-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,65,01-Oct-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,01-Oct-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,01-Oct-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,2,01-Oct-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,01-Oct-2015
+Karnataka,KK,Chikmagalur,Koppa,Ragi,30,7,02-Oct-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,20,02-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,03-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,33,03-Oct-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,17,03-Oct-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,10,04-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,05-Oct-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,05-Oct-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,7,05-Oct-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,20,05-Oct-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,95,05-Oct-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,24,05-Oct-2015
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,2,05-Oct-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,05-Oct-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,05-Oct-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,47,05-Oct-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,4,05-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,06-Oct-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,06-Oct-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,20,06-Oct-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,06-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,07-Oct-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,11,07-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,07-Oct-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,33,07-Oct-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,26,07-Oct-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,1,07-Oct-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,5,07-Oct-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,152,07-Oct-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,20,07-Oct-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,07-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,08-Oct-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,8,08-Oct-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,32,08-Oct-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,08-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,08-Oct-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,20,08-Oct-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,17,08-Oct-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,22,08-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,50,09-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,34,09-Oct-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,10,09-Oct-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,09-Oct-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,26,09-Oct-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,10-Oct-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,11-Oct-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,16,11-Oct-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,105,12-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,13-Oct-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,13-Oct-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,40,13-Oct-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,13-Oct-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,13-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,4,13-Oct-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,32,13-Oct-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,18,13-Oct-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,31,13-Oct-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,13-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,14-Oct-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,14-Oct-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,8,14-Oct-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,27,14-Oct-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,14-Oct-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,14-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,71,14-Oct-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,1,14-Oct-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,77,14-Oct-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,14-Oct-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,10,14-Oct-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,156,14-Oct-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,25,14-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,15-Oct-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,27,15-Oct-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,15-Oct-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,3,15-Oct-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,15-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,15-Oct-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,15-Oct-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,24,15-Oct-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,20,15-Oct-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,15-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,16-Oct-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,35,16-Oct-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,15,16-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,33,16-Oct-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,16-Oct-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,16-Oct-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,30,16-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,5,17-Oct-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,17-Oct-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,8,17-Oct-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,17-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,17-Oct-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,17-Oct-2015
+Karnataka,KK,Bellary,H.B. Halli,Ragi,30,113,18-Oct-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,18-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,5,19-Oct-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,19-Oct-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,19-Oct-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,19-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,35,19-Oct-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,14,19-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,20-Oct-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,20-Oct-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,20-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,20-Oct-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,20-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,21-Oct-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,179,21-Oct-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,20,21-Oct-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,24,21-Oct-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,225,21-Oct-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,30,22-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,35,26-Oct-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,5,26-Oct-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,16,26-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,64,26-Oct-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,35,26-Oct-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,26-Oct-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,29,26-Oct-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,26-Oct-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,30,27-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,28-Oct-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,2,28-Oct-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,13,28-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,28-Oct-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,178,28-Oct-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,25,28-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,29-Oct-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,9,29-Oct-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,20,29-Oct-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,35,29-Oct-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,21,29-Oct-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,29-Oct-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,29-Oct-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,29-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,30-Oct-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,16,30-Oct-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,65,30-Oct-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,17,30-Oct-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,30-Oct-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,30-Oct-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,31-Oct-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,2,31-Oct-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,24,31-Oct-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,31-Oct-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,10,31-Oct-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,120,31-Oct-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,9,31-Oct-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,33,01-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,10,02-Nov-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,02-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,13,02-Nov-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,38,02-Nov-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,02-Nov-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,02-Nov-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,9,02-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,03-Nov-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,10,03-Nov-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,17,03-Nov-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,03-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,04-Nov-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,10,04-Nov-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,4,04-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,56,04-Nov-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,04-Nov-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,21,04-Nov-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,246,04-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,05-Nov-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,05-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,1,05-Nov-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,05-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,5,06-Nov-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,06-Nov-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,06-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,33,06-Nov-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,8,06-Nov-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,339,06-Nov-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,16,06-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,07-Nov-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,07-Nov-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,12,07-Nov-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,07-Nov-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,07-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,07-Nov-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,07-Nov-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,30,07-Nov-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,16,07-Nov-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,07-Nov-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,12,08-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,2,09-Nov-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,45,09-Nov-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,10,09-Nov-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,09-Nov-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,10-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,11-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,39,11-Nov-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,191,11-Nov-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,12-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,13-Nov-2015
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,2,13-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,13-Nov-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,14-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,16-Nov-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,50,16-Nov-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,13,16-Nov-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,16-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,17-Nov-2015
+Karnataka,KK,Chitradurga,Holalkere,Ragi,30,25,17-Nov-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,8,17-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,17-Nov-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,10,17-Nov-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,33,17-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,10,18-Nov-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,3,18-Nov-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,4,18-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,18-Nov-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,18-Nov-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,337,18-Nov-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,30,18-Nov-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,10,18-Nov-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,19,18-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,19-Nov-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,24,19-Nov-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,4,19-Nov-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,11,19-Nov-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,19-Nov-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,7,19-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,19-Nov-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,3,19-Nov-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,9,19-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,18,20-Nov-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,8,20-Nov-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,152,20-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,20-Nov-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,12,20-Nov-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,25,20-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,43,21-Nov-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,21-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,40,21-Nov-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,21-Nov-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,22-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,23-Nov-2015
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,4,23-Nov-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,10,23-Nov-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,7,23-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,34,23-Nov-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,13,23-Nov-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,18,23-Nov-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,23-Nov-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,1,24-Nov-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,24-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,25-Nov-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,10,25-Nov-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,21,25-Nov-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,25-Nov-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,10,25-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,25-Nov-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,25-Nov-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,30,25-Nov-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,234,25-Nov-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,25-Nov-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,16,25-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,26-Nov-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,12,26-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,38,26-Nov-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,17,26-Nov-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,38,26-Nov-2015
+Karnataka,KK,Madikeri(Kodagu),Somvarpet,Ragi,30,125,26-Nov-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,21,26-Nov-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,21,26-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,27-Nov-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,5,27-Nov-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,60,27-Nov-2015
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,30,28-Nov-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,24,29-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,30-Nov-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,14,30-Nov-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,17,30-Nov-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,30-Nov-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,30,30-Nov-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,60,30-Nov-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,7,30-Nov-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,16,30-Nov-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,30-Nov-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,01-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,01-Dec-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,01-Dec-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,20,01-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,5,02-Dec-2015
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,02-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,02-Dec-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,270,02-Dec-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,1,02-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,03-Dec-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,3,03-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,03-Dec-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,03-Dec-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,2,03-Dec-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,03-Dec-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,03-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,04-Dec-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,9,04-Dec-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,120,04-Dec-2015
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,1,04-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,05-Dec-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,17,05-Dec-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,40,05-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,48,05-Dec-2015
+Karnataka,KK,Mysore,Hunsur,Ragi,30,1,06-Dec-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,38,06-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,07-Dec-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,07-Dec-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,3,07-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,07-Dec-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,5,07-Dec-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,15,07-Dec-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,07-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,08-Dec-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,16,08-Dec-2015
+Karnataka,KK,Hassan,Belur,Ragi,30,10,08-Dec-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,08-Dec-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,08-Dec-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,8,08-Dec-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,08-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,09-Dec-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,09-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,09-Dec-2015
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,12,09-Dec-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,221,09-Dec-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,12,09-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,10-Dec-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,10,10-Dec-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,22,10-Dec-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,1,10-Dec-2015
+Karnataka,KK,Kolar,Srinivasapur,Ragi,30,19,10-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,11-Dec-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,16,11-Dec-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,11-Dec-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,5,11-Dec-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,8,12-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,34,14-Dec-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,14-Dec-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,14-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,35,14-Dec-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,33,14-Dec-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,12,14-Dec-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,3,14-Dec-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,14-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,15-Dec-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,11,15-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,15-Dec-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,15-Dec-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,15-Dec-2015
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,12,15-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,52,16-Dec-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,16-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,55,16-Dec-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,17,16-Dec-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,251,16-Dec-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,16-Dec-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,2,16-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,17-Dec-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,17-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,17-Dec-2015
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,17-Dec-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,1,17-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,18-Dec-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,200,18-Dec-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,5,18-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,43,18-Dec-2015
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,14,18-Dec-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,18-Dec-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,19,18-Dec-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,21,18-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,19-Dec-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,50,19-Dec-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,19-Dec-2015
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,19-Dec-2015
+Karnataka,KK,Mysore,Hunsur,Ragi,30,1920,19-Dec-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,19-Dec-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,20-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,21-Dec-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,21-Dec-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,50,21-Dec-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,60,21-Dec-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,21-Dec-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,21-Dec-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,14,21-Dec-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,21-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,22-Dec-2015
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,3,22-Dec-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,22-Dec-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,22-Dec-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,22-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,23-Dec-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,50,23-Dec-2015
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,41,23-Dec-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,3,23-Dec-2015
+Karnataka,KK,Davangere,Davangere,Ragi,30,88,23-Dec-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,15,23-Dec-2015
+Karnataka,KK,Kolar,Mulabagilu,Ragi,30,7,23-Dec-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,89,23-Dec-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,16,23-Dec-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,35,24-Dec-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,44,25-Dec-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,5,25-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,58,26-Dec-2015
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,8,26-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,22,26-Dec-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,21,26-Dec-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,26-Dec-2015
+Karnataka,KK,Tumkur,Sira,Ragi,30,4,26-Dec-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,27-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,28-Dec-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,1,28-Dec-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,20,28-Dec-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,70,28-Dec-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,28-Dec-2015
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,1,28-Dec-2015
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,46,28-Dec-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,28-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,29-Dec-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,200,29-Dec-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,10,29-Dec-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,12,29-Dec-2015
+Karnataka,KK,Kolar,Chintamani,Ragi,30,73,29-Dec-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,29-Dec-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,36,29-Dec-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,31,29-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,30-Dec-2015
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,30-Dec-2015
+Karnataka,KK,Chikmagalur,Bagepalli,Ragi,30,6,30-Dec-2015
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,20,30-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,19,30-Dec-2015
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,30-Dec-2015
+Karnataka,KK,Hassan,Hassan,Ragi,30,38,30-Dec-2015
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,15,30-Dec-2015
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,130,30-Dec-2015
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,30-Dec-2015
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,14,30-Dec-2015
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,22,30-Dec-2015
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,14,30-Dec-2015
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,31-Dec-2015
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,89,31-Dec-2015
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,21,31-Dec-2015
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,31-Dec-2015
+Karnataka,KK,Kolar,Kolar,Ragi,30,2,31-Dec-2015
+Karnataka,KK,Mysore,Nanjangud,Ragi,30,13,31-Dec-2015
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,20,31-Dec-2015

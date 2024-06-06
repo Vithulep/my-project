@@ -1,0 +1,960 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,82,01-Jan-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,11,01-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,01-Jan-2018
+Karnataka,KK,Udupi,Kundapura,Arhar,260,8,01-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,106,02-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,8,02-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,02-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,77,03-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,60,03-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,50,04-Jan-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,5,04-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,04-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,04-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,145,05-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,6,05-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,05-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,184,06-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,06-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,06-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,296,08-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,19,08-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,293,09-Jan-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,7,09-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,09-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,62,10-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,13,10-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,203,11-Jan-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,10,11-Jan-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,11-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,11-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,120,12-Jan-2018
+Karnataka,KK,Davangere,Davangere,Arhar,260,4,12-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,12-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,12-Jan-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,13-Jan-2018
+Karnataka,KK,Kolar,Chickkaballapura,Arhar,260,1,13-Jan-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,6,15-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,364,16-Jan-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,16-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,44,16-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,16-Jan-2018
+Karnataka,KK,Udupi,Kundapura,Arhar,260,3,16-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,175,17-Jan-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,11,17-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,17,17-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,17-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,101,18-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,26,19-Jan-2018
+Karnataka,KK,Davangere,Davangere,Arhar,260,1,19-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,19-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,107,20-Jan-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,20-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,20-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,20-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,111,22-Jan-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,16,22-Jan-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,22-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,32,22-Jan-2018
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,2,22-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,22-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,166,23-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,17,23-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,23-Jan-2018
+Karnataka,KK,Udupi,Kundapura,Arhar,260,3,23-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,173,24-Jan-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,2,24-Jan-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,6,24-Jan-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,24-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,24-Jan-2018
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,1,24-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,24-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,91,25-Jan-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,60,25-Jan-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,7,25-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,6,25-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,25-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,8,26-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,413,27-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,41,27-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,8,27-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,250,29-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,76,29-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,29-Jan-2018
+Karnataka,KK,Udupi,Kundapura,Arhar,260,3,29-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,155,30-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,30-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,87,31-Jan-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,37,31-Jan-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,31-Jan-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,92,01-Feb-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,12,01-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,30,01-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,01-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,145,02-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,72,02-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,13,02-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,157,03-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,38,03-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,03-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,351,05-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,05-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,05-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,231,06-Feb-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,6,06-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,93,06-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,06-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,192,07-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,35,07-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,07-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,119,08-Feb-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,19,08-Feb-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,3,08-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,29,08-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,08-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,224,09-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,39,09-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,09-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,506,12-Feb-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,25,12-Feb-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,3,12-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,78,12-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,9,12-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,83,13-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,542,14-Feb-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,14-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,83,14-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,14-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,205,15-Feb-2018
+Karnataka,KK,Chikmagalur,Kadur,Arhar,260,16,15-Feb-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,5,15-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,28,15-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,98,16-Feb-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,16-Feb-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,16-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,16-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,94,17-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,2,17-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,302,19-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,297,20-Feb-2018
+Karnataka,KK,Bellary,Hospet,Arhar,260,1,20-Feb-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,8,20-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,24,20-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,20-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,304,21-Feb-2018
+Karnataka,KK,Kolar,Chickkaballapura,Arhar,260,7,21-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,70,21-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,21-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,270,22-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,2,22-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,22-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,165,23-Feb-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,21,23-Feb-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,5,23-Feb-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,23-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,39,23-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,23-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,200,24-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,16,24-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,24-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,171,26-Feb-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,26-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,28,26-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,26-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,247,27-Feb-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,14,27-Feb-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,14,27-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,55,27-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,27-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,220,28-Feb-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,28-Feb-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,28-Feb-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,28-Feb-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,69,01-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,30,01-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,01-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,140,02-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,02-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,178,03-Mar-2018
+Karnataka,KK,Kolar,Chickkaballapura,Arhar,260,3,03-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,78,03-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,12,03-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,128,05-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,51,05-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,05-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,172,06-Mar-2018
+Karnataka,KK,Bellary,Hospet,Arhar,260,9,06-Mar-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,06-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,8,06-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,06-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,188,07-Mar-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,12,07-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,45,07-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,07-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,194,08-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,08-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,220,09-Mar-2018
+Karnataka,KK,Davangere,Davangere,Arhar,260,5,09-Mar-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,11,09-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,18,09-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,09-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,515,12-Mar-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,1,12-Mar-2018
+Karnataka,KK,Kolar,Malur,Arhar,260,1,12-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,12-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,13,12-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,151,13-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,54,13-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,13-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,64,14-Mar-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,23,14-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,38,14-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,248,15-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,18,15-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,15-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,227,16-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,32,16-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,296,17-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,34,17-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,17-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,328,19-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,28,19-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,19-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,152,20-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,33,20-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,20-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,118,21-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,30,21-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,160,22-Mar-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,6,22-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,8,22-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,138,23-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,22,23-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,135,24-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,21,24-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,24-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,129,26-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,21,26-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,26-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,100,27-Mar-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,4,27-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,27-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,27-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,113,28-Mar-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,28-Mar-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,7,30-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,358,31-Mar-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,10,31-Mar-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,5,31-Mar-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,106,02-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,25,02-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,101,03-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,03-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,03-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,125,04-Apr-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,04-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,3,04-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,04-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,181,05-Apr-2018
+Karnataka,KK,Kolar,Gowribidanoor,Arhar,260,10,05-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,34,05-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,05-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,141,06-Apr-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,06-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,06-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,06-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,163,07-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,07-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,07-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,215,09-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,38,09-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,09-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,119,10-Apr-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,10-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,43,10-Apr-2018
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,1,10-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,10-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,80,11-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,30,11-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,11-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,43,12-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,12-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,12-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,64,13-Apr-2018
+Karnataka,KK,Davangere,Davangere,Arhar,260,7,13-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,28,13-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,383,16-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,29,16-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,16-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,123,17-Apr-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,17-Apr-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,9,17-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,44,17-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,94,19-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,105,26-Apr-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,7,26-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,21,26-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,26-Apr-2018
+Karnataka,KK,Tumkur,Tumkur,Arhar,260,8,26-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,107,27-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,27-Apr-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,27-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,98,28-Apr-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,28-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,21,28-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,260,30-Apr-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,13,30-Apr-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,30-Apr-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,24,30-Apr-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,271,02-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,49,02-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,02-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,166,03-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,03-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,03-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,42,04-May-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,4,04-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,04-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,04-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,164,05-May-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,8,05-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,13,05-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,15,05-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,389,07-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,07-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,07-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,147,08-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,2,08-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,08-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,158,09-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,09-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,177,10-May-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,4,10-May-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,10-May-2018
+Karnataka,KK,Kolar,Chickkaballapura,Arhar,260,5,10-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,10-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,229,11-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,11-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,11-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,421,14-May-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,14-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,25,14-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,14-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,357,15-May-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,8,15-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,101,16-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,9,16-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,71,17-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,9,17-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,17-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,147,18-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,18-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,226,19-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,19-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,13,19-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,326,21-May-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,49,21-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,7,21-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,21-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,360,22-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,47,22-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,123,23-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,34,23-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,23-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,85,24-May-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,6,24-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,39,24-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,137,25-May-2018
+Karnataka,KK,Kolar,Chickkaballapura,Arhar,260,11,25-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,25-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,242,26-May-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,26-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,21,26-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,26-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,264,28-May-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,8,28-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,13,28-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,28-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,140,29-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,31,29-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,91,30-May-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,30-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,30-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,74,31-May-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,31-May-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,5,31-May-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,19,31-May-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,31-May-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,83,01-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,18,01-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,01-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,112,02-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,8,02-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,02-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,269,04-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,9,04-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,04-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,159,05-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,29,05-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,05-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,91,06-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,06-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,9,06-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,206,07-Jun-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,11,07-Jun-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,07-Jun-2018
+Karnataka,KK,Mandya,Mandya,Arhar,260,1,07-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,37,07-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,07-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,128,08-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,2,08-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,08-Jun-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,8,09-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,273,11-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,40,11-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,11-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,108,12-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,12-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,12-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,75,13-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,35,13-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,13-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,145,14-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,14-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,14-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,58,15-Jun-2018
+Karnataka,KK,Davangere,Davangere,Arhar,260,6,15-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,15-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,479,18-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,18-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,244,19-Jun-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,22,19-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,35,19-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,153,20-Jun-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,20-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,20-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,184,21-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,5,21-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,21-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,199,22-Jun-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,25,22-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,4,22-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,22-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,158,23-Jun-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,23-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,16,23-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,295,25-Jun-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,7,25-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,25-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,97,26-Jun-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,2,26-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,50,26-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,8,26-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,59,27-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,19,27-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,27-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,73,28-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,5,28-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,28-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,7,29-Jun-2018
+Karnataka,KK,Kolar,Chickkaballapura,Arhar,260,4,29-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,13,29-Jun-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,29-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,106,30-Jun-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,5,30-Jun-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,29,30-Jun-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,190,02-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,28,02-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,02-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,174,03-Jul-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,4,03-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,49,03-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,03-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,72,04-Jul-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,3,04-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,27,04-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,04-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,109,05-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,38,05-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,161,06-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,43,06-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,06-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,270,07-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,25,07-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,07-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,535,09-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,39,09-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,12,09-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,217,10-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,30,10-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,164,12-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,12-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,12-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,135,13-Jul-2018
+Karnataka,KK,Davangere,Davangere,Arhar,260,2,13-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,13-Jul-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,8,14-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,307,16-Jul-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,16-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,47,16-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,10,16-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,266,17-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,17-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,17-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,166,18-Jul-2018
+Karnataka,KK,Bangalore,Doddaballa Pur,Arhar,260,9,18-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,18-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,18-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,116,19-Jul-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,6,19-Jul-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,15,19-Jul-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,2,19-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,19-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,19-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,161,20-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,20-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,20-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,110,21-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,21-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,21-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,127,23-Jul-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,16,23-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,23-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,133,24-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,24-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,97,25-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,25-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,21,26-Jul-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,26-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,26-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,16,27-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,27-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,27-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,9,28-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,28-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,262,30-Jul-2018
+Karnataka,KK,Kolar,Chickkaballapura,Arhar,260,17,30-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,30-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,231,31-Jul-2018
+Karnataka,KK,Kolar,Chickkaballapura,Arhar,260,5,31-Jul-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,6,31-Jul-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,31-Jul-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,198,01-Aug-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,2,01-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,35,01-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,01-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,135,02-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,5,02-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,8,02-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,214,03-Aug-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,03-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,03-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,03-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,196,04-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,8,04-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,04-Aug-2018
+Karnataka,KK,Tumkur,Pavagada,Arhar,260,10,04-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,162,06-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,9,06-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,120,07-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,25,07-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,07-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,122,08-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,08-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,50,09-Aug-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,3,09-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,28,09-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,93,10-Aug-2018
+Karnataka,KK,Kolar,Chickkaballapura,Arhar,260,3,10-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,10-Aug-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,11-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,454,13-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,31,13-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,13,13-Aug-2018
+Karnataka,KK,Tumkur,Madhugiri,Arhar,260,17,13-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,256,14-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,36,14-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,14-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,225,16-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,25,16-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,16-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,374,18-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,50,18-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,17,18-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,184,20-Aug-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,10,20-Aug-2018
+Karnataka,KK,Kolar,Malur,Arhar,260,2,20-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,33,20-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,20-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,125,21-Aug-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,30,21-Aug-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,21-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,7,21-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,21-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,267,23-Aug-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,5,23-Aug-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,28,23-Aug-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,2,23-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,9,23-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,11,23-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,149,24-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,57,24-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,24-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,133,25-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,37,25-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,13,25-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,218,27-Aug-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,12,27-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,29,27-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,27-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,122,28-Aug-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,2,28-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,27,28-Aug-2018
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,2,28-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,28-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,142,29-Aug-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,13,29-Aug-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,29-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,29-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,29-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,77,30-Aug-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,9,30-Aug-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,5,30-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,16,30-Aug-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,30-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,149,31-Aug-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,62,31-Aug-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,1,31-Aug-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,17,31-Aug-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,160,01-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,01-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,198,03-Sep-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,12,03-Sep-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,03-Sep-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,13,03-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,35,03-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,03-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,105,04-Sep-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,13,04-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,62,04-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,04-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,135,05-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,2,05-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,15,05-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,210,06-Sep-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,9,06-Sep-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,5,06-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,49,06-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,06-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,102,07-Sep-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,62,07-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,22,07-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,13,07-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,332,10-Sep-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,10-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,33,10-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,20,10-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,236,11-Sep-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,1,11-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,11-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,116,12-Sep-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,12-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,75,12-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,10,12-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,226,14-Sep-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,1,14-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,9,14-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,14-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,163,15-Sep-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,2,15-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,63,15-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,8,15-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,189,17-Sep-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,18,17-Sep-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,19,17-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,41,17-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,17-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,113,18-Sep-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,1,18-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,3,18-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,18-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,106,19-Sep-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,4,19-Sep-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,4,19-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,24,19-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,19-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,133,20-Sep-2018
+Karnataka,KK,Kolar,Gowribidanoor,Arhar,260,1,20-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,33,20-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,20-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,119,22-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,22,22-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,10,22-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,202,24-Sep-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,554,24-Sep-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,5,24-Sep-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,14,24-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,14,24-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,10,24-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,162,25-Sep-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,5,25-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,44,25-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,25-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,142,26-Sep-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,3,26-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,35,26-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,26-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,176,27-Sep-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,8,27-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,25,27-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,27-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,222,28-Sep-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,19,28-Sep-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,28-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,28-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,148,29-Sep-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,38,29-Sep-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,42,29-Sep-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,29-Sep-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,132,01-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,11,01-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,42,01-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,245,03-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,5,03-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,99,03-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,03-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,150,04-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,1,04-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,9,04-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,167,05-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,29,05-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,05-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,94,06-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,24,06-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,06-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,512,09-Oct-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,09-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,46,09-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,09-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,121,10-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,3,10-Oct-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,10-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,14,10-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,9,10-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,134,11-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,2,11-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,11-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,11-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,57,12-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,2,12-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,12-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,259,15-Oct-2018
+Karnataka,KK,Belgaum,Soundati,Arhar,260,10,15-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,5,15-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,13,15-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,195,16-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,12,16-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,16,16-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,16-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,124,17-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,46,17-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,17-Oct-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,18-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,246,20-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,18,20-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,20-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,264,22-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,2,22-Oct-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,16,22-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,8,22-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,22-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,136,23-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,3,23-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,9,23-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,23-Oct-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,8,24-Oct-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,24-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,351,25-Oct-2018
+Karnataka,KK,Belgaum,Soundati,Arhar,260,5,25-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,5,25-Oct-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,25-Oct-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,17,25-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,34,25-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,25-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,142,26-Oct-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,1,26-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,39,26-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,26-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,238,27-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,34,27-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,27-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,216,29-Oct-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,7,29-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,34,29-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,312,30-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,62,30-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,30-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,181,31-Oct-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,25,31-Oct-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,31-Oct-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,2,31-Oct-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,31-Oct-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,304,02-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,02-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,10,02-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,278,03-Nov-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,03-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,32,03-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,289,05-Nov-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,6,05-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,4,05-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,11,05-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,541,07-Nov-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,07-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,81,07-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,07-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,155,09-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,09-Nov-2018
+Karnataka,KK,Belgaum,Soundati,Arhar,260,5,12-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,708,13-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,56,13-Nov-2018
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,2,13-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,10,13-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,103,14-Nov-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,14-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,16,14-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,14-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,197,15-Nov-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,15-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,9,15-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,8,15-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,97,16-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,35,16-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,16-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,96,17-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,17-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,17-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,246,19-Nov-2018
+Karnataka,KK,Hassan,Arasikere,Arhar,260,3,19-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,22,19-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,19-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,175,20-Nov-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,20-Nov-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,20-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,68,20-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,20-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,198,22-Nov-2018
+Karnataka,KK,Belgaum,Sankeshwar,Arhar,260,12,22-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,3,22-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,22-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,192,23-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,4,23-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,23-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,66,24-Nov-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,17,24-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,43,24-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,24-Nov-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,26-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,590,27-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,46,27-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,27-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,151,28-Nov-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,1,28-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,28-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,13,28-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,242,29-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,34,29-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,29-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,185,30-Nov-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,73,30-Nov-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,51,30-Nov-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,21,30-Nov-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,30-Nov-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,146,01-Dec-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,22,01-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,38,01-Dec-2018
+Karnataka,KK,Chitradurga,Hiriyur,Arhar,260,19,02-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,150,03-Dec-2018
+Karnataka,KK,Belgaum,Soundati,Arhar,260,15,03-Dec-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,3,03-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,3,03-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,03-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,265,04-Dec-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,70,04-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,40,04-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,04-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,87,05-Dec-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,6,05-Dec-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,2,05-Dec-2018
+Karnataka,KK,Mandya,Mandya,Arhar,260,1,05-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,34,05-Dec-2018
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,2,05-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,05-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,34,06-Dec-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,3,06-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,06-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,06-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,97,07-Dec-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,3,07-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,5,07-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,07-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,257,10-Dec-2018
+Karnataka,KK,Haveri,Haveri,Arhar,260,21,10-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,2,10-Dec-2018
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,1,10-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,10-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,27,12-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,13,12-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,8,12-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,82,13-Dec-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,2,13-Dec-2018
+Karnataka,KK,Kolar,Kolar,Arhar,260,4,13-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,37,13-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,13-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,132,14-Dec-2018
+Karnataka,KK,Davangere,Davangere,Arhar,260,3,14-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,14-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,14-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,129,15-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,19,15-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,15-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,207,17-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,17-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,17-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,235,18-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,18-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,18-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,138,19-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,13,19-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,19-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,23,20-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,20-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,87,21-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,21-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,13,21-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,162,22-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,22-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,22-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,186,24-Dec-2018
+Karnataka,KK,Chikmagalur,Kadur,Arhar,260,6,24-Dec-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,5,24-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,24-Dec-2018
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,40,25-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,175,26-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,44,26-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,26-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,74,27-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,32,27-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,27-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,74,28-Dec-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,41,28-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,18,28-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,28-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,73,29-Dec-2018
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,9,29-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,29-Dec-2018
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,66,31-Dec-2018
+Karnataka,KK,Bellary,Bellary,Arhar,260,62,31-Dec-2018
+Karnataka,KK,Hassan,Hassan,Arhar,260,10,31-Dec-2018
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,31-Dec-2018

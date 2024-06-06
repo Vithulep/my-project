@@ -1,0 +1,7 @@
+VDSA data has same fertilizer prices in all districts of the state, which makes sense because the government subsidizes/fixes cost of inputs such as seeds and fertilizers across the state.
+
+Although the cost of cultivation is aggregated for the state, we can consider the different wages of different districts from the VDSA data to get different cost of cultivation.(We can do this in the next iteration if we want a fast initial iteration).
+
+Detailed info about area under cultivation and yield can also be taken from the VDSA data in the subsequent rounds.
+
+Population statistics from VDSA data can also be used for demand/consumption statistics.

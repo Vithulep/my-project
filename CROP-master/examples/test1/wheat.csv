@@ -1,0 +1,4 @@
+﻿District ID,Cost,Yield,Price,Demand Max,Demand Min,
+1,10000,2.5,1100,15,10,12.5
+2,10000,2,1200,8,5,10
+3,10000,0,1000,1,0.7,0

@@ -1,0 +1,2256 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,01-Jan-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,1,01-Jan-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,01-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,18,01-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,01-Jan-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,14,01-Jan-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,01-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,02-Jan-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,02-Jan-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,5,02-Jan-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,02-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,31,02-Jan-2010
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,4,02-Jan-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,19,02-Jan-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,03-Jan-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,18,03-Jan-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,03-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,04-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,39,04-Jan-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,04-Jan-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,22,04-Jan-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,19,04-Jan-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,04-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,05-Jan-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,8,05-Jan-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,8,05-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,05-Jan-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,27,05-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,05-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,47,06-Jan-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,4,06-Jan-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,54,06-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,36,06-Jan-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,06-Jan-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,22,06-Jan-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,164,06-Jan-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,10,06-Jan-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,12,06-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,07-Jan-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,14,07-Jan-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,2,07-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,48,07-Jan-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,17,07-Jan-2010
+Karnataka,KK,Kolar,Malur,Ragi,30,1,07-Jan-2010
+Karnataka,KK,Madikeri(Kodagu),Gonikappal,Ragi,30,10,07-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,07-Jan-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,3,07-Jan-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,9,07-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,08-Jan-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,08-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,8,08-Jan-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,08-Jan-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,94,08-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,08-Jan-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,09-Jan-2010
+Karnataka,KK,Kolar,Chickkaballapura,Ragi,30,43,09-Jan-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,17,09-Jan-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,5,09-Jan-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,1,10-Jan-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,107,10-Jan-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,11,10-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,80,11-Jan-2010
+Karnataka,KK,Bangalore,Channapatana,Ragi,30,6,11-Jan-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,69,11-Jan-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,11-Jan-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,11-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,60,11-Jan-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,11-Jan-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,7,11-Jan-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,28,11-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,11-Jan-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,7,11-Jan-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,15,11-Jan-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,11-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,12-Jan-2010
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,10,12-Jan-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,7,12-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,42,12-Jan-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,88,12-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,13-Jan-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,13-Jan-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,16,13-Jan-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,13-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,13-Jan-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,75,13-Jan-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,42,13-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,13-Jan-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,13-Jan-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,13-Jan-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,14-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,15-Jan-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,15-Jan-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,15-Jan-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,25,15-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,15-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,16-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,16-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,16-Jan-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,11,16-Jan-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,1,17-Jan-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,2,17-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,18-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,1,18-Jan-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,18-Jan-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,16,18-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,18-Jan-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,21,18-Jan-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,18-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,19-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,18,19-Jan-2010
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,8,19-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,19-Jan-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,19-Jan-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,19-Jan-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,6,19-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,41,20-Jan-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,21,20-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,63,20-Jan-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,26,20-Jan-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,36,20-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,20-Jan-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,20-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,21-Jan-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,4,21-Jan-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,7,21-Jan-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,57,21-Jan-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,21-Jan-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,28,21-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,35,21-Jan-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,42,21-Jan-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,21-Jan-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,21-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,22-Jan-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,22-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,24,22-Jan-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,22-Jan-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,8,22-Jan-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,22-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,22-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,23-Jan-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,7,23-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,44,23-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,23-Jan-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,21,23-Jan-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,1,24-Jan-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,24-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,15,25-Jan-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,14,25-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,25-Jan-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,25-Jan-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,8,25-Jan-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,25-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,25-Jan-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,4,25-Jan-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,12,25-Jan-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,25-Jan-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,7,26-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,47,27-Jan-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,3,27-Jan-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,19,27-Jan-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,14,27-Jan-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,60,27-Jan-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,3,27-Jan-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,162,27-Jan-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,4,27-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,27-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,10,28-Jan-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,5,28-Jan-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,28-Jan-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,4,28-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,28-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,28-Jan-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,4,28-Jan-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,28-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,29-Jan-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,118,29-Jan-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,29-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,8,29-Jan-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,29-Jan-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,29-Jan-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,4,29-Jan-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,10,29-Jan-2010
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,5,29-Jan-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,6,29-Jan-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,29-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,30-Jan-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,30-Jan-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,30-Jan-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,39,30-Jan-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,20,30-Jan-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,14,30-Jan-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,41,01-Feb-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,4,01-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,01-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,01-Feb-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,6,01-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,01-Feb-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,21,01-Feb-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,01-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,39,02-Feb-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,15,02-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,02-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,40,02-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,02-Feb-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,16,02-Feb-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,7,02-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,03-Feb-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,03-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,72,03-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,53,03-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,111,03-Feb-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,95,03-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,03-Feb-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,16,03-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,49,04-Feb-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,2,04-Feb-2010
+Karnataka,KK,Bangalore,Kanakapura,Ragi,30,3,04-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,04-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,66,04-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,04-Feb-2010
+Karnataka,KK,Kolar,Malur,Ragi,30,15,04-Feb-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,5,04-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,25,04-Feb-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,04-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,61,05-Feb-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,5,05-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,104,05-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,05-Feb-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,31,05-Feb-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,1,05-Feb-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,05-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,06-Feb-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,24,06-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,106,06-Feb-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,06-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,06-Feb-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,37,06-Feb-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,20,07-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,39,08-Feb-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,08-Feb-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,17,08-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,08-Feb-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,08-Feb-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,08-Feb-2010
+Karnataka,KK,Madikeri(Kodagu),Gonikappal,Ragi,30,10,08-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,08-Feb-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,23,08-Feb-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,08-Feb-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,9,08-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,43,09-Feb-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,136,09-Feb-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,6,09-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,09-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,90,09-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,15,09-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,09-Feb-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,34,09-Feb-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,09-Feb-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,5,09-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,10-Feb-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,5,10-Feb-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,2,10-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,45,10-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,48,10-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,10-Feb-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,168,10-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,63,11-Feb-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,2,11-Feb-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,3,11-Feb-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,33,11-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,3,11-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,27,11-Feb-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,11-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,16,11-Feb-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,9,11-Feb-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,13-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,109,15-Feb-2010
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,3,15-Feb-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,15-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,89,15-Feb-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,15-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,15-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,69,15-Feb-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,27,15-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,15-Feb-2010
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,45,15-Feb-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,40,15-Feb-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,15-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,16-Feb-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,41,16-Feb-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,2,16-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,16-Feb-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,16-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,16-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,56,16-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,16-Feb-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,16-Feb-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,6,16-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,17-Feb-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,17-Feb-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,15,17-Feb-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,5,17-Feb-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,22,17-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,58,17-Feb-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,17-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,65,17-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,46,17-Feb-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,183,17-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,17-Feb-2010
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,16,17-Feb-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,17-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,35,18-Feb-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,31,18-Feb-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,18-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,16,18-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,18-Feb-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,18-Feb-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,18-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,19-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,19-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,19-Feb-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,12,19-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,25,19-Feb-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,15,19-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,45,20-Feb-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,20-Feb-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,33,20-Feb-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,5,20-Feb-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,4,20-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,20-Feb-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,21-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,53,22-Feb-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,22-Feb-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,22-Feb-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,9,22-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,5,22-Feb-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,22-Feb-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,258,22-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,13,22-Feb-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,12,22-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,22-Feb-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,8,22-Feb-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,22-Feb-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,41,23-Feb-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,57,23-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,45,23-Feb-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,13,23-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,23-Feb-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,8,23-Feb-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,8,25-Feb-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,16,25-Feb-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,26-Feb-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,26-Feb-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,01-Mar-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,22,01-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,01-Mar-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,22,01-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,52,02-Mar-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,28,02-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,4,02-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,55,02-Mar-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,7,02-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,02-Mar-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,20,02-Mar-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,02-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,03-Mar-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,1,03-Mar-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,1,03-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,33,03-Mar-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,03-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,8,03-Mar-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,37,03-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,03-Mar-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,220,03-Mar-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,187,03-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,03-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,76,04-Mar-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,04-Mar-2010
+Karnataka,KK,Bangalore,Kanakapura,Ragi,30,1,04-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,133,04-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,2,04-Mar-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,04-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,04-Mar-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,21,04-Mar-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,04-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,04-Mar-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,04-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,05-Mar-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,4,05-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,11,05-Mar-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,15,05-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,05-Mar-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,05-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,05-Mar-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,05-Mar-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,05-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,06-Mar-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,06-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,6,06-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,81,06-Mar-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,8,06-Mar-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,12,06-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,27,06-Mar-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,10,06-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,48,08-Mar-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,4,08-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,08-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,7,08-Mar-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,08-Mar-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,119,08-Mar-2010
+Karnataka,KK,Karwar(Uttar Kannad),Siddapur,Ragi,30,3,08-Mar-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,5,08-Mar-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,6,08-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,08-Mar-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,7,08-Mar-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,12,08-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,109,09-Mar-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,09-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,16,09-Mar-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,09-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,23,09-Mar-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,27,09-Mar-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,09-Mar-2010
+Karnataka,KK,Kolar,Malur,Ragi,30,1,09-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,09-Mar-2010
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,10,09-Mar-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,4,09-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,49,10-Mar-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,10-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,142,10-Mar-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,11,10-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,18,10-Mar-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,18,10-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,25,10-Mar-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,65,10-Mar-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,138,10-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,46,11-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,86,11-Mar-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,15,11-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,10,11-Mar-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,37,11-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,42,11-Mar-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,3,11-Mar-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,4,11-Mar-2010
+Karnataka,KK,Mandya,K.R. Pet,Ragi,30,4,11-Mar-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,22,11-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,11-Mar-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,11-Mar-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,11-Mar-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,11-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,12-Mar-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,12-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,3,12-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,12-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,12-Mar-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,26,13-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,79,15-Mar-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,15-Mar-2010
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,5,15-Mar-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,15-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,33,15-Mar-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,32,15-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,14,15-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,40,15-Mar-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,15-Mar-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,15-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,15-Mar-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,5,15-Mar-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,15-Mar-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,15,15-Mar-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,15-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,17-Mar-2010
+Karnataka,KK,Bellary,Hoovinahadagali,Ragi,30,70,17-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,17-Mar-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,24,17-Mar-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,156,17-Mar-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,17-Mar-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,21,17-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,6,18-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,73,18-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,18-Mar-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,29,18-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,18-Mar-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,4,18-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,9,19-Mar-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,19-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,78,19-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,19-Mar-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,46,19-Mar-2010
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,24,19-Mar-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,5,19-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,19-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,20-Mar-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,20-Mar-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,9,20-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,50,20-Mar-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,4,20-Mar-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,12,20-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,26,20-Mar-2010
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,8,21-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,22-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,7,22-Mar-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,22-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,22-Mar-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,22-Mar-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,110,22-Mar-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,5,22-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,22-Mar-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,4,22-Mar-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,22-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,45,23-Mar-2010
+Karnataka,KK,Bellary,Hoovinahadagali,Ragi,30,21,23-Mar-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,26,23-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,7,23-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,44,23-Mar-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,30,23-Mar-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,3,23-Mar-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,6,23-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,23-Mar-2010
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,16,23-Mar-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,23-Mar-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,5,23-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,24-Mar-2010
+Karnataka,KK,Bellary,Hoovinahadagali,Ragi,30,16,24-Mar-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,1,24-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,95,24-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,4,24-Mar-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,24-Mar-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,25,24-Mar-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,24-Mar-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,167,24-Mar-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,22,24-Mar-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,24-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,44,25-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,87,25-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,5,25-Mar-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,7,25-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,52,25-Mar-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,4,25-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,25-Mar-2010
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,17,25-Mar-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,25-Mar-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,16,25-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,26-Mar-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,48,26-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,42,26-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,26-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,26-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,39,27-Mar-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,15,27-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,27-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,27,27-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,27-Mar-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,42,27-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,29-Mar-2010
+Karnataka,KK,Bangalore,Kanakapura,Ragi,30,3,29-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,98,29-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,3,29-Mar-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,29-Mar-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,29-Mar-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,36,29-Mar-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,148,29-Mar-2010
+Karnataka,KK,Kolar,Malur,Ragi,30,2,29-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,29-Mar-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,7,29-Mar-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,29-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,73,30-Mar-2010
+Karnataka,KK,Bangalore,Kanakapura,Ragi,30,2,30-Mar-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,30-Mar-2010
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,10,30-Mar-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,5,30-Mar-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,30-Mar-2010
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,16,30-Mar-2010
+Karnataka,KK,Kolar,Chickkaballapura,Ragi,30,3,30-Mar-2010
+Karnataka,KK,Kolar,Malur,Ragi,30,1,30-Mar-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,2,30-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,38,31-Mar-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,1,31-Mar-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,34,31-Mar-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,15,31-Mar-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,53,31-Mar-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,3,31-Mar-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,20,31-Mar-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,01-Apr-2010
+Karnataka,KK,Bangalore,Kanakapura,Ragi,30,5,01-Apr-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,5,01-Apr-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,5,01-Apr-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,01-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,01-Apr-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,01-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,3,01-Apr-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,33,01-Apr-2010
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,10,01-Apr-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,80,01-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,74,03-Apr-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,03-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,8,03-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,03-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,03-Apr-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,03-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,70,05-Apr-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,4,05-Apr-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,05-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,7,05-Apr-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,05-Apr-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,05-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,05-Apr-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,19,05-Apr-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,1,05-Apr-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,05-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,52,06-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,06-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,6,06-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,5,06-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,47,06-Apr-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,2,06-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,06-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,62,07-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,102,07-Apr-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,3,07-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,12,07-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,28,07-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,36,07-Apr-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,88,07-Apr-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,13,07-Apr-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,07-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,09-Apr-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,09-Apr-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,7,09-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,72,09-Apr-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,15,09-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,3,09-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,43,09-Apr-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,09-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,9,09-Apr-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,09-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,30,10-Apr-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,231,10-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,87,12-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,33,12-Apr-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,12-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,8,12-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,12-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,12-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,51,12-Apr-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,12-Apr-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,5,12-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,12-Apr-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,5,12-Apr-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,5,12-Apr-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,12-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,40,13-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,3,13-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,35,13-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,51,13-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,17,13-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,13-Apr-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,13-Apr-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,5,13-Apr-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,3,14-Apr-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,37,14-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,60,15-Apr-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,4,15-Apr-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,15,15-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,9,15-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,34,15-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,14,15-Apr-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,33,15-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,17,15-Apr-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,11,15-Apr-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,2,15-Apr-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,15-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,16-Apr-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,2,16-Apr-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,16-Apr-2010
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,7,16-Apr-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,16-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,10,16-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,25,16-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,34,16-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,9,16-Apr-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,16,16-Apr-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,16-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,17-Apr-2010
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,2,17-Apr-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,7,17-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,67,17-Apr-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,17-Apr-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,17-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,23,17-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,24,17-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,60,17-Apr-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,1,17-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,17-Apr-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,28,17-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,41,19-Apr-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,19-Apr-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,17,19-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,2,19-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,28,19-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,19-Apr-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,19-Apr-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,26,19-Apr-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,22,19-Apr-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,9,19-Apr-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,19-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,35,20-Apr-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,20-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,118,20-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,3,20-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,1,20-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,62,20-Apr-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,1,20-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,20-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,20-Apr-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,1,20-Apr-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,20-Apr-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,4,20-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,21-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,85,21-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,21-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,21-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,44,21-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,29,21-Apr-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,21-Apr-2010
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,20,21-Apr-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,234,21-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,21-Apr-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,21-Apr-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,2,21-Apr-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,21-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,22-Apr-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,22-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,22-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,94,22-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,22-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,12,22-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,22-Apr-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,5,22-Apr-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,22-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,23-Apr-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,23-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,95,23-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,3,23-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,23-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,23-Apr-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,38,23-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,23-Apr-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,23-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,49,24-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,43,24-Apr-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,24-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,2,24-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,77,24-Apr-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,46,24-Apr-2010
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,10,24-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,24-Apr-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,2,24-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,77,26-Apr-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,26-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,26-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,6,26-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,21,26-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,26-Apr-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,26-Apr-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,26-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,26-Apr-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,26-Apr-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,26-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,27-Apr-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,27-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,2,27-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,27-Apr-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,15,27-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,34,27-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,27-Apr-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,1,27-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,27-Apr-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,27-Apr-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,27-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,11,28-Apr-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,1,28-Apr-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,28-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,51,28-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,28-Apr-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,192,28-Apr-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,28-Apr-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,28-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,50,29-Apr-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,4,29-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,29-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,29-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,29-Apr-2010
+Karnataka,KK,Mandya,Pandavapura,Ragi,30,7,29-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,29-Apr-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,12,29-Apr-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,29-Apr-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,30-Apr-2010
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,5,30-Apr-2010
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,8,30-Apr-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,30-Apr-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,30-Apr-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,30-Apr-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,9,30-Apr-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,32,30-Apr-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,30-Apr-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,30-Apr-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,14,01-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,11,02-May-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,02-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,03-May-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,03-May-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,5,03-May-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,03-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,03-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,03-May-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,24,03-May-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,5,03-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,03-May-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,20,03-May-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,03-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,04-May-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,04-May-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,6,04-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,60,04-May-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,2,04-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,04-May-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,6,04-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,05-May-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,4,05-May-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,74,05-May-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,6,05-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,13,05-May-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,57,05-May-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,05-May-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,99,05-May-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,10,05-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,05-May-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,4,05-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,52,06-May-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,06-May-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,06-May-2010
+Karnataka,KK,Chikmagalur,Moodigere,Ragi,30,6,06-May-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,06-May-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,4,06-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,06-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,06-May-2010
+Karnataka,KK,Kolar,Malur,Ragi,30,2,06-May-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,06-May-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,06-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,51,07-May-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,07-May-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,07-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,45,07-May-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,9,07-May-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,32,07-May-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,07-May-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,08-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,09-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,34,10-May-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,4,10-May-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,10-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,10-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,10-May-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,10-May-2010
+Karnataka,KK,Madikeri(Kodagu),Gonikappal,Ragi,30,10,10-May-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,10-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,11-May-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,7,11-May-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,4,11-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,38,11-May-2010
+Karnataka,KK,Kolar,Malur,Ragi,30,2,11-May-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,21,11-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,12-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,24,12-May-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,152,12-May-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,12-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,13-May-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,13-May-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,13-May-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,13-May-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,13-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,13-May-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,13-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,14-May-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,14-May-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,14-May-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,14-May-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,42,14-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,14-May-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,3,14-May-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,6,14-May-2010
+Karnataka,KK,Mandya,Srirangapattana,Ragi,30,15,14-May-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,2,14-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,15-May-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,8,15-May-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,15-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,27,15-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,15-May-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,37,15-May-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,13,15-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,16-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,17-May-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,17-May-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,17-May-2010
+Karnataka,KK,Davangere,Honnali,Ragi,30,7,17-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,1,17-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,17-May-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,106,17-May-2010
+Karnataka,KK,Mandya,Pandavapura,Ragi,30,10,17-May-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,17-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,18-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,13,18-May-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,18-May-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,6,18-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,19-May-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,4,19-May-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,19-May-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,15,19-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,19-May-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,18,19-May-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,111,19-May-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,19-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,88,20-May-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,20-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,40,20-May-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,11,20-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,20-May-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,2,20-May-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,20-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,21-May-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,16,21-May-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,21-May-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,14,21-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,21-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,22-May-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,12,22-May-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,22-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,28,22-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,22-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,22-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,23-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,24-May-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,24-May-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,14,24-May-2010
+Karnataka,KK,Davangere,Honnali,Ragi,30,10,24-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,24-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,24-May-2010
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,17,24-May-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,23,24-May-2010
+Karnataka,KK,Madikeri(Kodagu),Gonikappal,Ragi,30,2,24-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,24-May-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,10,24-May-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,24-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,25-May-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,25-May-2010
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,10,25-May-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,28,25-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,25-May-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,66,25-May-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,4,25-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,25-May-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,6,25-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,26-May-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,26-May-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,8,26-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,26-May-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,20,26-May-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,14,26-May-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,87,26-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,26-May-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,26-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,38,27-May-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,27-May-2010
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,5,27-May-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,14,27-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,27-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,13,27-May-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,27-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,14,27-May-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,7,27-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,28-May-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,28-May-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,28-May-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,7,28-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,28-May-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,9,28-May-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,86,28-May-2010
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,17,28-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,28-May-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,63,28-May-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,28-May-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,3,28-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,29-May-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,29-May-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,9,29-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,25,29-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,29-May-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,17,29-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,30-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,31-May-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,31-May-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,10,31-May-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,9,31-May-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,6,31-May-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,37,31-May-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,31-May-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,14,31-May-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,20,31-May-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,31-May-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,31-May-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,13,31-May-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,27,01-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,36,01-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,01-Jun-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,5,01-Jun-2010
+Karnataka,KK,Tumkur,Turvekere,Ragi,30,14,01-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,02-Jun-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,02-Jun-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,02-Jun-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,112,02-Jun-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,02-Jun-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,02-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,34,02-Jun-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,43,02-Jun-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,168,02-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,02-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,69,03-Jun-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,03-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,03-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,03-Jun-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,4,03-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,04-Jun-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,87,04-Jun-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,18,04-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,1428,04-Jun-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,12,04-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,05-Jun-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,5,05-Jun-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,05-Jun-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,5,05-Jun-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,3,05-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,05-Jun-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,05-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,05-Jun-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,18,05-Jun-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,06-Jun-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,3,06-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,47,07-Jun-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,4,07-Jun-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,07-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,4,07-Jun-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,07-Jun-2010
+Karnataka,KK,Madikeri(Kodagu),Gonikappal,Ragi,30,10,07-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,07-Jun-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,13,07-Jun-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,07-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,08-Jun-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,08-Jun-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,6,08-Jun-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,17,08-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,3,08-Jun-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,39,08-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,08-Jun-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,340,08-Jun-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,36,08-Jun-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,5,08-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,09-Jun-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,2,09-Jun-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,76,09-Jun-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,38,09-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,09-Jun-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,13,09-Jun-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,25,09-Jun-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,128,09-Jun-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,96,09-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,09-Jun-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,09-Jun-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,12,09-Jun-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,1,09-Jun-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,09-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,10-Jun-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,10-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,53,10-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,10-Jun-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,35,10-Jun-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,10-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,11-Jun-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,46,11-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,11-Jun-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,11-Jun-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,9,11-Jun-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,108,11-Jun-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,6,11-Jun-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,13,12-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,85,14-Jun-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,14-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,44,14-Jun-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,14-Jun-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,39,14-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,38,14-Jun-2010
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,10,14-Jun-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,6,14-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,15-Jun-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,11,15-Jun-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,15-Jun-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,12,15-Jun-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,15-Jun-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,5,15-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,34,16-Jun-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,1,16-Jun-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,20,16-Jun-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,115,16-Jun-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,26,16-Jun-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,13,16-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,16-Jun-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,20,16-Jun-2010
+Karnataka,KK,Madikeri(Kodagu),Gonikappal,Ragi,30,3,16-Jun-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,57,16-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,16-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,52,17-Jun-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,4,17-Jun-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,41,17-Jun-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,17-Jun-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,17-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,17-Jun-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,17-Jun-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,15,17-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,17-Jun-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,17-Jun-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,17-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,18-Jun-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,18-Jun-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,21,18-Jun-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,18-Jun-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,1,18-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,18-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,19-Jun-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,16,19-Jun-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,10,19-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,42,19-Jun-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,11,19-Jun-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,19-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,25,19-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,48,21-Jun-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,21-Jun-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,83,21-Jun-2010
+Karnataka,KK,Davangere,Honnali,Ragi,30,6,21-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,21-Jun-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,21-Jun-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,21-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,21-Jun-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,35,21-Jun-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,21-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,12,22-Jun-2010
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,1,22-Jun-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,19,22-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,22-Jun-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,22-Jun-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,7,22-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,18,22-Jun-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,5,22-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,23-Jun-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,2,23-Jun-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,50,23-Jun-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,84,23-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,23-Jun-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,9,23-Jun-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,10,23-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,52,24-Jun-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,8,24-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,7,24-Jun-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,17,24-Jun-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,24-Jun-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,34,24-Jun-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,85,24-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,19,24-Jun-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,24-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,10,25-Jun-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,40,25-Jun-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,25-Jun-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,27,25-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,77,25-Jun-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,3,25-Jun-2010
+Karnataka,KK,Kolar,Malur,Ragi,30,3,25-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,25-Jun-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,38,25-Jun-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,25-Jun-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,5,25-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,26-Jun-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,7,26-Jun-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,33,26-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,26-Jun-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,26-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,26-Jun-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,27-Jun-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,9,27-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,39,28-Jun-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,16,28-Jun-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,7,28-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,28-Jun-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,28-Jun-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,12,28-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,28-Jun-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,28-Jun-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,12,28-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,29-Jun-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,12,29-Jun-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,11,29-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,35,29-Jun-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,29-Jun-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,78,29-Jun-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,5,29-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,29-Jun-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,3,29-Jun-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,29-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,10,30-Jun-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,15,30-Jun-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,30-Jun-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,42,30-Jun-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,30-Jun-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,28,30-Jun-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,01-Jul-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,1,01-Jul-2010
+Karnataka,KK,Bangalore,Kanakapura,Ragi,30,1,01-Jul-2010
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,12,01-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,123,01-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,01-Jul-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,51,01-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,14,01-Jul-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,5,01-Jul-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,11,01-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,02-Jul-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,16,02-Jul-2010
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,17,02-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,39,03-Jul-2010
+Karnataka,KK,Chamrajnagar,Gundlupet,Ragi,30,6,03-Jul-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,03-Jul-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,21,03-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,44,03-Jul-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,4,03-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,18,03-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,11,04-Jul-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,44,04-Jul-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,04-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,1,05-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,11,05-Jul-2010
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,10,05-Jul-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,05-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,06-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,06-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,06-Jul-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,10,06-Jul-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,6,06-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,39,06-Jul-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,06-Jul-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,1,06-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,07-Jul-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,07-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,65,07-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,07-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,38,07-Jul-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,10,07-Jul-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,112,07-Jul-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,111,07-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,19,07-Jul-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,2,07-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,45,08-Jul-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,4,08-Jul-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,08-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,1,08-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,25,08-Jul-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,19,08-Jul-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,22,08-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,08-Jul-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,08-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,43,09-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,142,09-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,09-Jul-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,09-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,09-Jul-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,41,09-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,09-Jul-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,09-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,61,10-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,58,12-Jul-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,5,12-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,33,12-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,38,12-Jul-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,12,12-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,12-Jul-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,59,12-Jul-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,1,12-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,12-Jul-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,12-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,22,13-Jul-2010
+Karnataka,KK,Bangalore,Kanakapura,Ragi,30,3,13-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,56,13-Jul-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,16,13-Jul-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,15,13-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,13-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,13-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,13-Jul-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,7,13-Jul-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,13-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,14-Jul-2010
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,10,14-Jul-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,27,14-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,14-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,15,14-Jul-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,77,14-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,14-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,15-Jul-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,2,15-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,47,15-Jul-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,15-Jul-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,9,15-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,15-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,15-Jul-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,15-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,15-Jul-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,21,15-Jul-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,15-Jul-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,15-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,57,16-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,10,16-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,16-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,42,16-Jul-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,18,16-Jul-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,22,16-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,16-Jul-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,4,16-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,17-Jul-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,8,17-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,17,17-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,17-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,17-Jul-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,52,17-Jul-2010
+Karnataka,KK,Madikeri(Kodagu),Gonikappal,Ragi,30,10,17-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,18,17-Jul-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,17-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,19-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,19-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,40,19-Jul-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,19-Jul-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,10,19-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,23,19-Jul-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,2,19-Jul-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,20,19-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,48,20-Jul-2010
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,52,20-Jul-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,1,20-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,6,20-Jul-2010
+Karnataka,KK,Davangere,Honnali,Ragi,30,3,20-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,46,20-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,15,20-Jul-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,22,20-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,21,20-Jul-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,20-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,43,21-Jul-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,4,21-Jul-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,1,21-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,9,21-Jul-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,33,21-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,50,21-Jul-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,21-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,21-Jul-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,174,21-Jul-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,123,21-Jul-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,34,21-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,22-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,58,22-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,22-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,31,22-Jul-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,9,22-Jul-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,22-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,16,22-Jul-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,11,22-Jul-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,22-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,23-Jul-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,23-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,207,23-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,23-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,23-Jul-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,23-Jul-2010
+Karnataka,KK,Haveri,Hanagal,Ragi,30,2,23-Jul-2010
+Karnataka,KK,Kolar,Malur,Ragi,30,2,23-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,23-Jul-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,23-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,24-Jul-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,24-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,36,24-Jul-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,18,24-Jul-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,5,24-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,24-Jul-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,11,24-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,26-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,26-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,26-Jul-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,22,26-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,26-Jul-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,26-Jul-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,20,26-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,27-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,11,27-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,27-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,27-Jul-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,2,27-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,41,28-Jul-2010
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,10,28-Jul-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,1,28-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,118,28-Jul-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,36,28-Jul-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,28-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,28-Jul-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,9,28-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,28-Jul-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,28-Jul-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,18,28-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,28-Jul-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,16,28-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,23,29-Jul-2010
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,5,29-Jul-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,29-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,6,29-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,29-Jul-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,9,29-Jul-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,29-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,20,29-Jul-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,29-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,30-Jul-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,30-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,30-Jul-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,4,30-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,36,30-Jul-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,31-Jul-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,37,31-Jul-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,31-Jul-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,49,31-Jul-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,31-Jul-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,9,01-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,02-Aug-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,02-Aug-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,11,02-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,92,02-Aug-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,02-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,11,02-Aug-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,7,02-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,02-Aug-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,5,02-Aug-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,7,02-Aug-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,02-Aug-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,02-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,17,03-Aug-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,5,03-Aug-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,32,03-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,7,03-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,03-Aug-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,03-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,03-Aug-2010
+Karnataka,KK,Madikeri(Kodagu),Gonikappal,Ragi,30,10,03-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,25,03-Aug-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,03-Aug-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,4,03-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,04-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,04-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,04-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,04-Aug-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,134,04-Aug-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,6,04-Aug-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,138,04-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,04-Aug-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,34,04-Aug-2010
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,1,04-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,05-Aug-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,05-Aug-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,18,05-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,5,05-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,28,05-Aug-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,05-Aug-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,05-Aug-2010
+Karnataka,KK,Madikeri(Kodagu),Gonikappal,Ragi,30,10,05-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,22,05-Aug-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,16,05-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,06-Aug-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,06-Aug-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,109,06-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,06-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,06-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,06-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,06-Aug-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,16,06-Aug-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,1,06-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,07-Aug-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,7,07-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,6,07-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,44,07-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,85,09-Aug-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,1,09-Aug-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,17,09-Aug-2010
+Karnataka,KK,Davangere,Davangere,Ragi,30,3,09-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,09-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,19,09-Aug-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,6,09-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,7,09-Aug-2010
+Karnataka,KK,Haveri,Hanagal,Ragi,30,2,09-Aug-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,25,09-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,09-Aug-2010
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,1,09-Aug-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,21,09-Aug-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,09-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,55,10-Aug-2010
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,5,10-Aug-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,70,10-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,10-Aug-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,6,10-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,22,10-Aug-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,10-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,11-Aug-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,11-Aug-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,6,11-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,52,11-Aug-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,11,11-Aug-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,78,11-Aug-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,128,11-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,11-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,67,12-Aug-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,12-Aug-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,17,12-Aug-2010
+Karnataka,KK,Davangere,Honnali,Ragi,30,3,12-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,42,12-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,12-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,12-Aug-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,8,12-Aug-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,12-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,45,13-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,9,13-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,13-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,14-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,49,16-Aug-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,16,16-Aug-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,56,16-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,54,16-Aug-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,12,16-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,16-Aug-2010
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,1,16-Aug-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,16-Aug-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,15,16-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,17-Aug-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,17-Aug-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,147,17-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,17-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,12,17-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,12,17-Aug-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,4,17-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,18-Aug-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,1,18-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,18-Aug-2010
+Karnataka,KK,Davangere,Honnali,Ragi,30,3,18-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,18-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,18-Aug-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,54,18-Aug-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,18-Aug-2010
+Karnataka,KK,Karwar(Uttar Kannad),Sirsi,Ragi,30,6,18-Aug-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,76,18-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,18-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,79,19-Aug-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,19-Aug-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,75,19-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,69,19-Aug-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,9,19-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,19-Aug-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,19-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,52,20-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,5,20-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,44,21-Aug-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,23,21-Aug-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,6,21-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,5,21-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,65,21-Aug-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,2,21-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,21-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,23-Aug-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,26,23-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,23-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,60,23-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,23-Aug-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,23-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,23-Aug-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,3,23-Aug-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,23-Aug-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,12,23-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,14,24-Aug-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,29,24-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,36,24-Aug-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,5,24-Aug-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,24-Aug-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,24-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,49,25-Aug-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,25-Aug-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,11,25-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,51,25-Aug-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,73,25-Aug-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,101,25-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,15,25-Aug-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,10,25-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,26-Aug-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,3,26-Aug-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,17,26-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,27,26-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,26-Aug-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,49,26-Aug-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,12,26-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,26-Aug-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,3,26-Aug-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,10,26-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,48,27-Aug-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,33,27-Aug-2010
+Karnataka,KK,Chikmagalur,Moodigere,Ragi,30,6,27-Aug-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,6,27-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,27-Aug-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,16,27-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,27-Aug-2010
+Karnataka,KK,Shimoga,Bhadravathi,Ragi,30,1,27-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,28-Aug-2010
+Karnataka,KK,Bangalore,Ramanagara,Ragi,30,1,28-Aug-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,28-Aug-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,6,28-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,28-Aug-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,12,28-Aug-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,28-Aug-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,28-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,21,28-Aug-2010
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,129,28-Aug-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,16,28-Aug-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,2,28-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,44,30-Aug-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,30-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,6,30-Aug-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,8,30-Aug-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,119,30-Aug-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,15,30-Aug-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,7,30-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,30-Aug-2010
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,2,30-Aug-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,4,30-Aug-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,11,30-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,31-Aug-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,27,31-Aug-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,31-Aug-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,31-Aug-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,63,31-Aug-2010
+Karnataka,KK,Kolar,Mulabagilu,Ragi,30,1,31-Aug-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,29,31-Aug-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,31-Aug-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,4,31-Aug-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,01-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,38,01-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,02-Sep-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,16,02-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,02-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,28,03-Sep-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,03-Sep-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,25,03-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,29,03-Sep-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,20,03-Sep-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,03-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,04-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,04-Sep-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,44,04-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,06-Sep-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,2,06-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,55,06-Sep-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,06-Sep-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,40,06-Sep-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,4,06-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,06-Sep-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,4,06-Sep-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,06-Sep-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,5,06-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,30,07-Sep-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,136,07-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,36,07-Sep-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,07-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,8,07-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,07-Sep-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,4,07-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,52,08-Sep-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,08-Sep-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,15,08-Sep-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,4,08-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,20,08-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,89,08-Sep-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,2,08-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,08-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,09-Sep-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,4,09-Sep-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,09-Sep-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,09-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,09-Sep-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,09-Sep-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,20,09-Sep-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,8,09-Sep-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,13-Sep-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,13-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,13-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,39,13-Sep-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,23,14-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,26,14-Sep-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,37,14-Sep-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,15-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,37,15-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,15-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,39,16-Sep-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,52,16-Sep-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,7,16-Sep-2010
+Karnataka,KK,Davangere,Honnali,Ragi,30,2,16-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,5,16-Sep-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,11,16-Sep-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,17-Sep-2010
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,9,17-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,18-Sep-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,5,19-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,20-Sep-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,4,20-Sep-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,20-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,59,20-Sep-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,20-Sep-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,20-Sep-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,40,20-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,14,20-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,49,21-Sep-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,21-Sep-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,21-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,25,21-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,23,21-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,21-Sep-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,4,21-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,22-Sep-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,10,22-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,71,22-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,17,22-Sep-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,50,22-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,26,22-Sep-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,32,22-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,23-Sep-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,2,23-Sep-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,23-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,24,23-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,4,23-Sep-2010
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,9,23-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,64,24-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,62,24-Sep-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,10,24-Sep-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,9,24-Sep-2010
+Karnataka,KK,Madikeri(Kodagu),Gonikappal,Ragi,30,4,24-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,13,24-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,8,25-Sep-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,25-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,25-Sep-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,25-Sep-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,18,25-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,36,25-Sep-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,17,25-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,25-Sep-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,22,26-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,27-Sep-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,27-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,49,27-Sep-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,27-Sep-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,50,27-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,27-Sep-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,27-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,40,28-Sep-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,2,28-Sep-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,5,28-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,30,28-Sep-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,5,28-Sep-2010
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,20,28-Sep-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,192,28-Sep-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,17,28-Sep-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,28-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,54,29-Sep-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,1,29-Sep-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,11,29-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,28,29-Sep-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,8,29-Sep-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,11,29-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,43,29-Sep-2010
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,31,29-Sep-2010
+Karnataka,KK,Kolar,Malur,Ragi,30,1,29-Sep-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,29-Sep-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,75,29-Sep-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,18,29-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,19,30-Sep-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,21,30-Sep-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,23,30-Sep-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,21,30-Sep-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,44,30-Sep-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,122,30-Sep-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,16,30-Sep-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,17,30-Sep-2010
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,61,30-Sep-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,2,01-Oct-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,41,01-Oct-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,21,03-Oct-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,26,04-Oct-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,45,04-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,16,04-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,1,05-Oct-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,38,05-Oct-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,16,05-Oct-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,39,05-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,06-Oct-2010
+Karnataka,KK,Bangalore,Kanakapura,Ragi,30,5,06-Oct-2010
+Karnataka,KK,Bellary,Kottur,Ragi,30,1,06-Oct-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,06-Oct-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,15,06-Oct-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,50,06-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,70,06-Oct-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,27,06-Oct-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,06-Oct-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,60,06-Oct-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,5,06-Oct-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,07-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,57,08-Oct-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,08-Oct-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,36,08-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,61,08-Oct-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,08-Oct-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,17,08-Oct-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,18,09-Oct-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,4,10-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,79,11-Oct-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,11-Oct-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,11-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,146,11-Oct-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,16,11-Oct-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,17,11-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,11-Oct-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,35,11-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,12-Oct-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,12-Oct-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,27,12-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,82,12-Oct-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,15,12-Oct-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,11,12-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,12-Oct-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,12-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,45,13-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,44,13-Oct-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,27,13-Oct-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,61,13-Oct-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,40,13-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,31,14-Oct-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,2,14-Oct-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,59,14-Oct-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,6,14-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,14-Oct-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,93,14-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,30,14-Oct-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,9,14-Oct-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,37,14-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,15-Oct-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,42,15-Oct-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,4,15-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,18,15-Oct-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,15-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,27,15-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,21,18-Oct-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,18-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,52,18-Oct-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,1,18-Oct-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,18-Oct-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,18-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,48,19-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,33,20-Oct-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,3,20-Oct-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,68,20-Oct-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,20-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,20-Oct-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,32,20-Oct-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,91,20-Oct-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,10,20-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,7,21-Oct-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,21-Oct-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,16,21-Oct-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,10,21-Oct-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,21-Oct-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,22-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,22-Oct-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,22-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,52,23-Oct-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,6,23-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,24,23-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,17,23-Oct-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,34,23-Oct-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,24,24-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,25-Oct-2010
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,10,25-Oct-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,25-Oct-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,27,25-Oct-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,25-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,45,25-Oct-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,11,25-Oct-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,11,25-Oct-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,22,25-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,7,25-Oct-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,9,25-Oct-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,10,25-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,55,26-Oct-2010
+Karnataka,KK,Chamrajnagar,Kollegal,Ragi,30,8,26-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,43,26-Oct-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,15,26-Oct-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,35,26-Oct-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,79,26-Oct-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,5,26-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,26-Oct-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,13,26-Oct-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,26-Oct-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,26-Oct-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,48,26-Oct-2010
+Karnataka,KK,Tumkur,Turvekere,Ragi,30,3,26-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,37,27-Oct-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,1,27-Oct-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,27-Oct-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,8,27-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,57,27-Oct-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,145,27-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,27-Oct-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,33,27-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,57,28-Oct-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,3,28-Oct-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,37,28-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,39,28-Oct-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,28-Oct-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,28-Oct-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,28-Oct-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,6,28-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,28-Oct-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,9,28-Oct-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,28-Oct-2010
+Karnataka,KK,Tumkur,Turvekere,Ragi,30,2,28-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,34,29-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,38,29-Oct-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,12,29-Oct-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,29-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,20,29-Oct-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,21,29-Oct-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,56,29-Oct-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,16,29-Oct-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,6,29-Oct-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,60,29-Oct-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,65,30-Oct-2010
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Ragi,30,5,30-Oct-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,36,30-Oct-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,30-Oct-2010
+Karnataka,KK,Davangere,Honnali,Ragi,30,8,30-Oct-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,33,30-Oct-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,9,30-Oct-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,9,30-Oct-2010
+Karnataka,KK,Tumkur,Kunigal,Ragi,30,34,30-Oct-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,21,30-Oct-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,29,31-Oct-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,18,31-Oct-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,01-Nov-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,1,01-Nov-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,20,02-Nov-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,31,02-Nov-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,8,02-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,64,02-Nov-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,20,02-Nov-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,19,02-Nov-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,23,02-Nov-2010
+Karnataka,KK,Shimoga,Shimoga,Ragi,30,2,02-Nov-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,54,03-Nov-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,03-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,23,03-Nov-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,9,03-Nov-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,114,03-Nov-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,20,03-Nov-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,21,03-Nov-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,21,03-Nov-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,04-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,04-Nov-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,04-Nov-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,05-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,06-Nov-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,42,06-Nov-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,85,08-Nov-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,08-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,13,08-Nov-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,3,08-Nov-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,08-Nov-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,5,08-Nov-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,46,09-Nov-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,76,09-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,106,09-Nov-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,09-Nov-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,29,09-Nov-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,44,10-Nov-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,1,10-Nov-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,19,10-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,10-Nov-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,7,10-Nov-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,15,10-Nov-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,51,11-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,11-Nov-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,2,11-Nov-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,17,11-Nov-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,12-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,26,12-Nov-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,12-Nov-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,11,12-Nov-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,13-Nov-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,39,13-Nov-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,14-Nov-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,10,15-Nov-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,13,15-Nov-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,15-Nov-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,15-Nov-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,12,15-Nov-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,190,16-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,8,16-Nov-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,21,16-Nov-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,6,18-Nov-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,19-Nov-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,17,19-Nov-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,34,20-Nov-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,2,20-Nov-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,20-Nov-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,20-Nov-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,2,21-Nov-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,6,22-Nov-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,30,22-Nov-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,23-Nov-2010
+Karnataka,KK,Davangere,Honnali,Ragi,30,28,23-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,24,23-Nov-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,30,23-Nov-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,10,25-Nov-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,25-Nov-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,6,25-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,25-Nov-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,25-Nov-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,45,26-Nov-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,26-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,26-Nov-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,39,26-Nov-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,37,27-Nov-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,3,27-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,27-Nov-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,36,27-Nov-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,120,28-Nov-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,6,28-Nov-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,16,29-Nov-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,19,30-Nov-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,6,30-Nov-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,54,30-Nov-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,17,30-Nov-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,30-Nov-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,72,01-Dec-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,8,01-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,12,01-Dec-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,10,01-Dec-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,6,01-Dec-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,105,01-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,01-Dec-2010
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,8,01-Dec-2010
+Karnataka,KK,Shimoga,Shikaripura,Ragi,30,14,01-Dec-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,01-Dec-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,16,01-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,36,02-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,15,02-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,7,02-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,02-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,42,03-Dec-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,03-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,7,03-Dec-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,15,03-Dec-2010
+Karnataka,KK,Haveri,Ranebennur,Ragi,30,10,03-Dec-2010
+Karnataka,KK,Mandya,Pandavapura,Ragi,30,5,03-Dec-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,16,03-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,03-Dec-2010
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,8,03-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,54,04-Dec-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,04-Dec-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,04-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,04-Dec-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,5,04-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,24,04-Dec-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,38,04-Dec-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,7,04-Dec-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,9,04-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,9,05-Dec-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,21,05-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,26,06-Dec-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,06-Dec-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,4,06-Dec-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,2,06-Dec-2010
+Karnataka,KK,Kolar,Bangarpet,Ragi,30,8,06-Dec-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,34,06-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,06-Dec-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,9,06-Dec-2010
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,10,06-Dec-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,21,06-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,16,07-Dec-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,69,07-Dec-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,30,07-Dec-2010
+Karnataka,KK,Mandya,Pandavapura,Ragi,30,7,07-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,07-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,41,08-Dec-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,08-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,29,08-Dec-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,95,08-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,08-Dec-2010
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,8,08-Dec-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,08-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,25,09-Dec-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,16,09-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,20,09-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,09-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,41,10-Dec-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,17,10-Dec-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,1,10-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,21,10-Dec-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,6,10-Dec-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,6,10-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,9,10-Dec-2010
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,8,10-Dec-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,34,10-Dec-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,12,11-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,10,11-Dec-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,5,12-Dec-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,65,12-Dec-2010
+Karnataka,KK,Tumkur,Gubbi,Ragi,30,21,12-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,73,13-Dec-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,15,13-Dec-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,5,13-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,41,13-Dec-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,32,13-Dec-2010
+Karnataka,KK,Mandya,Pandavapura,Ragi,30,3,13-Dec-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,9,13-Dec-2010
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,8,13-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,27,14-Dec-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,14-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,9,14-Dec-2010
+Karnataka,KK,Mysore,Santhesargur,Ragi,30,8,14-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,15-Dec-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,22,15-Dec-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,10,15-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,15-Dec-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,8,15-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,5,15-Dec-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,167,15-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,15-Dec-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,22,15-Dec-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,2,15-Dec-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,16,15-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,44,16-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,14,16-Dec-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,8,16-Dec-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,16-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,11,16-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,8,16-Dec-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,42,16-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,108,18-Dec-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,5,18-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,52,18-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,18-Dec-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,4,18-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,140,19-Dec-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,73,19-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,53,20-Dec-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,20,20-Dec-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,4,20-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,32,20-Dec-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,5,20-Dec-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,10,20-Dec-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,19,20-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,6,20-Dec-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,17,20-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,43,21-Dec-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,25,21-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,21-Dec-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,9,21-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,39,22-Dec-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,2,22-Dec-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,44,22-Dec-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,71,22-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,22-Dec-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,41,22-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,10,22-Dec-2010
+Karnataka,KK,Tumkur,Huliyar,Ragi,30,17,22-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,32,23-Dec-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,9,23-Dec-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,8,23-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,47,23-Dec-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,11,23-Dec-2010
+Karnataka,KK,Hassan,Channarayapatna,Ragi,30,10,23-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,3,23-Dec-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,23,23-Dec-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,23-Dec-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,1,23-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,39,24-Dec-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,8,24-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,40,24-Dec-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,11,24-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,1,24-Dec-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,34,24-Dec-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,3,24-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,25-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,24,27-Dec-2010
+Karnataka,KK,Chikmagalur,Chikkamagalore,Ragi,30,6,27-Dec-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,13,27-Dec-2010
+Karnataka,KK,Chikmagalur,Tarikere,Ragi,30,10,27-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,27-Dec-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,12,27-Dec-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,9,27-Dec-2010
+Karnataka,KK,Mandya,Pandavapura,Ragi,30,5,27-Dec-2010
+Karnataka,KK,Mysore,K.R.Nagar,Ragi,30,10,27-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,5,27-Dec-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,27-Dec-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,17,27-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,38,28-Dec-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,11,28-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,10,28-Dec-2010
+Karnataka,KK,Hassan,Hassan,Ragi,30,17,28-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,11,28-Dec-2010
+Karnataka,KK,Kolar,Chintamani,Ragi,30,6,28-Dec-2010
+Karnataka,KK,Mysore,Hunsur,Ragi,30,1,28-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,2,28-Dec-2010
+Karnataka,KK,Mysore,Piriya Pattana,Ragi,30,15,28-Dec-2010
+Karnataka,KK,Tumkur,Sira,Ragi,30,3,28-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,29,29-Dec-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,29-Dec-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,16,29-Dec-2010
+Karnataka,KK,Davangere,Harappana Halli,Ragi,30,8,29-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,47,29-Dec-2010
+Karnataka,KK,Hassan,Belur,Ragi,30,10,29-Dec-2010
+Karnataka,KK,Mandya,Nagamangala,Ragi,30,141,29-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,90,29-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,13,30-Dec-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,29,30-Dec-2010
+Karnataka,KK,Davangere,Honnali,Ragi,30,6,30-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,22,30-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,1,30-Dec-2010
+Karnataka,KK,Mysore,Mysore (Bandipalya),Ragi,30,21,30-Dec-2010
+Karnataka,KK,Bangalore,Bangalore,Ragi,30,65,31-Dec-2010
+Karnataka,KK,Bangalore,Doddaballa Pur,Ragi,30,4,31-Dec-2010
+Karnataka,KK,Chikmagalur,Kadur,Ragi,30,18,31-Dec-2010
+Karnataka,KK,Chitradurga,Hosadurga,Ragi,30,48,31-Dec-2010
+Karnataka,KK,Hassan,Arasikere,Ragi,30,17,31-Dec-2010
+Karnataka,KK,Hassan,Holenarsipura,Ragi,30,9,31-Dec-2010
+Karnataka,KK,Tumkur,Madhugiri,Ragi,30,1,31-Dec-2010
+Karnataka,KK,Tumkur,Tumkur,Ragi,30,34,31-Dec-2010

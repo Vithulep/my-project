@@ -1,0 +1,13 @@
+Crop ID,Name,Filename,Transport Cost
+tur,Tur,tur.csv,1987
+maize,Maize,maize.csv,1964
+rice,Rice,rice.csv,1988
+jowar,Jowar,jowar.csv,1790
+cotton,Cotton,cotton.csv,3100
+ragi,Ragi,ragi.csv,1990
+groundnut,Groundnut,groundnut.csv,1988
+moong,Moong,moong.csv,1700
+bajra,Bajra,bajra.csv,1500
+soybean,Soybean,soybean.csv,2000
+onion,Onion,onion.csv,1700
+wheat,Wheat,wheat.csv,1800

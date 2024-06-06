@@ -1,0 +1,1389 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,02-Jan-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,04-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,39,04-Jan-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,2,05-Jan-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,2,05-Jan-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,6,05-Jan-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,18,05-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,39,05-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,15,05-Jan-2008
+Karnataka,KK,Bagalkot,Badami,GreenGram,9,7,07-Jan-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,48,07-Jan-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,2,07-Jan-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,07-Jan-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,07-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,34,07-Jan-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,07-Jan-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,21,08-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,53,08-Jan-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,7,09-Jan-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,3,09-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,28,09-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,7,09-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,17,10-Jan-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,36,10-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,14,10-Jan-2008
+Karnataka,KK,Shimoga,Bhadravathi,GreenGram,9,1,10-Jan-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,11-Jan-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,2,11-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,28,11-Jan-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,39,11-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,41,12-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,10,12-Jan-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,81,14-Jan-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,7,14-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,14,14-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,15,14-Jan-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,90,16-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,12,16-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,6,16-Jan-2008
+Karnataka,KK,Bagalkot,Badami,GreenGram,9,3,17-Jan-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,31,17-Jan-2008
+Karnataka,KK,Bidar,Bhalki,GreenGram,9,15,17-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,14,17-Jan-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,17-Jan-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,3,18-Jan-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,7,18-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,19,18-Jan-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,5,18-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,23,18-Jan-2008
+Karnataka,KK,Haveri,Ranebennur,GreenGram,9,10,19-Jan-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,21-Jan-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,92,21-Jan-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,384,21-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,25,21-Jan-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,11,21-Jan-2008
+Karnataka,KK,Kolar,Bangarpet,GreenGram,9,5,21-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,72,21-Jan-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,22-Jan-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,25,22-Jan-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,1,22-Jan-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,2,22-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,13,22-Jan-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,24,22-Jan-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,23-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,12,23-Jan-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,23-Jan-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,24-Jan-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,24-Jan-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,24,24-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,14,24-Jan-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,25-Jan-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,6,25-Jan-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,12,25-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,12,25-Jan-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,25-Jan-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,40,25-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,30,25-Jan-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,3,28-Jan-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,42,28-Jan-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,2,28-Jan-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,5,28-Jan-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,10,28-Jan-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,28-Jan-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,3,28-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,21,28-Jan-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,4,29-Jan-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,44,29-Jan-2008
+Karnataka,KK,Chikmagalur,Kadur,GreenGram,9,10,29-Jan-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,16,29-Jan-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,11,29-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,14,29-Jan-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,30-Jan-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,13,30-Jan-2008
+Karnataka,KK,Shimoga,Bhadravathi,GreenGram,9,1,30-Jan-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,7,31-Jan-2008
+Karnataka,KK,Dharwad,Hubli (Amaragol),GreenGram,9,1,31-Jan-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,31-Jan-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,7,31-Jan-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,22,31-Jan-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,4,01-Feb-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,10,01-Feb-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,3,01-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,01-Feb-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,01-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,7,01-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,02-Feb-2008
+Karnataka,KK,Bellary,Kottur,GreenGram,9,1,02-Feb-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,2,02-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,15,02-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,5,02-Feb-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,4,04-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,10,04-Feb-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,3,04-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,9,04-Feb-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,5,04-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,05-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,13,05-Feb-2008
+Karnataka,KK,Bellary,H.B. Halli,GreenGram,9,1,05-Feb-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,7,05-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,18,05-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,1,05-Feb-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,31,05-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,4,06-Feb-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,1,06-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,9,06-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,2,06-Feb-2008
+Karnataka,KK,Bagalkot,Badami,GreenGram,9,12,07-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,6,08-Feb-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,3,08-Feb-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,1,08-Feb-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,08-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,4,08-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,11,09-Feb-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,2,09-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,11,09-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,15,09-Feb-2008
+Karnataka,KK,Haveri,Ranebennur,GreenGram,9,20,09-Feb-2008
+Karnataka,KK,Hassan,Channarayapatna,GreenGram,9,1,10-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,5,11-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,49,11-Feb-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,2,11-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,11,11-Feb-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,5,11-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,5,12-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,10,12-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,7,12-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,5,12-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,13-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,19,13-Feb-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,2,13-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,2,13-Feb-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,3,13-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,6,14-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,27,14-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,7,14-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,3,15-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,18,15-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,11,15-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,2,15-Feb-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,2,15-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,7,16-Feb-2008
+Karnataka,KK,Bidar,Bhalki,GreenGram,9,5,16-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,12,16-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,16,16-Feb-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,14,16-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,19,18-Feb-2008
+Karnataka,KK,Bidar,Bhalki,GreenGram,9,1,18-Feb-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,18-Feb-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,18-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,16,18-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,1,18-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,6,19-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,31,19-Feb-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,3,19-Feb-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,1,19-Feb-2008
+Karnataka,KK,Dharwad,Hubli (Amaragol),GreenGram,9,4,19-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,2,19-Feb-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,2,19-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,1,20-Feb-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,8,20-Feb-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,3,20-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,2,20-Feb-2008
+Karnataka,KK,Mandya,K.R. Pet,GreenGram,9,3,20-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,21,21-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,4,22-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,22-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,13,22-Feb-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,17,22-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,72,23-Feb-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,10,23-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,23-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,3,23-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,54,25-Feb-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,2,25-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,25-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,22,26-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,26-Feb-2008
+Karnataka,KK,Gulbarga,Shorapur,GreenGram,9,1,26-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,27-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,18,27-Feb-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,27-Feb-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,8,27-Feb-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,6,27-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,27-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,8,27-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,10,28-Feb-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,28-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,2,28-Feb-2008
+Karnataka,KK,Bagalkot,Badami,GreenGram,9,12,29-Feb-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,29-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,40,29-Feb-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,3,29-Feb-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,16,29-Feb-2008
+Karnataka,KK,Dharwad,Annigeri,GreenGram,9,13,29-Feb-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,1,29-Feb-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,29-Feb-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,29-Feb-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,161,29-Feb-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,84,01-Mar-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,1,01-Mar-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,14,01-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,8,01-Mar-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,1,01-Mar-2008
+Karnataka,KK,Haveri,Ranebennur,GreenGram,9,4,01-Mar-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,03-Mar-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,38,03-Mar-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,8,03-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,8,03-Mar-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,03-Mar-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,4,03-Mar-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,34,03-Mar-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,04-Mar-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,28,04-Mar-2008
+Karnataka,KK,Chikmagalur,Kadur,GreenGram,9,11,04-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,8,04-Mar-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,82,06-Mar-2008
+Karnataka,KK,Chikmagalur,Kadur,GreenGram,9,10,06-Mar-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,8,06-Mar-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,5,07-Mar-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,08-Mar-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,7,08-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,08-Mar-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,1,08-Mar-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,5,10-Mar-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,2,10-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,7,10-Mar-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,10-Mar-2008
+Karnataka,KK,Kolar,Bangarpet,GreenGram,9,20,10-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,11-Mar-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,10,12-Mar-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,2,13-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,13-Mar-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,4,13-Mar-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,1,13-Mar-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,14-Mar-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,10,14-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,14-Mar-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,14-Mar-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,1,14-Mar-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,10,15-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,8,15-Mar-2008
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,GreenGram,9,7,16-Mar-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,23,17-Mar-2008
+Karnataka,KK,Chikmagalur,Kadur,GreenGram,9,10,17-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,17-Mar-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,17-Mar-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,2,18-Mar-2008
+Karnataka,KK,Bidar,Bhalki,GreenGram,9,5,18-Mar-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,2,18-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,13,18-Mar-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,15,18-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,19-Mar-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,5,19-Mar-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,1,19-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,20-Mar-2008
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,GreenGram,9,1,23-Mar-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,25-Mar-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,5,25-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,26-Mar-2008
+Karnataka,KK,Bijapur,Sindagi,GreenGram,9,30,27-Mar-2008
+Karnataka,KK,Dharwad,Kalagategi,GreenGram,9,48,27-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,27-Mar-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,1,27-Mar-2008
+Karnataka,KK,Koppal,Koppal,GreenGram,9,1,27-Mar-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,34,28-Mar-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,10,28-Mar-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,28-Mar-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,13,29-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,29-Mar-2008
+Karnataka,KK,Gadag,Nargunda,GreenGram,9,10,29-Mar-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,2,29-Mar-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,15,31-Mar-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,10,31-Mar-2008
+Karnataka,KK,Dharwad,Kalagategi,GreenGram,9,24,31-Mar-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,31-Mar-2008
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,GreenGram,9,1,31-Mar-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,10,31-Mar-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,01-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,2,01-Apr-2008
+Karnataka,KK,Bijapur,Sindagi,GreenGram,9,20,01-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,01-Apr-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,2,01-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,6,02-Apr-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,2,02-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,02-Apr-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,3,02-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,36,03-Apr-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,10,03-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,6,03-Apr-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,16,03-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,2,04-Apr-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,3,04-Apr-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,04-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,5,05-Apr-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,1,05-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,05-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,27,08-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,08-Apr-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,09-Apr-2008
+Karnataka,KK,Dharwad,Kalagategi,GreenGram,9,16,09-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,23,09-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,48,10-Apr-2008
+Karnataka,KK,Chikmagalur,Kadur,GreenGram,9,10,10-Apr-2008
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,GreenGram,9,7,10-Apr-2008
+Karnataka,KK,Koppal,Koppal,GreenGram,9,1,10-Apr-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,11-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,12-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,93,15-Apr-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,3,16-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,39,17-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,17-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,61,19-Apr-2008
+Karnataka,KK,Karwar(Uttar Kannad),Haliyala,GreenGram,9,10,19-Apr-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,15,19-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,3,21-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,6,21-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,9,22-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,22-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,17,23-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,7,24-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,26-Apr-2008
+Karnataka,KK,Kolar,Bangarpet,GreenGram,9,7,27-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,32,28-Apr-2008
+Karnataka,KK,Dharwad,Kalagategi,GreenGram,9,8,28-Apr-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,23,29-Apr-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,5,29-Apr-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,10,30-Apr-2008
+Karnataka,KK,Bijapur,Sindagi,GreenGram,9,20,30-Apr-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,30-Apr-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,02-May-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,7,02-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,02-May-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,02-May-2008
+Karnataka,KK,Shimoga,Shimoga,GreenGram,9,1,02-May-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,15,03-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,03-May-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,12,03-May-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,32,05-May-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,2,06-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,06-May-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,16,06-May-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,07-May-2008
+Karnataka,KK,Gadag,Nargunda,GreenGram,9,10,07-May-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,4,07-May-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,09-May-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,09-May-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,1,09-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,10-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,12-May-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,28,12-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,13-May-2008
+Karnataka,KK,Belgaum,Soundati,GreenGram,9,83,14-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,14-May-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,15-May-2008
+Karnataka,KK,Bijapur,Sindagi,GreenGram,9,20,15-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,15-May-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,28,16-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,16-May-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,1,16-May-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,47,17-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,17-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,19-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,19-May-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,10,19-May-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,31,20-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,20-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,20-May-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,13,21-May-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,3,21-May-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,22,22-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,22-May-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,45,23-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,23-May-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,23-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,24-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,25-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,26-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,26-May-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,10,26-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,27-May-2008
+Karnataka,KK,Bijapur,Sindagi,GreenGram,9,20,27-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,27-May-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,1,27-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,28-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,29-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,6,29-May-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,25,29-May-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,18,30-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,30-May-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,30-May-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,6,30-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,31-May-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,9,31-May-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,1,31-May-2008
+Karnataka,KK,Shimoga,Shikaripura,GreenGram,9,32,31-May-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,01-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,28,02-Jun-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,02-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,02-Jun-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,02-Jun-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,03-Jun-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,7,03-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,32,04-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,13,04-Jun-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,1,04-Jun-2008
+Karnataka,KK,Bagalkot,Badami,GreenGram,9,24,05-Jun-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,05-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,05-Jun-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,1,05-Jun-2008
+Karnataka,KK,Belgaum,Sankeshwar,GreenGram,9,10,06-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,7,06-Jun-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,06-Jun-2008
+Karnataka,KK,Haveri,Hanagal,GreenGram,9,16,06-Jun-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,5,06-Jun-2008
+Karnataka,KK,Haveri,Ranebennur,GreenGram,9,24,07-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,30,09-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,10,09-Jun-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,09-Jun-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,4,09-Jun-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,10-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,12,10-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,11,10-Jun-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,1,10-Jun-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,14,10-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,6,11-Jun-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,7,11-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,12,12-Jun-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,10,12-Jun-2008
+Karnataka,KK,Bijapur,Sindagi,GreenGram,9,9,12-Jun-2008
+Karnataka,KK,Dharwad,Kalagategi,GreenGram,9,3,12-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,12-Jun-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,3,12-Jun-2008
+Karnataka,KK,Shimoga,Bhadravathi,GreenGram,9,2,12-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,13-Jun-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,13-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,26,14-Jun-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,16-Jun-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,26,16-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,47,17-Jun-2008
+Karnataka,KK,Dharwad,Kalagategi,GreenGram,9,17,17-Jun-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,4,17-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,18,18-Jun-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,5,18-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,56,19-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,19-Jun-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,12,19-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,33,20-Jun-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,20-Jun-2008
+Karnataka,KK,Dharwad,Kalagategi,GreenGram,9,18,20-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,6,20-Jun-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,20-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,65,21-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,21-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,65,23-Jun-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,7,23-Jun-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,2,23-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,23-Jun-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,23-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,13,24-Jun-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,7,24-Jun-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,11,24-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,14,25-Jun-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,4,25-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,25-Jun-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,25-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,11,26-Jun-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,7,26-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,13,27-Jun-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,27-Jun-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,7,27-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,27-Jun-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,27-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,27,28-Jun-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,2,28-Jun-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,28-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,28-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,13,30-Jun-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,20,30-Jun-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,30-Jun-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,30-Jun-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,30-Jun-2008
+Karnataka,KK,Shimoga,Shikaripura,GreenGram,9,84,30-Jun-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,2,01-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,5,01-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,01-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,4,02-Jul-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,1,02-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,02-Jul-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,2,02-Jul-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,10,03-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,3,04-Jul-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,04-Jul-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,05-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,2,05-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,05-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,05-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,8,07-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,9,07-Jul-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,3,07-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,15,07-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,07-Jul-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,07-Jul-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,8,07-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,6,07-Jul-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,11,08-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,32,08-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,08-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,1,08-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,4,09-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,11,09-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,09-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,3,09-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,2,10-Jul-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,4,10-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,2,10-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,3,10-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,22,11-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,8,11-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,11-Jul-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,11-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,10,11-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,3,11-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,5,12-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,11,12-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,3,12-Jul-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,14-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,39,14-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,2,14-Jul-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,3,14-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,6,14-Jul-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,18,14-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,5,14-Jul-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,10,14-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,14,15-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,15-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,31,15-Jul-2008
+Karnataka,KK,Dharwad,Kalagategi,GreenGram,9,23,15-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,11,15-Jul-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,6,15-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,6,15-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,2,15-Jul-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,12,15-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,24,16-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,2,16-Jul-2008
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,GreenGram,9,4,16-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,8,16-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,6,16-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,5,16-Jul-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,3,16-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,3,16-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,37,17-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,3,17-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,10,17-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,17-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,6,17-Jul-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,20,17-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,17,18-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,2,18-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,48,18-Jul-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,18-Jul-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,13,18-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,12,18-Jul-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,1,18-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,18-Jul-2008
+Karnataka,KK,Shimoga,Bhadravathi,GreenGram,9,1,18-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,20,19-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,10,19-Jul-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,18,19-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,6,19-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,19-Jul-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,36,19-Jul-2008
+Karnataka,KK,Bagalkot,Hungund,GreenGram,9,1,21-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,53,21-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,29,21-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,20,21-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,10,21-Jul-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,21-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,25,21-Jul-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,12,21-Jul-2008
+Karnataka,KK,Shimoga,Bhadravathi,GreenGram,9,3,21-Jul-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,42,21-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,14,22-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,3,22-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,28,22-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,22-Jul-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,20,22-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,16,22-Jul-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,32,22-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,79,23-Jul-2008
+Karnataka,KK,Chitradurga,Chitradurga,GreenGram,9,1,23-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,16,23-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,23-Jul-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,14,23-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,10,23-Jul-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,5,23-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,14,24-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,43,24-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,6,24-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,12,24-Jul-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,10,24-Jul-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,16,24-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,10,25-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,3,25-Jul-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,25-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,42,25-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,25-Jul-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,25-Jul-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,17,25-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,10,25-Jul-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,28,25-Jul-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,26-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,6,26-Jul-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,3,26-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,9,26-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,6,26-Jul-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,1,26-Jul-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,32,26-Jul-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,28-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,28-Jul-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,2,28-Jul-2008
+Karnataka,KK,Chitradurga,Chitradurga,GreenGram,9,7,28-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,20,28-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,7,28-Jul-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,28-Jul-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,4,28-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,10,28-Jul-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,2,28-Jul-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,29-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,29-Jul-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,29-Jul-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,5,29-Jul-2008
+Karnataka,KK,Dharwad,Kalagategi,GreenGram,9,32,29-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,29-Jul-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,2,29-Jul-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,12,29-Jul-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,5,29-Jul-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,3,30-Jul-2008
+Karnataka,KK,Bellary,Kottur,GreenGram,9,1,30-Jul-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,30-Jul-2008
+Karnataka,KK,Chitradurga,Chitradurga,GreenGram,9,1,30-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,30-Jul-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,3,30-Jul-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,30-Jul-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,6,31-Jul-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,16,31-Jul-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,32,31-Jul-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,11,31-Jul-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,4,31-Jul-2008
+Karnataka,KK,Gadag,Nargunda,GreenGram,9,11,31-Jul-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,9,31-Jul-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,15,31-Jul-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,46,31-Jul-2008
+Karnataka,KK,Chitradurga,Chitradurga,GreenGram,9,1,01-Aug-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,3,01-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,15,02-Aug-2008
+Karnataka,KK,Bagalkot,Hungund,GreenGram,9,1,02-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,1,02-Aug-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,02-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,44,02-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,11,02-Aug-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,7,02-Aug-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,2,02-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,24,04-Aug-2008
+Karnataka,KK,Bagalkot,Hungund,GreenGram,9,2,04-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,20,04-Aug-2008
+Karnataka,KK,Bellary,Kottur,GreenGram,9,1,04-Aug-2008
+Karnataka,KK,Chitradurga,Chitradurga,GreenGram,9,3,04-Aug-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,35,04-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,33,04-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,16,04-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,18,04-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,17,04-Aug-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,4,04-Aug-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,2,04-Aug-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,16,04-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,10,05-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,19,05-Aug-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,05-Aug-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,32,05-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,26,05-Aug-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,2,05-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,10,06-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,3,06-Aug-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,16,06-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,12,06-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,3,06-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,24,06-Aug-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,2,06-Aug-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,1,06-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,8,07-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,8,07-Aug-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,07-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,35,07-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,4,07-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,1,07-Aug-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,2,07-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,17,08-Aug-2008
+Karnataka,KK,Bagalkot,Hungund,GreenGram,9,1,08-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,4,08-Aug-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,08-Aug-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,15,08-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,22,08-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,21,08-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,6,08-Aug-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,6,08-Aug-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,32,08-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,19,09-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,39,09-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,09-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,7,09-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,4,09-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,17,11-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,53,11-Aug-2008
+Karnataka,KK,Bellary,Kottur,GreenGram,9,1,11-Aug-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,11-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,11,11-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,8,11-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,5,11-Aug-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,4,11-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,250,11-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,9,11-Aug-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,4,11-Aug-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,6,11-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,19,12-Aug-2008
+Karnataka,KK,Bellary,Kottur,GreenGram,9,2,12-Aug-2008
+Karnataka,KK,Dharwad,Kalagategi,GreenGram,9,16,12-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,25,12-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,4,12-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,3,12-Aug-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,3,12-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,19,12-Aug-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,4,12-Aug-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,12-Aug-2008
+Karnataka,KK,Shimoga,Shimoga,GreenGram,9,1,12-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,27,13-Aug-2008
+Karnataka,KK,Bellary,Kottur,GreenGram,9,3,13-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,33,13-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,5,13-Aug-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,1,13-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,15,13-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,20,13-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,22,14-Aug-2008
+Karnataka,KK,Bagalkot,Hungund,GreenGram,9,1,14-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,35,14-Aug-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,7,14-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,29,14-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,5,14-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,6,14-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,14,14-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,78,14-Aug-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,14-Aug-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,16-Aug-2008
+Karnataka,KK,Dharwad,Annigeri,GreenGram,9,1,16-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,83,16-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,7,16-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,8,16-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,59,18-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,81,18-Aug-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,18-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,68,18-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,45,18-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,12,18-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,98,18-Aug-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,11,18-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,50,19-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,27,19-Aug-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,19-Aug-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,19-Aug-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,10,19-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,46,19-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,19,19-Aug-2008
+Karnataka,KK,Gadag,Mundaragi,GreenGram,9,2,19-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,2,19-Aug-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,9,19-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,38,20-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,8,20-Aug-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,6,20-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,48,20-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,4,20-Aug-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,3,20-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,7,20-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,89,20-Aug-2008
+Karnataka,KK,Haveri,Hanagal,GreenGram,9,5,20-Aug-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,20,20-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,40,21-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,10,21-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,52,21-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,18,21-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,2,21-Aug-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,15,21-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,7,21-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,207,21-Aug-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,7,21-Aug-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,2,21-Aug-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,10,21-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,26,22-Aug-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,1,22-Aug-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,22-Aug-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,17,22-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,48,22-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,59,22-Aug-2008
+Karnataka,KK,Gadag,Mundaragi,GreenGram,9,1,22-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,3,22-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,27,22-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,106,22-Aug-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,22-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,36,23-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,5,23-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,68,23-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,13,23-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,1,23-Aug-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,23-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,26,25-Aug-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,10,25-Aug-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,6,25-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,7,25-Aug-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,1,25-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,181,25-Aug-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,10,25-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,29,26-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,29,26-Aug-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,4,26-Aug-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,2,26-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,68,26-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,28,26-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,2,26-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,27,26-Aug-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,12,26-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,18,27-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,25,27-Aug-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,13,27-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,16,27-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,2,27-Aug-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,13,27-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,10,27-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,121,27-Aug-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,16,27-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,14,28-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,16,28-Aug-2008
+Karnataka,KK,Bellary,Kottur,GreenGram,9,2,28-Aug-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,5,28-Aug-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,14,28-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,53,28-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,9,28-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,1,28-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,41,28-Aug-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,2,28-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,268,28-Aug-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,4,28-Aug-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,28-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,17,29-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,32,29-Aug-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,19,29-Aug-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,3,29-Aug-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,35,29-Aug-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,38,29-Aug-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,1,29-Aug-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,3,29-Aug-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,41,29-Aug-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,1,29-Aug-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,195,29-Aug-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,30,30-Aug-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,5,30-Aug-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,5,30-Aug-2008
+Karnataka,KK,Shimoga,Bhadravathi,GreenGram,9,1,31-Aug-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,24,01-Sep-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,36,01-Sep-2008
+Karnataka,KK,Bellary,Kottur,GreenGram,9,2,01-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,32,01-Sep-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,4,01-Sep-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,16,01-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,51,01-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,30,01-Sep-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,3,01-Sep-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,43,01-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,35,01-Sep-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,6,01-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,10,01-Sep-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,01-Sep-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,46,02-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,41,02-Sep-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,19,02-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,18,02-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,3,02-Sep-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,1,02-Sep-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,52,02-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,37,02-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,678,02-Sep-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,02-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,13,04-Sep-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,41,04-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,85,04-Sep-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,9,04-Sep-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,1,04-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,34,04-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,04-Sep-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,1,04-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,31,04-Sep-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,5,04-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,430,04-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,21,04-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,16,05-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,2,05-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,122,05-Sep-2008
+Karnataka,KK,Bidar,Humanabad,GreenGram,9,1,05-Sep-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,5,05-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,12,05-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,18,05-Sep-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,1,05-Sep-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,29,05-Sep-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,53,05-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,21,05-Sep-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,4,05-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,489,05-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,11,05-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,9,06-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,3,06-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,131,06-Sep-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,9,06-Sep-2008
+Karnataka,KK,Dharwad,Hubli (Amaragol),GreenGram,9,1,06-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,36,06-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,25,06-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,546,06-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,16,08-Sep-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,49,08-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,173,08-Sep-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,08-Sep-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,9,08-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,32,08-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,18,08-Sep-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,1,08-Sep-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,74,08-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,25,08-Sep-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,5,08-Sep-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,10,08-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,10,08-Sep-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,2,08-Sep-2008
+Karnataka,KK,Tumkur,Huliyar,GreenGram,9,5,08-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,18,09-Sep-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,65,09-Sep-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,9,09-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,193,09-Sep-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,19,09-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,23,09-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,5,09-Sep-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,87,09-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,16,09-Sep-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,2,09-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,9,10-Sep-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,8,10-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,277,10-Sep-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,3,10-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,25,10-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,10-Sep-2008
+Karnataka,KK,Gadag,Rona,GreenGram,9,1,10-Sep-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,72,10-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,12,10-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,275,10-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,30,10-Sep-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,2,10-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,6,11-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,18,11-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,3,11-Sep-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,93,11-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,20,11-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,255,11-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,45,11-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,7,12-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,9,12-Sep-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,2,12-Sep-2008
+Karnataka,KK,Dharwad,Annigeri,GreenGram,9,1,12-Sep-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,5,12-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,28,12-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,33,12-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,41,12-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,187,12-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,49,12-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,4,13-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,81,13-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,48,13-Sep-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,13-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,9,15-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,16,15-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,31,15-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,39,15-Sep-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,3,15-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,369,20-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,16,22-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,19,23-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,297,23-Sep-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,23,23-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,370,23-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,3,24-Sep-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,8,24-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,12,24-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,313,24-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,11,24-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,24-Sep-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,12,24-Sep-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,173,24-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,12,24-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,2,24-Sep-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,2,24-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,25-Sep-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,27,25-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,10,25-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,276,25-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,12,25-Sep-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,143,25-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,185,25-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,9,25-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,26-Sep-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,15,26-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,7,26-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,192,26-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,7,26-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,9,26-Sep-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,12,26-Sep-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,135,26-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,23,26-Sep-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,404,26-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,10,26-Sep-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,43,27-Sep-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,30,27-Sep-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,13,27-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,209,27-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,21,27-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,27-Sep-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,153,27-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,11,27-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,3,27-Sep-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,3,27-Sep-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,30-Sep-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,244,30-Sep-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,13,30-Sep-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,17,30-Sep-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,4,30-Sep-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,32,30-Sep-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,2,30-Sep-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,8,30-Sep-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,30-Sep-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,4,01-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,7,01-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,217,01-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,01-Oct-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,10,01-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,98,01-Oct-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,7,01-Oct-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,03-Oct-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,41,03-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,11,03-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,171,03-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,03-Oct-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,10,03-Oct-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,2,03-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,122,03-Oct-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,4,03-Oct-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,228,03-Oct-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,04-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,207,04-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,84,04-Oct-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,10,04-Oct-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,2,04-Oct-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,310,04-Oct-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,2,06-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,9,06-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,145,06-Oct-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,4,06-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,18,06-Oct-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,3,06-Oct-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,4,06-Oct-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,7,06-Oct-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,1,06-Oct-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,222,06-Oct-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,3,06-Oct-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,34,07-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,7,07-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,221,07-Oct-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,2,07-Oct-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,3,07-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,19,07-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,85,07-Oct-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,7,07-Oct-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,13,09-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,9,10-Oct-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,3,10-Oct-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,7,10-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,51,10-Oct-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,5,10-Oct-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,84,10-Oct-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,2,10-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,5,11-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,137,11-Oct-2008
+Karnataka,KK,Dharwad,Hubli (Amaragol),GreenGram,9,1,11-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,32,11-Oct-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,11-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,75,11-Oct-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,21,11-Oct-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,13-Oct-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,86,13-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,4,13-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,23,13-Oct-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,4,13-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,62,13-Oct-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,33,13-Oct-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,273,13-Oct-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,16,13-Oct-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,21,14-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,2,14-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,67,14-Oct-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,17,14-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,5,15-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,253,15-Oct-2008
+Karnataka,KK,Bidar,Humanabad,GreenGram,9,2,15-Oct-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,15-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,19,15-Oct-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,15-Oct-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,3,15-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,73,15-Oct-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,56,15-Oct-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,188,15-Oct-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,19,16-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,2,16-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,269,16-Oct-2008
+Karnataka,KK,Bidar,Humanabad,GreenGram,9,2,16-Oct-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,12,16-Oct-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,4,16-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,17,16-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,51,16-Oct-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,179,16-Oct-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,47,17-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,3,17-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,215,17-Oct-2008
+Karnataka,KK,Bidar,Humanabad,GreenGram,9,1,17-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,16,17-Oct-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,1,17-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,45,17-Oct-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,128,17-Oct-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,7,17-Oct-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,49,18-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,4,18-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,162,18-Oct-2008
+Karnataka,KK,Bidar,Humanabad,GreenGram,9,1,18-Oct-2008
+Karnataka,KK,Bijapur,Bijapur,GreenGram,9,1,18-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,21,18-Oct-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,18-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,57,18-Oct-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,6,18-Oct-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,189,18-Oct-2008
+Karnataka,KK,Bidar,Humanabad,GreenGram,9,1,19-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,4,20-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,136,20-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,11,20-Oct-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,3,20-Oct-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,2,20-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,62,20-Oct-2008
+Karnataka,KK,Raichur,Raichur,GreenGram,9,1,20-Oct-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,45,21-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,3,21-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,153,21-Oct-2008
+Karnataka,KK,Bidar,Humanabad,GreenGram,9,2,21-Oct-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,2,21-Oct-2008
+Karnataka,KK,Dharwad,Kalagategi,GreenGram,9,7,21-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,21-Oct-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,21-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,71,21-Oct-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,10,21-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,157,22-Oct-2008
+Karnataka,KK,Bidar,Humanabad,GreenGram,9,1,22-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,22-Oct-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,50,22-Oct-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,2,22-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,1,23-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,23-Oct-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,61,23-Oct-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,5,23-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,24-Oct-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,4,24-Oct-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,32,24-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,7,25-Oct-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,57,28-Oct-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,7,29-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,5,29-Oct-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,15,29-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,2,30-Oct-2008
+Karnataka,KK,Bidar,Humanabad,GreenGram,9,1,30-Oct-2008
+Karnataka,KK,Bagalkot,Bagalakot,GreenGram,9,1,31-Oct-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,2,31-Oct-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,322,31-Oct-2008
+Karnataka,KK,Bidar,Humanabad,GreenGram,9,1,31-Oct-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,7,31-Oct-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,4,31-Oct-2008
+Karnataka,KK,Bidar,Humanabad,GreenGram,9,1,02-Nov-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,14,03-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,3,03-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,139,03-Nov-2008
+Karnataka,KK,Bijapur,Sindagi,GreenGram,9,10,03-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,11,03-Nov-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,2,03-Nov-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,4,03-Nov-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,1,03-Nov-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,8,03-Nov-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,53,04-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,2,04-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,127,04-Nov-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,23,04-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,7,04-Nov-2008
+Karnataka,KK,Gulbarga,Shahapur,GreenGram,9,1,04-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,353,04-Nov-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,29,05-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,2,05-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,125,05-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,8,05-Nov-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,3,05-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,1,06-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,120,06-Nov-2008
+Karnataka,KK,Dharwad,Hubli (Amaragol),GreenGram,9,1,06-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,06-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,174,06-Nov-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,14,06-Nov-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,22,07-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,1,07-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,129,07-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,07-Nov-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,07-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,1,08-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,117,08-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,8,08-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,157,08-Nov-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,130,10-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,105,10-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,10-Nov-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,10-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,86,10-Nov-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,28,11-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,1,11-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,107,11-Nov-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,6,11-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,7,11-Nov-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,6,11-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,182,11-Nov-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,2,11-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,1,12-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,97,12-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,12-Nov-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,1,12-Nov-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,8,12-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,55,12-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,13-Nov-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,2,13-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,33,13-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,1,14-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,92,14-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,14-Nov-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,2,14-Nov-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,120,17-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,1,17-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,84,17-Nov-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,6,17-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,7,17-Nov-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,4,17-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,70,18-Nov-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,21,18-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,18-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,155,18-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,19-Nov-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,2,19-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,63,19-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,65,20-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,20-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,79,20-Nov-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,17,21-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,1,21-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,51,21-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,21-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,69,21-Nov-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,20,21-Nov-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,5,22-Nov-2008
+Karnataka,KK,Bidar,Basava Kalayana,GreenGram,9,1,22-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,37,22-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,22-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,40,24-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,24-Nov-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,24-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,24,24-Nov-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,10,24-Nov-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,30,25-Nov-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,5,25-Nov-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,10,25-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,89,25-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,36,26-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,5,26-Nov-2008
+Karnataka,KK,Gulbarga,Chittapur,GreenGram,9,1,26-Nov-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,45,26-Nov-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,3,26-Nov-2008
+Karnataka,KK,Koppal,Yalburga,GreenGram,9,7,26-Nov-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,3,26-Nov-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,36,29-Nov-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,6,29-Nov-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,37,29-Nov-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,3,29-Nov-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,39,29-Nov-2008
+Karnataka,KK,Kolar,Bangarpet,GreenGram,9,10,29-Nov-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,7,29-Nov-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,34,01-Dec-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,41,01-Dec-2008
+Karnataka,KK,Bijapur,Sindagi,GreenGram,9,18,01-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,10,01-Dec-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,01-Dec-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,35,01-Dec-2008
+Karnataka,KK,Kolar,Bangarpet,GreenGram,9,15,01-Dec-2008
+Karnataka,KK,Koppal,Yalburga,GreenGram,9,1,01-Dec-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,8,01-Dec-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,26,02-Dec-2008
+Karnataka,KK,Bidar,Aurad,GreenGram,9,3,02-Dec-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,49,02-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,02-Dec-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,02-Dec-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,1,02-Dec-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,54,03-Dec-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,31,03-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,2,03-Dec-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,30,03-Dec-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,16,03-Dec-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,6,04-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,04-Dec-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,40,05-Dec-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,42,05-Dec-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,26,06-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,9,06-Dec-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,42,06-Dec-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,32,06-Dec-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,22,08-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,08-Dec-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,08-Dec-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,38,08-Dec-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,16,08-Dec-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,82,10-Dec-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,21,10-Dec-2008
+Karnataka,KK,Chitradurga,Hosadurga,GreenGram,9,16,10-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,10-Dec-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,13,11-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,6,11-Dec-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,38,11-Dec-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,19,11-Dec-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,22,12-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,3,12-Dec-2008
+Karnataka,KK,Gadag,Laxmeshwar,GreenGram,9,1,12-Dec-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,60,12-Dec-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,6,12-Dec-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,31,13-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,4,13-Dec-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,63,13-Dec-2008
+Karnataka,KK,Gulbarga,Yadgir,GreenGram,9,6,13-Dec-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,16,15-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,15-Dec-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,30,15-Dec-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,11,15-Dec-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,20,16-Dec-2008
+Karnataka,KK,Dharwad,Dharwar,GreenGram,9,1,16-Dec-2008
+Karnataka,KK,Gadag,Gadag,GreenGram,9,1,16-Dec-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,30,16-Dec-2008
+Karnataka,KK,Gulbarga,Sedam,GreenGram,9,2,16-Dec-2008
+Karnataka,KK,Hassan,Arasikere,GreenGram,9,16,16-Dec-2008
+Karnataka,KK,Mysore,Mysore (Bandipalya),GreenGram,9,6,16-Dec-2008
+Karnataka,KK,Bangalore,Bangalore,GreenGram,9,34,17-Dec-2008
+Karnataka,KK,Bidar,Bidar,GreenGram,9,6,17-Dec-2008
+Karnataka,KK,Gulbarga,Gulbarga,GreenGram,9,25,17-Dec-2008

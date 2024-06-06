@@ -1,0 +1,3064 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Belgaum,Belgaum,Onion,23,236,1-Jan-17
+Karnataka,KK,Bellary,Hospet,Onion,23,4,1-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2938,2-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,15,2-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,118,2-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,2-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,2-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,471,2-Jan-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,3,2-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,49,2-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,83,2-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,2-Jan-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,459,3-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2423,3-Jan-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,3-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,3-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,335,3-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,168,3-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,81,3-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2312,4-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,579,4-Jan-17
+Karnataka,KK,Bellary,Hospet,Onion,23,21,4-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,8,4-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,65,4-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,441,4-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,150,4-Jan-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,32,4-Jan-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,22,4-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,119,4-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,68,4-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,5,4-Jan-17
+Karnataka,KK,Udupi,Udupi,Onion,23,4,4-Jan-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,50,5-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2018,5-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,287,5-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,21,5-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,5-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,5-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,406,5-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,150,5-Jan-17
+Karnataka,KK,Hassan,Hassan,Onion,23,199,5-Jan-17
+Karnataka,KK,Kolar,Kolar,Onion,23,5,5-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,43,5-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,60,5-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,5-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2506,6-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,36,6-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,6-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,65,6-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,387,6-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,130,6-Jan-17
+Karnataka,KK,Hassan,Hassan,Onion,23,102,6-Jan-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,325,6-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,78,6-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,70,6-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,6-Jan-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,423,7-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3081,7-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,553,7-Jan-17
+Karnataka,KK,Bellary,Hospet,Onion,23,3,7-Jan-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,3,7-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,7-Jan-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,9,7-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,65,7-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,723,7-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,210,7-Jan-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,20,7-Jan-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,9,7-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,598,7-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,45,7-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,328,8-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3863,9-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,70,9-Jan-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,9-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,9-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,9-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,656,9-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,135,9-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,286,9-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,41,9-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,17,9-Jan-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,463,10-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2782,10-Jan-17
+Karnataka,KK,Bellary,Hospet,Onion,23,22,10-Jan-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,2,10-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,10-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,10-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,454,10-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,150,10-Jan-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,10-Jan-17
+Karnataka,KK,Kolar,Kolar,Onion,23,3,10-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,72,10-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,10-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2911,11-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,677,11-Jan-17
+Karnataka,KK,Bellary,Hospet,Onion,23,4,11-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,11-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,11-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,592,11-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,125,11-Jan-17
+Karnataka,KK,Hassan,Hassan,Onion,23,468,11-Jan-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,19,11-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,62,11-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,11-Jan-17
+Karnataka,KK,Udupi,Udupi,Onion,23,13,11-Jan-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,42,12-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2358,12-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,47,12-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,153,12-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,315,12-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,100,12-Jan-17
+Karnataka,KK,Hassan,Hassan,Onion,23,121,12-Jan-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,12-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,579,12-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,80,12-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2199,13-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,45,13-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,13-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,13-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,402,13-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,75,13-Jan-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,255,13-Jan-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,59,13-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,46,13-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,23,13-Jan-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,13-Jan-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,178,14-Jan-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,32,14-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,96,15-Jan-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,15-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1364,16-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,36,16-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,159,16-Jan-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,3,16-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,15,16-Jan-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,9,16-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,16-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,215,16-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,75,16-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,17,16-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,16-Jan-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,297,17-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1064,17-Jan-17
+Karnataka,KK,Bellary,Hospet,Onion,23,21,17-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,63,17-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,331,17-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,50,17-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,271,17-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,17,17-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,17-Jan-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,17-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1339,18-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,378,18-Jan-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,2,18-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,18-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,65,18-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,324,18-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,65,18-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,22,18-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,18-Jan-17
+Karnataka,KK,Udupi,Udupi,Onion,23,26,18-Jan-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,51,19-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2108,19-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,220,19-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,22,19-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,19-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,19-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,277,19-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,50,19-Jan-17
+Karnataka,KK,Kolar,Kolar,Onion,23,6,19-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,14,19-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,19-Jan-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,219,21-Jan-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,189,24-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2668,24-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,24-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,24-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,180,24-Jan-17
+Karnataka,KK,Gadag,Gadag,Onion,23,28,24-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,18,24-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,24-Jan-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,24-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2104,25-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,952,25-Jan-17
+Karnataka,KK,Bellary,Hospet,Onion,23,22,25-Jan-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,2,25-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,25-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,25-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,236,25-Jan-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,27,25-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,13,25-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,25-Jan-17
+Karnataka,KK,Udupi,Udupi,Onion,23,36,25-Jan-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,52,26-Jan-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,17,26-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2781,27-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,58,27-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,86,27-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,27-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,232,27-Jan-17
+Karnataka,KK,Hassan,Hassan,Onion,23,420,27-Jan-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,182,27-Jan-17
+Karnataka,KK,Kolar,Kolar,Onion,23,6,27-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,199,27-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,27-Jan-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,137,28-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2382,28-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,377,28-Jan-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,3,28-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,28-Jan-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,14,28-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,28-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,304,28-Jan-17
+Karnataka,KK,Hassan,Hassan,Onion,23,149,28-Jan-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,22,28-Jan-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,2,28-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,41,28-Jan-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,5,28-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,257,29-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2734,30-Jan-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,105,30-Jan-17
+Karnataka,KK,Bellary,Hospet,Onion,23,20,30-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,147,30-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,30-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,30-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,275,30-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,23,30-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,30-Jan-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,148,31-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2471,31-Jan-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,31-Jan-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,3,31-Jan-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,31-Jan-17
+Karnataka,KK,Davangere,Davangere,Onion,23,42,31-Jan-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,337,31-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,399,31-Jan-17
+Karnataka,KK,Raichur,Raichur,Onion,23,13,31-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,31-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1892,1-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,713,1-Feb-17
+Karnataka,KK,Bellary,Hospet,Onion,23,8,1-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,1-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,155,1-Feb-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,20,1-Feb-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,23,1-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,29,1-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,1-Feb-17
+Karnataka,KK,Udupi,Udupi,Onion,23,5,1-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,45,2-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2004,2-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,360,2-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,144,2-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,2-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,161,2-Feb-17
+Karnataka,KK,Hassan,Hassan,Onion,23,373,2-Feb-17
+Karnataka,KK,Kolar,Kolar,Onion,23,6,2-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,246,2-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,22,2-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,2-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1866,3-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,43,3-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,3-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,48,3-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,205,3-Feb-17
+Karnataka,KK,Hassan,Hassan,Onion,23,201,3-Feb-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,195,3-Feb-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,9,3-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,196,3-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,10,3-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,3-Feb-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,3-Feb-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,134,4-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2233,4-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,544,4-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,4-Feb-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,12,4-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,4-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,393,4-Feb-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,25,4-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,11,4-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,257,5-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2419,6-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,34,6-Feb-17
+Karnataka,KK,Bellary,Hospet,Onion,23,18,6-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,118,6-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,6-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,6-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,320,6-Feb-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,8,6-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,16,6-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,6-Feb-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,74,7-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2056,7-Feb-17
+Karnataka,KK,Bellary,Hospet,Onion,23,6,7-Feb-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,20,7-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,7-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,56,7-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,242,7-Feb-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,35,7-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,211,7-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,3,7-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,7-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1753,8-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,668,8-Feb-17
+Karnataka,KK,Bellary,Hospet,Onion,23,4,8-Feb-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,8-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,53,8-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,313,8-Feb-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,24,8-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,6,8-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,8-Feb-17
+Karnataka,KK,Udupi,Udupi,Onion,23,15,8-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,42,9-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1891,9-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,332,9-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,105,9-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,9-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,253,9-Feb-17
+Karnataka,KK,Hassan,Hassan,Onion,23,422,9-Feb-17
+Karnataka,KK,Kolar,Kolar,Onion,23,5,9-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,13,9-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,9-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1776,10-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,95,10-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,10-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,10-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,167,10-Feb-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,114,10-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,15,10-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,10-Feb-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,10-Feb-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,70,11-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,446,11-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,242,11-Feb-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,28,11-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,4,11-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,252,12-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5363,13-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,64,13-Feb-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,2,13-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,13-Feb-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,14,13-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,58,13-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,419,13-Feb-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,4,13-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,2,13-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,13-Feb-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,61,14-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1942,14-Feb-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,14-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,14-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,43,14-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,213,14-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,345,14-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,14-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1999,15-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,885,15-Feb-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,15-Feb-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,2,15-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,15-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,51,15-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,267,15-Feb-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,44,15-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,147,15-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,15-Feb-17
+Karnataka,KK,Udupi,Udupi,Onion,23,14,15-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,41,16-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1437,16-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,181,16-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,78,16-Feb-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,16-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,16-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,320,16-Feb-17
+Karnataka,KK,Hassan,Hassan,Onion,23,431,16-Feb-17
+Karnataka,KK,Kolar,Kolar,Onion,23,6,16-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,232,16-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,16-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1308,17-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,34,17-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,17-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,65,17-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,307,17-Feb-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,8,17-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,243,17-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,9,17-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,17-Feb-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,17-Feb-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,66,18-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1638,18-Feb-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,14,18-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,18-Feb-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,2,18-Feb-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,4,20-Feb-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,20-Feb-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,50,21-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1417,21-Feb-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,4,21-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,54,21-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,192,21-Feb-17
+Karnataka,KK,Hassan,Hassan,Onion,23,255,21-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,515,21-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,6,21-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,21-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1791,22-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,593,22-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,22-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,100,22-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,347,22-Feb-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,38,22-Feb-17
+Karnataka,KK,Kolar,Kolar,Onion,23,1,22-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,86,22-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,22-Feb-17
+Karnataka,KK,Udupi,Udupi,Onion,23,41,22-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,40,23-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1722,23-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,239,23-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,62,23-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,23-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,23-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,202,23-Feb-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,61,23-Feb-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,2,23-Feb-17
+Karnataka,KK,Kolar,Kolar,Onion,23,5,23-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,243,23-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,6,23-Feb-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,68,25-Feb-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,15,25-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,276,25-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,141,26-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2395,27-Feb-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,16,27-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,49,27-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,9,27-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,65,27-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,456,27-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,14,27-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,27-Feb-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,27-Feb-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,41,28-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1953,28-Feb-17
+Karnataka,KK,Bellary,Hospet,Onion,23,18,28-Feb-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,8,28-Feb-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,28-Feb-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,28-Feb-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,357,28-Feb-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,41,28-Feb-17
+Karnataka,KK,Hassan,Hassan,Onion,23,248,28-Feb-17
+Karnataka,KK,Raichur,Raichur,Onion,23,10,28-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,28-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1944,1-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,737,1-Mar-17
+Karnataka,KK,Bellary,Hospet,Onion,23,4,1-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,4,1-Mar-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,1-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,1-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,1-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,312,1-Mar-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,22,1-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,10,1-Mar-17
+Karnataka,KK,Udupi,Udupi,Onion,23,17,1-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,37,2-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1630,2-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,615,2-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,53,2-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,8,2-Mar-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,2-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,2-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,319,2-Mar-17
+Karnataka,KK,Hassan,Hassan,Onion,23,434,2-Mar-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,11,2-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,228,2-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,2-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2056,3-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,113,3-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,3-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,3-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,56,3-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,334,3-Mar-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,100,3-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,237,3-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,4,3-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,3-Mar-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,3-Mar-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,48,4-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2335,4-Mar-17
+Karnataka,KK,Bangalore,Ramanagara,Onion,23,1,4-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,716,4-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,4-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,4-Mar-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,14,4-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,4-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,433,4-Mar-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,56,4-Mar-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,2,4-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,226,4-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,612,5-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3073,6-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,24,6-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,43,6-Mar-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,6,6-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,9,6-Mar-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,2,6-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,17,6-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,80,6-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,509,6-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,4,6-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,6-Mar-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,62,7-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2275,7-Mar-17
+Karnataka,KK,Bellary,Hospet,Onion,23,23,7-Mar-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,9,7-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,6,7-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,7-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,78,7-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,309,7-Mar-17
+Karnataka,KK,Mandya,K.R. Pet,Onion,23,7,7-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,627,7-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,7-Mar-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,3,7-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2614,8-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,1210,8-Mar-17
+Karnataka,KK,Bellary,Hospet,Onion,23,4,8-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,3,8-Mar-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,6,8-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,8-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,100,8-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,286,8-Mar-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,20,8-Mar-17
+Karnataka,KK,Kolar,Kolar,Onion,23,3,8-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,118,8-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,2,8-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,8-Mar-17
+Karnataka,KK,Udupi,Udupi,Onion,23,18,8-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,36,9-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1052,9-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,533,9-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,34,9-Mar-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,12,9-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,95,9-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,244,9-Mar-17
+Karnataka,KK,Hassan,Hassan,Onion,23,426,9-Mar-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,9,9-Mar-17
+Karnataka,KK,Kolar,Kolar,Onion,23,3,9-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,248,9-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,7,9-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,9-Mar-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,3,9-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1748,10-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,119,10-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,10-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,10-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,417,10-Mar-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,88,10-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,73,10-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,2,10-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,10-Mar-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,10-Mar-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,43,11-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,677,11-Mar-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,3,11-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,328,11-Mar-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,29,11-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,4,11-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,295,12-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4329,13-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,31,13-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,16,13-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,16,13-Mar-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,11,13-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,396,13-Mar-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,40,13-Mar-17
+Karnataka,KK,Kolar,Malur,Onion,23,4,13-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,204,13-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,13-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1580,14-Mar-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,4,14-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,12,14-Mar-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,7,14-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,14-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,206,14-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,128,14-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,4,14-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,14-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1373,15-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,798,15-Mar-17
+Karnataka,KK,Bellary,Hospet,Onion,23,27,15-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,17,15-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,15-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,96,15-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,266,15-Mar-17
+Karnataka,KK,Hassan,Hassan,Onion,23,215,15-Mar-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,40,15-Mar-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,8,15-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,368,15-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,15,15-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,15-Mar-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,15-Mar-17
+Karnataka,KK,Udupi,Udupi,Onion,23,22,15-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,40,16-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1583,16-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,255,16-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,16,16-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,16-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,16-Mar-17
+Karnataka,KK,Hassan,Hassan,Onion,23,430,16-Mar-17
+Karnataka,KK,Kolar,Kolar,Onion,23,22,16-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,7,16-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,16-Mar-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,25,16-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1805,17-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,23,17-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,17-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,10,17-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,96,17-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,421,17-Mar-17
+Karnataka,KK,Haveri,Haveri,Onion,23,5,17-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,4,17-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,17-Mar-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,17-Mar-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,80,18-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1469,18-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,691,18-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,18-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,18-Mar-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,10,18-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,18-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,503,18-Mar-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,40,18-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,136,18-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,6,18-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,196,19-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2260,20-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,30,20-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,31,20-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,20-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,9,20-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,20-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,290,20-Mar-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,20-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,7,20-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,20-Mar-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,42,21-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1752,21-Mar-17
+Karnataka,KK,Bellary,Hospet,Onion,23,19,21-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,21-Mar-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,2,21-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,21-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,21-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,358,21-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,21-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1732,22-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,808,22-Mar-17
+Karnataka,KK,Bellary,Hospet,Onion,23,9,22-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,22-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,22-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,22-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,215,22-Mar-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,52,22-Mar-17
+Karnataka,KK,Kolar,Kolar,Onion,23,4,22-Mar-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,4,22-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,22-Mar-17
+Karnataka,KK,Udupi,Udupi,Onion,23,15,22-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,37,23-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1814,23-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,83,23-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,14,23-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,23-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,23-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,161,23-Mar-17
+Karnataka,KK,Hassan,Hassan,Onion,23,534,23-Mar-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,11,23-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,23-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1702,24-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,20,24-Mar-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,9,24-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,24-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,24-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,306,24-Mar-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,102,24-Mar-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,40,24-Mar-17
+Karnataka,KK,Raichur,Raichur,Onion,23,16,24-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,24-Mar-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,24-Mar-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,57,25-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2241,25-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,754,25-Mar-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,25-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,25-Mar-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,14,25-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,25-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,390,25-Mar-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,39,25-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,481,26-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3710,27-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,68,27-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,20,27-Mar-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,27-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,9,27-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,27-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,449,27-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,27-Mar-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,24,28-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3710,28-Mar-17
+Karnataka,KK,Bellary,Hospet,Onion,23,13,28-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,28-Mar-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,9,28-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,245,28-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,28-Mar-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,21,29-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,41,30-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2479,30-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,243,30-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,12,30-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,30-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,35,30-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,278,30-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,30-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1524,31-Mar-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,13,31-Mar-17
+Karnataka,KK,Bellary,Hospet,Onion,23,9,31-Mar-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,10,31-Mar-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,31-Mar-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,31-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,363,31-Mar-17
+Karnataka,KK,Hassan,Hassan,Onion,23,369,31-Mar-17
+Karnataka,KK,Kolar,Kolar,Onion,23,4,31-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,31-Mar-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,31-Mar-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,69,1-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1297,1-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,685,1-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,1-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,1-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,254,1-Apr-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,19,1-Apr-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,13,1-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,15,1-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,8,1-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,278,2-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2224,3-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,54,3-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,230,3-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,9,3-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,472,3-Apr-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,6,3-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,10,3-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,3-Apr-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,3-Apr-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,105,4-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1738,4-Apr-17
+Karnataka,KK,Bellary,Hospet,Onion,23,21,4-Apr-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,10,4-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,4-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,247,4-Apr-17
+Karnataka,KK,Hassan,Hassan,Onion,23,4,4-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,10,4-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,3,4-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,4-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1158,5-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,835,5-Apr-17
+Karnataka,KK,Bellary,Hospet,Onion,23,12,5-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,9,5-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,15,5-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,395,5-Apr-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,4,5-Apr-17
+Karnataka,KK,Hassan,Hassan,Onion,23,614,5-Apr-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,40,5-Apr-17
+Karnataka,KK,Kolar,Kolar,Onion,23,5,5-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,5,5-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,6,5-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,5-Apr-17
+Karnataka,KK,Udupi,Udupi,Onion,23,27,5-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,40,6-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1617,6-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,570,6-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,36,6-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,6-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,333,6-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,5,6-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,11,6-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,6-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1641,7-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,51,7-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,7-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,25,7-Apr-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,13,7-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,12,7-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,7-Apr-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,2,7-Apr-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,166,8-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,796,8-Apr-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,34,8-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,12,8-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,11,9-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5485,10-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,59,10-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,11,10-Apr-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,13,10-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,10-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,448,10-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,6,10-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,10,10-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,10-Apr-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,10-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2532,11-Apr-17
+Karnataka,KK,Bangalore,Ramanagara,Onion,23,38,11-Apr-17
+Karnataka,KK,Bellary,Hospet,Onion,23,14,11-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,11-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,444,11-Apr-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,4,11-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,11-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,11-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2495,12-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,927,12-Apr-17
+Karnataka,KK,Bellary,Hospet,Onion,23,11,12-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,12-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,12-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,370,12-Apr-17
+Karnataka,KK,Hassan,Hassan,Onion,23,403,12-Apr-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,21,12-Apr-17
+Karnataka,KK,Kolar,Kolar,Onion,23,5,12-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,16,12-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,7,12-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,12-Apr-17
+Karnataka,KK,Udupi,Udupi,Onion,23,16,12-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,32,13-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2083,13-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,315,13-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,25,13-Apr-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,3,13-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,13-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,298,13-Apr-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,6,13-Apr-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,13-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,6,13-Apr-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,150,13-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,19,13-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,13-Apr-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,20,14-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,2,14-Apr-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,209,15-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1033,15-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,42,15-Apr-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,15-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,15-Apr-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,10,15-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,539,15-Apr-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,47,15-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,8,15-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,8,15-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,15-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,148,16-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,85,16-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2581,17-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,41,17-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,67,17-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,17-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,17-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,450,17-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,17-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,6,17-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,17-Apr-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,233,18-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1946,18-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,18-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,18-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,403,18-Apr-17
+Karnataka,KK,Hassan,Hassan,Onion,23,14,18-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,2,18-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1948,19-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,569,19-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,19-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,19-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,336,19-Apr-17
+Karnataka,KK,Hassan,Hassan,Onion,23,463,19-Apr-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,29,19-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,19-Apr-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,325,19-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,19-Apr-17
+Karnataka,KK,Udupi,Udupi,Onion,23,31,19-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,50,20-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,383,20-Apr-17
+Karnataka,KK,Bangalore,Ramanagara,Onion,23,41,20-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,417,20-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,40,20-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,48,20-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,297,20-Apr-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,10,20-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,20-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1314,21-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,73,21-Apr-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,12,21-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,21-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,21-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,378,21-Apr-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,12,21-Apr-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,2,21-Apr-17
+Karnataka,KK,Kolar,Kolar,Onion,23,6,21-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,7,21-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,21-Apr-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,21-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1826,22-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,568,22-Apr-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,22-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,22-Apr-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,12,22-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,48,22-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,438,22-Apr-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,50,22-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,6,22-Apr-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,225,22-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,5,22-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,14,22-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,388,23-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2460,24-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,3,24-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,34,24-Apr-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,24-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,10,24-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,24-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,402,24-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,5,24-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,24-Apr-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,24-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,519,25-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,25-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,254,25-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,25-Apr-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,172,25-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,4,25-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,25-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2333,26-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,788,26-Apr-17
+Karnataka,KK,Bellary,Hospet,Onion,23,22,26-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,26-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,53,26-Apr-17
+Karnataka,KK,Hassan,Hassan,Onion,23,473,26-Apr-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,35,26-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,26-Apr-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,165,26-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,26-Apr-17
+Karnataka,KK,Udupi,Udupi,Onion,23,42,26-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,55,27-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,568,27-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,248,27-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,43,27-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,313,27-Apr-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,27-Apr-17
+Karnataka,KK,Hassan,Hassan,Onion,23,38,27-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,27-Apr-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,219,27-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,27-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2142,28-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,44,28-Apr-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,28-Apr-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,28-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,382,28-Apr-17
+Karnataka,KK,Hassan,Hassan,Onion,23,800,28-Apr-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,40,28-Apr-17
+Karnataka,KK,Kolar,Kolar,Onion,23,6,28-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,28-Apr-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,171,28-Apr-17
+Karnataka,KK,Raichur,Raichur,Onion,23,4,28-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,28-Apr-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,28-Apr-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,291,29-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,505,29-Apr-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,31,29-Apr-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,4,29-Apr-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,2,30-Apr-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,20,1-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,467,2-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5329,2-May-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,80,2-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,19,2-May-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,10,2-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,2-May-17
+Karnataka,KK,Hassan,Hassan,Onion,23,2,2-May-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,6,2-May-17
+Karnataka,KK,Raichur,Raichur,Onion,23,2,2-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,2-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2237,3-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,620,3-May-17
+Karnataka,KK,Bellary,Hospet,Onion,23,23,3-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,3-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,3-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,200,3-May-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,4,3-May-17
+Karnataka,KK,Hassan,Hassan,Onion,23,475,3-May-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,30,3-May-17
+Karnataka,KK,Kolar,Kolar,Onion,23,6,3-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,619,3-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,3-May-17
+Karnataka,KK,Udupi,Udupi,Onion,23,25,3-May-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,54,4-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1962,4-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,599,4-May-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,47,4-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,4-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,48,4-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,22,4-May-17
+Karnataka,KK,Hassan,Hassan,Onion,23,105,4-May-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,2,4-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,239,4-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,4-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1793,5-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,58,5-May-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,9,5-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,9,5-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,5-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,326,5-May-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,41,5-May-17
+Karnataka,KK,Kolar,Chintamani,Onion,23,24,5-May-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,12,5-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,192,5-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,5-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,459,6-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2122,6-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,656,6-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,10,6-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,6-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,602,6-May-17
+Karnataka,KK,Kolar,Chintamani,Onion,23,29,6-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,207,6-May-17
+Karnataka,KK,Raichur,Raichur,Onion,23,2,6-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,460,7-May-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,8,7-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3462,8-May-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,71,8-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,8-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,73,8-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,437,8-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,8-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,466,9-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2549,9-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,9-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,9-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,276,9-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,419,9-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,9-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2382,10-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,497,10-May-17
+Karnataka,KK,Bellary,Hospet,Onion,23,21,10-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,8,10-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,10-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,394,10-May-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,4,10-May-17
+Karnataka,KK,Hassan,Hassan,Onion,23,476,10-May-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,43,10-May-17
+Karnataka,KK,Kolar,Kolar,Onion,23,6,10-May-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,10-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,255,10-May-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,10-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,3,10-May-17
+Karnataka,KK,Udupi,Udupi,Onion,23,22,10-May-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,47,11-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1759,11-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,244,11-May-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,93,11-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,42,11-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,288,11-May-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,9,11-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,200,11-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,11-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1822,12-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,10,12-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,12,12-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,12-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,268,12-May-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,7,12-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,215,12-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,12-May-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,12-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,385,13-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,522,13-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,401,13-May-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,43,13-May-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,1,13-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,284,14-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4304,15-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,46,15-May-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,108,15-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,11,15-May-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,9,15-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,15-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,265,15-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,381,15-May-17
+Karnataka,KK,Raichur,Raichur,Onion,23,4,15-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,15-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,336,16-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1451,16-May-17
+Karnataka,KK,Bellary,Hospet,Onion,23,17,16-May-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,16-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,16-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,48,16-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,250,16-May-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,16-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,371,16-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,16-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1605,17-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,342,17-May-17
+Karnataka,KK,Bellary,Hospet,Onion,23,12,17-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,17-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,17-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,337,17-May-17
+Karnataka,KK,Hassan,Hassan,Onion,23,407,17-May-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,35,17-May-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,29,17-May-17
+Karnataka,KK,Kolar,Kolar,Onion,23,4,17-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,269,17-May-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,17-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,17-May-17
+Karnataka,KK,Udupi,Udupi,Onion,23,22,17-May-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,45,18-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1169,18-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,279,18-May-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,69,18-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,53,18-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,194,18-May-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,18-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,55,18-May-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,18-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,18-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1132,19-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,64,19-May-17
+Karnataka,KK,Bellary,Hospet,Onion,23,7,19-May-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,4,19-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,19-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,54,19-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,250,19-May-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,32,19-May-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,1,19-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,219,19-May-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,19-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,19-May-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,19-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,208,20-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1694,20-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,320,20-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,8,20-May-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,10,20-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,20-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,468,20-May-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,61,20-May-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,20-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,67,20-May-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,20-May-17
+Karnataka,KK,Raichur,Raichur,Onion,23,10,20-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,323,21-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3298,22-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,127,22-May-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,65,22-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,22-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,43,22-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,347,22-May-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,22-May-17
+Karnataka,KK,Raichur,Raichur,Onion,23,4,22-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,22-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,156,23-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1995,23-May-17
+Karnataka,KK,Bellary,Hospet,Onion,23,28,23-May-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,2,23-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,23-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,53,23-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,338,23-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,23-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,968,24-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,573,24-May-17
+Karnataka,KK,Bellary,Hospet,Onion,23,8,24-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,9,24-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,54,24-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,347,24-May-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,4,24-May-17
+Karnataka,KK,Hassan,Hassan,Onion,23,378,24-May-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,33,24-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,101,24-May-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,24-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,24-May-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,4,24-May-17
+Karnataka,KK,Udupi,Udupi,Onion,23,20,24-May-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,47,25-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2122,25-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,327,25-May-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,434,25-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,53,25-May-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,50,25-May-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,8,25-May-17
+Karnataka,KK,Kolar,Kolar,Onion,23,6,25-May-17
+Karnataka,KK,Kolar,Malur,Onion,23,3,25-May-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,25-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,25-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1905,26-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,46,26-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,26-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,54,26-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,310,26-May-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,10,26-May-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,26-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,231,27-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2321,27-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,685,27-May-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,4,27-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,27-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,27-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,394,27-May-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,45,27-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,360,28-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3417,29-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,82,29-May-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,51,29-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,16,29-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,29-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,476,29-May-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,80,29-May-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,3,29-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,116,30-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2403,30-May-17
+Karnataka,KK,Bellary,Hospet,Onion,23,32,30-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,30-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,30-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,146,30-May-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,6,30-May-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1816,31-May-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,482,31-May-17
+Karnataka,KK,Bellary,Hospet,Onion,23,3,31-May-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,31-May-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,31-May-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,31-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,270,31-May-17
+Karnataka,KK,Hassan,Hassan,Onion,23,453,31-May-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,31,31-May-17
+Karnataka,KK,Kolar,Mulabagilu,Onion,23,3,31-May-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,31-May-17
+Karnataka,KK,Udupi,Udupi,Onion,23,41,31-May-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,30,1-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2001,1-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,266,1-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,70,1-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,16,1-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,1-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,245,1-Jun-17
+Karnataka,KK,Hassan,Hassan,Onion,23,64,1-Jun-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,32,1-Jun-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,9,1-Jun-17
+Karnataka,KK,Kolar,Kolar,Onion,23,51,1-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,33,1-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,1-Jun-17
+Karnataka,KK,Raichur,Raichur,Onion,23,3,1-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,11,1-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2194,2-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,121,2-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,4,2-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,9,2-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,25,2-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,278,2-Jun-17
+Karnataka,KK,Kolar,Malur,Onion,23,3,2-Jun-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,2-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,34,2-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,2-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,2-Jun-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,2-Jun-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,152,3-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2537,3-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,196,3-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,9,3-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,65,3-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,506,3-Jun-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,17,3-Jun-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,35,3-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,176,3-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,3-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,161,4-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2858,5-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,146,5-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,95,5-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,12,5-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,5-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,490,5-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,145,5-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,5-Jun-17
+Karnataka,KK,Raichur,Raichur,Onion,23,2,5-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,4,5-Jun-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,85,6-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1793,6-Jun-17
+Karnataka,KK,Bellary,Hospet,Onion,23,48,6-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,2,6-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,6-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,6-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,108,6-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,6-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,1,6-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1565,7-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,396,7-Jun-17
+Karnataka,KK,Bellary,Hospet,Onion,23,9,7-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,4,7-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,7-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,42,7-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,249,7-Jun-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,4,7-Jun-17
+Karnataka,KK,Hassan,Hassan,Onion,23,430,7-Jun-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,24,7-Jun-17
+Karnataka,KK,Kolar,Kolar,Onion,23,4,7-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,192,7-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,7-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,2,7-Jun-17
+Karnataka,KK,Udupi,Udupi,Onion,23,18,7-Jun-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,42,8-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1265,8-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,118,8-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,61,8-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,8-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,254,8-Jun-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,9,8-Jun-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,8-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,59,8-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,8-Jun-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,8-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2225,9-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,118,9-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,9-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,9-Jun-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,15,9-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,9-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,341,9-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,9-Jun-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,9-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,585,10-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,300,10-Jun-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,29,10-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,233,11-Jun-17
+Karnataka,KK,Bellary,Hospet,Onion,23,3,11-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5904,12-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,24,12-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,134,12-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,7,12-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,12-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,258,12-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,2,12-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,12,12-Jun-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,204,13-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,845,13-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,270,13-Jun-17
+Karnataka,KK,Bellary,Hospet,Onion,23,19,13-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,13-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,426,13-Jun-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,13-Jun-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,17,13-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,150,13-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,1,13-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1822,14-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,548,14-Jun-17
+Karnataka,KK,Bellary,Hospet,Onion,23,6,14-Jun-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,2,14-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,14-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,53,14-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,270,14-Jun-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,25,14-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,316,14-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,14-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Onion,23,1,14-Jun-17
+Karnataka,KK,Udupi,Udupi,Onion,23,26,14-Jun-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,40,15-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2433,15-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,261,15-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,6,15-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,15-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,240,15-Jun-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,15-Jun-17
+Karnataka,KK,Hassan,Hassan,Onion,23,398,15-Jun-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,17,15-Jun-17
+Karnataka,KK,Kolar,Malur,Onion,23,3,15-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,270,15-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,15-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2670,16-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,121,16-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,16-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,53,16-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,276,16-Jun-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,19,16-Jun-17
+Karnataka,KK,Kolar,Kolar,Onion,23,5,16-Jun-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,2,16-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,312,16-Jun-17
+Karnataka,KK,Raichur,Raichur,Onion,23,5,16-Jun-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,16-Jun-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,168,17-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2868,17-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,552,17-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,3,17-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,17-Jun-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,7,17-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,43,17-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,329,17-Jun-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,44,17-Jun-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,8,17-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,232,17-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,460,18-Jun-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,3,18-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4416,19-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,75,19-Jun-17
+Karnataka,KK,Bellary,Hospet,Onion,23,16,19-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,68,19-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,8,19-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,13,19-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,65,19-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,464,19-Jun-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,44,19-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,116,19-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,19-Jun-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,129,20-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2585,20-Jun-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,20-Jun-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,6,20-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,20-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,378,20-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,414,20-Jun-17
+Karnataka,KK,Raichur,Raichur,Onion,23,1,20-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1104,21-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,296,21-Jun-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,21-Jun-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,21-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,21-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,21-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,305,21-Jun-17
+Karnataka,KK,Hassan,Hassan,Onion,23,432,21-Jun-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,27,21-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,497,21-Jun-17
+Karnataka,KK,Udupi,Udupi,Onion,23,31,21-Jun-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,47,22-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1772,22-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,287,22-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,69,22-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,22-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,76,22-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,170,22-Jun-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,22-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,144,22-Jun-17
+Karnataka,KK,Raichur,Raichur,Onion,23,3,22-Jun-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,2,22-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2105,23-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,79,23-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,20,23-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,23-Jun-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,19,23-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,23-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,162,23-Jun-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,19,23-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,325,23-Jun-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,2,23-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2331,24-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,319,24-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,17,24-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,24-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,24-Jun-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,20,24-Jun-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,34,24-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,279,24-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,336,25-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,117,26-Jun-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,20,26-Jun-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,75,27-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3242,27-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,57,27-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,25,27-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,27-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,53,27-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,110,27-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,385,27-Jun-17
+Karnataka,KK,Raichur,Raichur,Onion,23,1,27-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1168,28-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,393,28-Jun-17
+Karnataka,KK,Bellary,Hospet,Onion,23,23,28-Jun-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,4,28-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,15,28-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,28-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,28-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,192,28-Jun-17
+Karnataka,KK,Hassan,Hassan,Onion,23,377,28-Jun-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,63,28-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,443,28-Jun-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,28-Jun-17
+Karnataka,KK,Udupi,Udupi,Onion,23,42,28-Jun-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,32,29-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1302,29-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,153,29-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,49,29-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,26,29-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,29-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,99,29-Jun-17
+Karnataka,KK,Kolar,Kolar,Onion,23,4,29-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,59,29-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1370,30-Jun-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,69,30-Jun-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,4,30-Jun-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,17,30-Jun-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,10,30-Jun-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,30-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,73,30-Jun-17
+Karnataka,KK,Hassan,Hassan,Onion,23,652,30-Jun-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,127,30-Jun-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,1,30-Jun-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,30-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,214,30-Jun-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,30-Jun-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,194,1-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1922,1-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,274,1-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,25,1-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,1-Jul-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,16,1-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,53,1-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,324,1-Jul-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,40,1-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,93,1-Jul-17
+Karnataka,KK,Raichur,Raichur,Onion,23,2,1-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,261,2-Jul-17
+Karnataka,KK,Kolar,Mulabagilu,Onion,23,3,2-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3383,3-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,71,3-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,16,3-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,71,3-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,62,3-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,3-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,110,3-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,287,3-Jul-17
+Karnataka,KK,Hassan,Hassan,Onion,23,6,3-Jul-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,2,3-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,145,3-Jul-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,2,3-Jul-17
+Karnataka,KK,Raichur,Raichur,Onion,23,1,3-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,215,4-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1986,4-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,2,4-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,57,4-Jul-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,4-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,4-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,302,4-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,513,4-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2172,5-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,473,5-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,9,5-Jul-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,8,5-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,34,5-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,5-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,65,5-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,308,5-Jul-17
+Karnataka,KK,Hassan,Hassan,Onion,23,448,5-Jul-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,40,5-Jul-17
+Karnataka,KK,Kolar,Mulabagilu,Onion,23,13,5-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,372,5-Jul-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,5-Jul-17
+Karnataka,KK,Udupi,Udupi,Onion,23,27,5-Jul-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,45,6-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2400,6-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,200,6-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,73,6-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,14,6-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,6-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,251,6-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,337,6-Jul-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,6-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2533,7-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,61,7-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,23,7-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,7-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,7-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,162,7-Jul-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,36,7-Jul-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,198,7-Jul-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,10,7-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,221,7-Jul-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,700,7-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,268,8-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,345,8-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,264,8-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,332,9-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,3,9-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4406,10-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,67,10-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,15,10-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,57,10-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,96,10-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,15,10-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,10-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,138,10-Jul-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,10-Jul-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,31,10-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,390,10-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,189,11-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1657,11-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,25,11-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,11-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,11-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,192,11-Jul-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,11-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,356,11-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1403,12-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,279,12-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,9,12-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,25,12-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,9,12-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,56,12-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,262,12-Jul-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,3,12-Jul-17
+Karnataka,KK,Hassan,Hassan,Onion,23,516,12-Jul-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,36,12-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,93,12-Jul-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,12-Jul-17
+Karnataka,KK,Raichur,Raichur,Onion,23,4,12-Jul-17
+Karnataka,KK,Udupi,Udupi,Onion,23,18,12-Jul-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,49,13-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2020,13-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,319,13-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,129,13-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,29,13-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,35,13-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,130,13-Jul-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,8,13-Jul-17
+Karnataka,KK,Kolar,Kolar,Onion,23,6,13-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,108,13-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1914,14-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,26,14-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,9,14-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,14-Jul-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,6,14-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,14-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,195,14-Jul-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,81,14-Jul-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,1,14-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,259,14-Jul-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,2,14-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,133,15-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2009,15-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,384,15-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,15-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,15-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,273,15-Jul-17
+Karnataka,KK,Mandya,K.R. Pet,Onion,23,2,15-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,105,15-Jul-17
+Karnataka,KK,Raichur,Raichur,Onion,23,3,15-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,285,16-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2509,17-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,33,17-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,16,17-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,96,17-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,11,17-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,17-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,17-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,190,17-Jul-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,21,17-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,392,17-Jul-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,17-Jul-17
+Karnataka,KK,Raichur,Raichur,Onion,23,6,17-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,149,18-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1886,18-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,6,18-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,36,18-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,18-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,267,18-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,105,18-Jul-17
+Karnataka,KK,Raichur,Raichur,Onion,23,1,18-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,133,19-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1726,19-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,307,19-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,8,19-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,40,19-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,8,19-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,19-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,295,19-Jul-17
+Karnataka,KK,Hassan,Hassan,Onion,23,597,19-Jul-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,42,19-Jul-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,19-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,109,19-Jul-17
+Karnataka,KK,Udupi,Udupi,Onion,23,14,19-Jul-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,54,20-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1753,20-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,290,20-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,77,20-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,21,20-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,25,20-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,172,20-Jul-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,7,20-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,61,20-Jul-17
+Karnataka,KK,Raichur,Raichur,Onion,23,5,20-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1664,21-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,34,21-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,28,21-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,21-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,25,21-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,119,21-Jul-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,21,21-Jul-17
+Karnataka,KK,Kolar,Kolar,Onion,23,4,21-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,151,21-Jul-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,21-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,195,22-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1614,22-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,273,22-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,22-Jul-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,18,22-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,22-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,313,22-Jul-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,23,22-Jul-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,7,22-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,151,22-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,247,23-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2171,24-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,80,24-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,16,24-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,32,24-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,10,24-Jul-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,1,24-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,24-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,137,24-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,269,24-Jul-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,2,24-Jul-17
+Karnataka,KK,Raichur,Raichur,Onion,23,11,24-Jul-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,2,24-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,126,25-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1609,25-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,37,25-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,25-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,25-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,216,25-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,323,25-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1275,26-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,429,26-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,8,26-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,21,26-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,26-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,25,26-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,295,26-Jul-17
+Karnataka,KK,Hassan,Hassan,Onion,23,572,26-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,243,26-Jul-17
+Karnataka,KK,Udupi,Udupi,Onion,23,45,26-Jul-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,65,27-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1652,27-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,206,27-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,28,27-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,40,27-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,27-Jul-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,2,27-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,345,27-Jul-17
+Karnataka,KK,Raichur,Raichur,Onion,23,5,27-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1607,28-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,95,28-Jul-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,2,28-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,3,28-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,28-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,28-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,293,28-Jul-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,28-Jul-17
+Karnataka,KK,Kolar,Kolar,Onion,23,5,28-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,188,28-Jul-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,28-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,85,29-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1799,29-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,199,29-Jul-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,66,29-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,21,29-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,29-Jul-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,8,29-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,35,29-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,221,29-Jul-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,31,29-Jul-17
+Karnataka,KK,Kolar,Srinivasapur,Onion,23,7,29-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,163,29-Jul-17
+Karnataka,KK,Raichur,Raichur,Onion,23,27,29-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,181,30-Jul-17
+Karnataka,KK,Bellary,Hospet,Onion,23,2,30-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1761,31-Jul-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,58,31-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,45,31-Jul-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,8,31-Jul-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,31-Jul-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,31-Jul-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,293,31-Jul-17
+Karnataka,KK,Hassan,Hassan,Onion,23,610,31-Jul-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,16,31-Jul-17
+Karnataka,KK,Kolar,Malur,Onion,23,3,31-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,138,31-Jul-17
+Karnataka,KK,Raichur,Raichur,Onion,23,33,31-Jul-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,2,31-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,102,1-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1148,1-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,18,1-Aug-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,4,1-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,20,1-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,75,1-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,146,1-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,13,1-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,889,2-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,246,2-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,4,2-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,2-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,20,2-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,148,2-Aug-17
+Karnataka,KK,Hassan,Hassan,Onion,23,623,2-Aug-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,24,2-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,345,2-Aug-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,2-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,12,2-Aug-17
+Karnataka,KK,Udupi,Udupi,Onion,23,22,2-Aug-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,53,3-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,847,3-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,149,3-Aug-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,31,3-Aug-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,4,3-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,25,3-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,158,3-Aug-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,1,3-Aug-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,3-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,163,3-Aug-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,3-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,21,3-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1921,4-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,89,4-Aug-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,4,4-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,4-Aug-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,14,4-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,20,4-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,207,4-Aug-17
+Karnataka,KK,Hassan,Belur,Onion,23,5,4-Aug-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,5,4-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,199,4-Aug-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,4-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,48,4-Aug-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,4-Aug-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,116,5-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1326,5-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,213,5-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,5-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,25,5-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,236,5-Aug-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,18,5-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,253,5-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,17,5-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,194,6-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2189,7-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,69,7-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,16,7-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,7-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,7-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,271,7-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,109,7-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,86,7-Aug-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,134,8-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1422,8-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,8,8-Aug-17
+Karnataka,KK,Chikmagalur,Bagepalli,Onion,23,1,8-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,8-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,142,8-Aug-17
+Karnataka,KK,Kolar,Kolar,Onion,23,6,8-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,61,8-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,165,8-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,671,9-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,477,9-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,3,9-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,9-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,35,9-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,163,9-Aug-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,2,9-Aug-17
+Karnataka,KK,Hassan,Hassan,Onion,23,541,9-Aug-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,25,9-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,417,9-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,80,9-Aug-17
+Karnataka,KK,Udupi,Udupi,Onion,23,14,9-Aug-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,61,10-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,487,10-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,122,10-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,33,10-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,91,10-Aug-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,7,10-Aug-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,10-Aug-17
+Karnataka,KK,Kolar,Malur,Onion,23,3,10-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,33,10-Aug-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,10-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,42,10-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,724,11-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,88,11-Aug-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,3,11-Aug-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,13,11-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,11-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,119,11-Aug-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,37,11-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,163,11-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,35,11-Aug-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,11-Aug-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,128,12-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,487,12-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,406,12-Aug-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,28,12-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,91,12-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,343,13-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1489,14-Aug-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,3,14-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,14-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,14-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,317,14-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,146,14-Aug-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,14-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,154,14-Aug-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,91,15-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1684,16-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,345,16-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,15,16-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,16-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,247,16-Aug-17
+Karnataka,KK,Hassan,Hassan,Onion,23,443,16-Aug-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,31,16-Aug-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,16-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,210,16-Aug-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,16-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,99,16-Aug-17
+Karnataka,KK,Udupi,Udupi,Onion,23,12,16-Aug-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,50,17-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,215,17-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,214,17-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,17-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,225,17-Aug-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,8,17-Aug-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,4,17-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,337,17-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,127,17-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,760,18-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,51,18-Aug-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,14,18-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,18-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,109,18-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,69,18-Aug-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,18-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,185,18-Aug-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,133,19-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1678,19-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,310,19-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,3,19-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,19-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,19-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,293,19-Aug-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,39,19-Aug-17
+Karnataka,KK,Kolar,Malur,Onion,23,2,19-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,249,19-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,173,19-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,125,20-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2325,21-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,51,21-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,10,21-Aug-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,8,21-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,21-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,21-Aug-17
+Karnataka,KK,Kolar,Malur,Onion,23,3,21-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,99,21-Aug-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,21-Aug-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,57,22-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1133,22-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,138,22-Aug-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,4,22-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,117,22-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,168,22-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1693,23-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,358,23-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,23-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,23-Aug-17
+Karnataka,KK,Hassan,Hassan,Onion,23,381,23-Aug-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,40,23-Aug-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,23-Aug-17
+Karnataka,KK,Udupi,Udupi,Onion,23,16,23-Aug-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,52,24-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1944,24-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,218,24-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,25,24-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,318,24-Aug-17
+Karnataka,KK,Hassan,Hassan,Onion,23,54,24-Aug-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,4,24-Aug-17
+Karnataka,KK,Kolar,Kolar,Onion,23,1,24-Aug-17
+Karnataka,KK,Kolar,Malur,Onion,23,3,24-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,64,24-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,187,24-Aug-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,132,26-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3526,26-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,440,26-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,4,26-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,26-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,20,26-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,176,26-Aug-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,23,26-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,597,26-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,192,26-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,198,27-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1321,28-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,22,28-Aug-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,19,28-Aug-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,28-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,28-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,25,28-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,168,28-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,161,28-Aug-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,28-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,167,28-Aug-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,125,29-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,692,29-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,11,29-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,29-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,111,29-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,83,29-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,87,29-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,379,30-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,330,30-Aug-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,30-Aug-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,2,30-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,30-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,30-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,107,30-Aug-17
+Karnataka,KK,Hassan,Hassan,Onion,23,327,30-Aug-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,34,30-Aug-17
+Karnataka,KK,Kolar,Malur,Onion,23,3,30-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,196,30-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,95,30-Aug-17
+Karnataka,KK,Udupi,Udupi,Onion,23,32,30-Aug-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,43,31-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1007,31-Aug-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,88,31-Aug-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,16,31-Aug-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,31-Aug-17
+Karnataka,KK,Davangere,Davangere,Onion,23,35,31-Aug-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,85,31-Aug-17
+Karnataka,KK,Hassan,Hassan,Onion,23,12,31-Aug-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,86,31-Aug-17
+Karnataka,KK,Kolar,Kolar,Onion,23,5,31-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,81,31-Aug-17
+Karnataka,KK,Raichur,Raichur,Onion,23,120,31-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1412,1-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,12,1-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,1-Sep-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,12,1-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,1-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,98,1-Sep-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,1,1-Sep-17
+Karnataka,KK,Kolar,Malur,Onion,23,4,1-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,129,1-Sep-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,1-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,151,1-Sep-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,22,2-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,183,3-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2110,4-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,50,4-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,15,4-Sep-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,10,4-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,4-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,100,4-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,303,4-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,144,4-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,232,4-Sep-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,4-Sep-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,201,5-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1258,5-Sep-17
+Karnataka,KK,Bellary,Hospet,Onion,23,12,5-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,185,5-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,129,5-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1595,6-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,670,6-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,6-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,6-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,288,6-Sep-17
+Karnataka,KK,Hassan,Hassan,Onion,23,92,6-Sep-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,29,6-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,205,6-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,225,6-Sep-17
+Karnataka,KK,Udupi,Udupi,Onion,23,12,6-Sep-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,49,7-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1940,7-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,203,7-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,42,7-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,7-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,268,7-Sep-17
+Karnataka,KK,Hassan,Hassan,Onion,23,275,7-Sep-17
+Karnataka,KK,Kolar,Kolar,Onion,23,3,7-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,52,7-Sep-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,7-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,185,7-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,743,8-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,2,8-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,8-Sep-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,12,8-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,8-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,294,8-Sep-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,52,8-Sep-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,5,8-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,145,8-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,141,8-Sep-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,2,8-Sep-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,249,9-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,505,9-Sep-17
+Karnataka,KK,Bellary,Hospet,Onion,23,9,9-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,566,9-Sep-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,13,9-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,217,9-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,341,10-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4577,11-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,90,11-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,11-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,11-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,635,11-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,294,11-Sep-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,2,11-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,186,11-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1691,12-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,12-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,431,12-Sep-17
+Karnataka,KK,Hassan,Hassan,Onion,23,87,12-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,241,12-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,142,12-Sep-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,160,13-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1994,13-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,866,13-Sep-17
+Karnataka,KK,Bellary,Hospet,Onion,23,16,13-Sep-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,4,13-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,13-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,13-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,443,13-Sep-17
+Karnataka,KK,Hassan,Hassan,Onion,23,447,13-Sep-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,16,13-Sep-17
+Karnataka,KK,Kolar,Malur,Onion,23,3,13-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,151,13-Sep-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,13-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,195,13-Sep-17
+Karnataka,KK,Udupi,Udupi,Onion,23,17,13-Sep-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,61,14-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1543,14-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,191,14-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,100,14-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,419,14-Sep-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,37,14-Sep-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,9,14-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,60,14-Sep-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,14-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,184,14-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,994,15-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,52,15-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,15-Sep-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,7,15-Sep-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,10,15-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,15-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,615,15-Sep-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,52,15-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,286,15-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,136,15-Sep-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,247,16-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2113,16-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,964,16-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,16-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,16-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,680,16-Sep-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,10,16-Sep-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,8,16-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,168,16-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,145,16-Sep-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,16-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,203,17-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1593,18-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,8,18-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,45,18-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,18-Sep-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,20,18-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,100,18-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,593,18-Sep-17
+Karnataka,KK,Kolar,Malur,Onion,23,3,18-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,66,18-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,127,18-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1672,20-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,1103,20-Sep-17
+Karnataka,KK,Bellary,Hospet,Onion,23,15,20-Sep-17
+Karnataka,KK,Chamrajnagar,Chamaraj Nagar,Onion,23,2,20-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,20-Sep-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,10,20-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,20-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,459,20-Sep-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,4,20-Sep-17
+Karnataka,KK,Hassan,Hassan,Onion,23,674,20-Sep-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,14,20-Sep-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,13,20-Sep-17
+Karnataka,KK,Kolar,Malur,Onion,23,2,20-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,477,20-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,23,20-Sep-17
+Karnataka,KK,Udupi,Udupi,Onion,23,13,20-Sep-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,45,21-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,478,21-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,97,21-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,37,21-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,52,21-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,461,21-Sep-17
+Karnataka,KK,Kolar,Kolar,Onion,23,4,21-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,191,21-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,117,21-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,913,22-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,18,22-Sep-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,1,22-Sep-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,10,22-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,22-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,572,22-Sep-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,22-Sep-17
+Karnataka,KK,Hassan,Hassan,Onion,23,651,22-Sep-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,156,22-Sep-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,5,22-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,176,22-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,153,22-Sep-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,22-Sep-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,160,23-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1171,23-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,969,23-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,23-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,90,23-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,812,23-Sep-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,28,23-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,115,23-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,123,23-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,146,24-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1180,25-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,32,25-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,32,25-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,25-Sep-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,20,25-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,150,25-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1156,25-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,236,25-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,188,25-Sep-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,189,26-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1792,26-Sep-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,10,26-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,26-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,763,26-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,397,26-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,136,26-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1890,27-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,1666,27-Sep-17
+Karnataka,KK,Bellary,Hospet,Onion,23,19,27-Sep-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,27-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,90,27-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,815,27-Sep-17
+Karnataka,KK,Hassan,Hassan,Onion,23,656,27-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,274,27-Sep-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,27-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,81,27-Sep-17
+Karnataka,KK,Udupi,Udupi,Onion,23,23,27-Sep-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,43,28-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2003,28-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,169,28-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,23,28-Sep-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,28-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,863,28-Sep-17
+Karnataka,KK,Hassan,Hassan,Onion,23,156,28-Sep-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,199,28-Sep-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,5,28-Sep-17
+Karnataka,KK,Kolar,Kolar,Onion,23,3,28-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,168,28-Sep-17
+Karnataka,KK,Raichur,Raichur,Onion,23,72,28-Sep-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,29-Sep-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,793,30-Sep-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,9,2-Oct-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,170,3-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4405,3-Oct-17
+Karnataka,KK,Bellary,Hospet,Onion,23,17,3-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,25,3-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,10,3-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,8,3-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,3-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,568,3-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,15,3-Oct-17
+Karnataka,KK,Hassan,Hassan,Onion,23,325,3-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,1394,3-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,57,3-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2232,4-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,1037,4-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,4-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,4-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,530,4-Oct-17
+Karnataka,KK,Hassan,Hassan,Onion,23,345,4-Oct-17
+Karnataka,KK,Kolar,Malur,Onion,23,4,4-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,143,4-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,39,4-Oct-17
+Karnataka,KK,Udupi,Udupi,Onion,23,7,4-Oct-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,21,5-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,396,5-Oct-17
+Karnataka,KK,Kolar,Kolar,Onion,23,4,5-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4320,6-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,16,6-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,26,6-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,6-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,6-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,510,6-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,44,6-Oct-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,1,6-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,220,6-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,97,6-Oct-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,175,7-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2171,7-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,1260,7-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,7-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,8,7-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,20,7-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,100,7-Oct-17
+Karnataka,KK,Davangere,Honnali,Onion,23,4,7-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1094,7-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,229,7-Oct-17
+Karnataka,KK,Hassan,Hassan,Onion,23,12,7-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,274,7-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,128,7-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,117,8-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2940,9-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,15,9-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,9-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,20,9-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,95,9-Oct-17
+Karnataka,KK,Davangere,Honnali,Onion,23,15,9-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1488,9-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,23,9-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,258,9-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,240,9-Oct-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,2,9-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,127,9-Oct-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,250,10-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4338,10-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,10-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,80,10-Oct-17
+Karnataka,KK,Davangere,Honnali,Onion,23,15,10-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1001,10-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,116,10-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,193,10-Oct-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,10-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,72,10-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4408,11-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,2537,11-Oct-17
+Karnataka,KK,Bellary,Hospet,Onion,23,16,11-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,11-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,11-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1151,11-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,2,11-Oct-17
+Karnataka,KK,Hassan,Hassan,Onion,23,311,11-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,79,11-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,202,11-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,52,11-Oct-17
+Karnataka,KK,Udupi,Udupi,Onion,23,30,11-Oct-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,63,12-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,6705,12-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,80,12-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,15,12-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,12-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,16,12-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,120,12-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,886,12-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,7,12-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,111,12-Oct-17
+Karnataka,KK,Kolar,Kolar,Onion,23,3,12-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,173,12-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,83,12-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,7480,13-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,51,13-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,13-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,8,13-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,20,13-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,13-Oct-17
+Karnataka,KK,Davangere,Honnali,Onion,23,30,13-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1238,13-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,149,13-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,171,13-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,51,13-Oct-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,428,14-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,51,14-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1438,14-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,99,14-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,321,15-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,11982,16-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,15,16-Oct-17
+Karnataka,KK,Bellary,Hospet,Onion,23,16,16-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,34,16-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,16-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,16,16-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,30,16-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,85,16-Oct-17
+Karnataka,KK,Davangere,Honnali,Onion,23,52,16-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1308,16-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,20,16-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,189,16-Oct-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,15,16-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,118,16-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,147,16-Oct-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,141,17-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5447,17-Oct-17
+Karnataka,KK,Bellary,Hospet,Onion,23,2,17-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,17-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,10,17-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,17-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1196,17-Oct-17
+Karnataka,KK,Hassan,Hassan,Onion,23,339,17-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,90,17-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,296,17-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,113,17-Oct-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,52,19-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1905,19-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,61,19-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,19-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,30,19-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,10,19-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,20,19-Oct-17
+Karnataka,KK,Hassan,Hassan,Onion,23,130,19-Oct-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,19-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,321,19-Oct-17
+Karnataka,KK,Mysore,T. Narasipura,Onion,23,1,19-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,25,20-Oct-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,195,21-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3318,21-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,2033,21-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,6,21-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,20,21-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,469,21-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,20,21-Oct-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,7,21-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,191,21-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,34,21-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,44,22-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5952,23-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,325,23-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,26,23-Oct-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,4,23-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,20,23-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,20,23-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,150,23-Oct-17
+Karnataka,KK,Davangere,Honnali,Onion,23,20,23-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1445,23-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,130,23-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,216,23-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,64,23-Oct-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,453,24-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5429,24-Oct-17
+Karnataka,KK,Bellary,Hospet,Onion,23,15,24-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,24-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,32,24-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,110,24-Oct-17
+Karnataka,KK,Davangere,Honnali,Onion,23,5,24-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1184,24-Oct-17
+Karnataka,KK,Hassan,Hassan,Onion,23,134,24-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,113,24-Oct-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,21,24-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,166,24-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,108,24-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5260,25-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,2891,25-Oct-17
+Karnataka,KK,Bellary,Hospet,Onion,23,3,25-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,12,25-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,16,25-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,10,25-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,98,25-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1122,25-Oct-17
+Karnataka,KK,Hassan,Hassan,Onion,23,392,25-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,87,25-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,189,25-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,83,25-Oct-17
+Karnataka,KK,Udupi,Udupi,Onion,23,25,25-Oct-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,68,26-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5953,26-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,97,26-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,26-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,10,26-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,120,26-Oct-17
+Karnataka,KK,Davangere,Honnali,Onion,23,2,26-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,706,26-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,16,26-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,81,26-Oct-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,1,26-Oct-17
+Karnataka,KK,Kolar,Kolar,Onion,23,4,26-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,129,26-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,68,26-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5601,27-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,9,27-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,27-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,35,27-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,20,27-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,1,27-Oct-17
+Karnataka,KK,Davangere,Honnali,Onion,23,38,27-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,705,27-Oct-17
+Karnataka,KK,Hassan,Hassan,Onion,23,7,27-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,36,27-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,63,27-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,68,27-Oct-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,587,28-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4211,28-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,2717,28-Oct-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,28-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,28-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,10,28-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,20,28-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,150,28-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1186,28-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,20,28-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,81,28-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,108,28-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,85,28-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,160,29-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5621,30-Oct-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,32,30-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,44,30-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,5,30-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,95,30-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1463,30-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,7,30-Oct-17
+Karnataka,KK,Hassan,Hassan,Onion,23,10,30-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,160,30-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,83,30-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,90,30-Oct-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,560,31-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4096,31-Oct-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,31-Oct-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,31-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,10,31-Oct-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,10,31-Oct-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,31-Oct-17
+Karnataka,KK,Davangere,Honnali,Onion,23,44,31-Oct-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1320,31-Oct-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,24,31-Oct-17
+Karnataka,KK,Hassan,Hassan,Onion,23,996,31-Oct-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,31,31-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,48,31-Oct-17
+Karnataka,KK,Raichur,Raichur,Onion,23,11,31-Oct-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,4,31-Oct-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,48,2-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5259,2-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,16,2-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,24,2-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,2-Nov-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,10,2-Nov-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,20,2-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,2-Nov-17
+Karnataka,KK,Davangere,Honnali,Onion,23,18,2-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1063,2-Nov-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,52,2-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,578,2-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,75,2-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,179,2-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,77,2-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3325,3-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,3,3-Nov-17
+Karnataka,KK,Bellary,Hospet,Onion,23,12,3-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,3-Nov-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,15,3-Nov-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,20,3-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,46,3-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1088,3-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,1000,3-Nov-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,6,3-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,49,3-Nov-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,7,3-Nov-17
+Karnataka,KK,Kolar,Kolar,Onion,23,3,3-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,213,3-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,72,3-Nov-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,520,4-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4849,4-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,1811,4-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,4-Nov-17
+Karnataka,KK,Chitradurga,Holalkere,Onion,23,10,4-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,4-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1408,4-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,130,4-Nov-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,17,4-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,48,4-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,63,4-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,87,4-Nov-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,2,4-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,22,5-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,57,6-Nov-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,431,7-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,6887,7-Nov-17
+Karnataka,KK,Bellary,Hospet,Onion,23,14,7-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,55,7-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,8,7-Nov-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,20,7-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,7-Nov-17
+Karnataka,KK,Davangere,Honnali,Onion,23,2,7-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1003,7-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,150,7-Nov-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,7-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,82,7-Nov-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,28,7-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,198,7-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,103,7-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2842,8-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,1997,8-Nov-17
+Karnataka,KK,Bellary,Hospet,Onion,23,4,8-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,8-Nov-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,20,8-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,8-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,1009,8-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,128,8-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,157,8-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,47,8-Nov-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,8-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,236,8-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,71,8-Nov-17
+Karnataka,KK,Udupi,Udupi,Onion,23,15,8-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,39,9-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2536,9-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,120,9-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,30,9-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,9-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,825,9-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,100,9-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,1038,9-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,110,9-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,78,9-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,83,9-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3329,10-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,4,10-Nov-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,6,10-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,10-Nov-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,13,10-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,10-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,776,10-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,115,10-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,58,10-Nov-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,4,10-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,189,10-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,73,10-Nov-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,448,11-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,165,11-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,980,11-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,200,11-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,92,11-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,72,12-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5114,13-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,6,13-Nov-17
+Karnataka,KK,Bellary,Hospet,Onion,23,12,13-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,31,13-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,13-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,100,13-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,932,13-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,120,13-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,43,13-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,115,13-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,356,13-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,90,13-Nov-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,480,14-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2089,14-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,21,14-Nov-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,10,14-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,14-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,824,14-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,170,14-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,50,14-Nov-17
+Karnataka,KK,Kolar,Kolar,Onion,23,20,14-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,100,14-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,80,14-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1619,15-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,1106,15-Nov-17
+Karnataka,KK,Bellary,Hospet,Onion,23,8,15-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,15-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,15-Nov-17
+Karnataka,KK,Davangere,Honnali,Onion,23,2,15-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,842,15-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,200,15-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,219,15-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,80,15-Nov-17
+Karnataka,KK,Kolar,Kolar,Onion,23,1,15-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,66,15-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,52,15-Nov-17
+Karnataka,KK,Udupi,Udupi,Onion,23,29,15-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,48,16-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1818,16-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,62,16-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,32,16-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,16-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,629,16-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,165,16-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,110,16-Nov-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,1,16-Nov-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,16-Nov-17
+Karnataka,KK,Kolar,Malur,Onion,23,2,16-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,161,16-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,62,16-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2211,17-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,39,17-Nov-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,3,17-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,17-Nov-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,4,17-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,17-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,578,17-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,130,17-Nov-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,2,17-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,45,17-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,111,17-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,60,17-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1926,18-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,846,18-Nov-17
+Karnataka,KK,Bellary,Hospet,Onion,23,3,18-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,18-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,38,18-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,710,18-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,70,18-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,166,18-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,55,19-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2917,20-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,13,20-Nov-17
+Karnataka,KK,Bellary,Hospet,Onion,23,11,20-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,90,20-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,7,20-Nov-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,10,20-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,20-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,875,20-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,195,20-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,58,20-Nov-17
+Karnataka,KK,Kolar,Malur,Onion,23,2,20-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,86,20-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,82,20-Nov-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,274,21-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,622,21-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,21-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,21-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,150,21-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,39,21-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,27,21-Nov-17
+Karnataka,KK,Kolar,Malur,Onion,23,2,21-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,277,21-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,58,21-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1715,22-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,1078,22-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,22-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,643,22-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,150,22-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,187,22-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,20,22-Nov-17
+Karnataka,KK,Kolar,Kolar,Onion,23,1,22-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,213,22-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,53,22-Nov-17
+Karnataka,KK,Udupi,Udupi,Onion,23,18,22-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,65,23-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1926,23-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,150,23-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,63,23-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,85,23-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,402,23-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,140,23-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,23,23-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,37,23-Nov-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,1,23-Nov-17
+Karnataka,KK,Kolar,Kolar,Onion,23,25,23-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,147,23-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,73,23-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1768,24-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,2,24-Nov-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,4,24-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,24-Nov-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,3,24-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,80,24-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,319,24-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,150,24-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,30,24-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,150,24-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,59,24-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2658,25-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,480,25-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,25-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,85,25-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,578,25-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,200,25-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,35,25-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,81,25-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,77,26-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2873,27-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,39,27-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,70,27-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,3,27-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,27-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,510,27-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,190,27-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,201,27-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,61,27-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,80,27-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,77,27-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1833,28-Nov-17
+Karnataka,KK,Bellary,Hospet,Onion,23,14,28-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,28-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,418,28-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,200,28-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,130,28-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,36,28-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,227,28-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,61,28-Nov-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,6,28-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1976,29-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,572,29-Nov-17
+Karnataka,KK,Bellary,Hospet,Onion,23,3,29-Nov-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,29-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,29-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,435,29-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,140,29-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,278,29-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,42,29-Nov-17
+Karnataka,KK,Kolar,Kolar,Onion,23,3,29-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,163,29-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,59,29-Nov-17
+Karnataka,KK,Udupi,Udupi,Onion,23,3,29-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,62,30-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2546,30-Nov-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,167,30-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,45,30-Nov-17
+Karnataka,KK,Davangere,Davangere,Onion,23,75,30-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,445,30-Nov-17
+Karnataka,KK,Gadag,Gadag,Onion,23,225,30-Nov-17
+Karnataka,KK,Hassan,Hassan,Onion,23,1333,30-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,45,30-Nov-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,15,30-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,117,30-Nov-17
+Karnataka,KK,Raichur,Raichur,Onion,23,60,30-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2874,1-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,22,1-Dec-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,5,1-Dec-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,2,1-Dec-17
+Karnataka,KK,Chitradurga,Challakere,Onion,23,1,1-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,1-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,499,1-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,205,1-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,50,1-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,83,1-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,63,1-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,85,2-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,231,3-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,5712,4-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,53,4-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,65,4-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,4,4-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,70,4-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,601,4-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,205,4-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,24,4-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,383,4-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,57,4-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1368,5-Dec-17
+Karnataka,KK,Bellary,Hospet,Onion,23,18,5-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,5-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,60,5-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,338,5-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,90,5-Dec-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,3,5-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,15,5-Dec-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,21,5-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,437,5-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,43,5-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1768,6-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,414,6-Dec-17
+Karnataka,KK,Bellary,Hospet,Onion,23,3,6-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,65,6-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,268,6-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,85,6-Dec-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,5,6-Dec-17
+Karnataka,KK,Hassan,Hassan,Onion,23,118,6-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,12,6-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,133,6-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,42,6-Dec-17
+Karnataka,KK,Udupi,Udupi,Onion,23,3,6-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,46,7-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1820,7-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,105,7-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,61,7-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,65,7-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,13,7-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,90,7-Dec-17
+Karnataka,KK,Hassan,Hassan,Onion,23,2,7-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,37,7-Dec-17
+Karnataka,KK,Kolar,Kolar,Onion,23,1,7-Dec-17
+Karnataka,KK,Mysore,Hunsur,Onion,23,1,7-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,124,7-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,44,7-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1851,8-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,28,8-Dec-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,3,8-Dec-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,2,8-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,8-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,387,8-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,70,8-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,14,8-Dec-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,23,8-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,104,8-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,36,8-Dec-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,124,9-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,479,9-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,377,9-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,95,9-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,21,9-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,242,10-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,4157,11-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,43,11-Dec-17
+Karnataka,KK,Bellary,Hospet,Onion,23,16,11-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,6,11-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,11-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,48,11-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,229,11-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,125,11-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,18,11-Dec-17
+Karnataka,KK,Kolar,Bangarpet,Onion,23,116,11-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,333,11-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,32,11-Dec-17
+Karnataka,KK,Bagalkot,Bagalakot,Onion,23,115,12-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1399,12-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,282,12-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,120,12-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,11,12-Dec-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,18,12-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,278,12-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,24,12-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1813,13-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,375,13-Dec-17
+Karnataka,KK,Bellary,Hospet,Onion,23,4,13-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,13-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,252,13-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,140,13-Dec-17
+Karnataka,KK,Hassan,Hassan,Onion,23,170,13-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,11,13-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,271,13-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,24,13-Dec-17
+Karnataka,KK,Udupi,Udupi,Onion,23,15,13-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,42,14-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1856,14-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,200,14-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,21,14-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,14-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,182,14-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,100,14-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,14,14-Dec-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,14-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,125,14-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,40,14-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2083,15-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,65,15-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,15-Dec-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,2,15-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,15-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,247,15-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,100,15-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,7,15-Dec-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,4,15-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,48,15-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,32,15-Dec-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,15-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2426,16-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,427,16-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,16-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,16-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,483,16-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,140,16-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,23,16-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,354,16-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,39,16-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,216,17-Dec-17
+Karnataka,KK,Bellary,Hospet,Onion,23,5,17-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,2583,18-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,16,18-Dec-17
+Karnataka,KK,Bellary,Hospet,Onion,23,11,18-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,58,18-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,18-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,30,18-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,7,18-Dec-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,1,18-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,255,18-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1756,19-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,48,19-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,246,19-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,20,19-Dec-17
+Karnataka,KK,Hassan,Arasikere,Onion,23,2,19-Dec-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,16,19-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,186,19-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,20,19-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1480,20-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,350,20-Dec-17
+Karnataka,KK,Bellary,Hospet,Onion,23,2,20-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,20-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,50,20-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,298,20-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,40,20-Dec-17
+Karnataka,KK,Hassan,Hassan,Onion,23,2,20-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,53,20-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,24,20-Dec-17
+Karnataka,KK,Udupi,Udupi,Onion,23,11,20-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,51,21-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1515,21-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,240,21-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,50,21-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,48,21-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,232,21-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,63,21-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,6,21-Dec-17
+Karnataka,KK,Kolar,Kolar,Onion,23,1,21-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,127,21-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,37,21-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1946,22-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,39,22-Dec-17
+Karnataka,KK,Chamrajnagar,Gundlupet,Onion,23,3,22-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,22-Dec-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,2,22-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,22-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,251,22-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,60,22-Dec-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,16,22-Dec-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,22-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,53,22-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,21,22-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,3082,23-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,357,23-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,2,23-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,45,23-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,526,23-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,115,23-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,55,23-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,40,23-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,278,24-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1450,26-Dec-17
+Karnataka,KK,Bellary,Hospet,Onion,23,17,26-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,73,26-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,26-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,47,26-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,518,26-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,100,26-Dec-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,35,26-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,37,26-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,49,26-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1930,27-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,497,27-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,27-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,46,27-Dec-17
+Karnataka,KK,Hassan,Hassan,Onion,23,537,27-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,119,27-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,37,27-Dec-17
+Karnataka,KK,Udupi,Udupi,Onion,23,12,27-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Onion,23,50,28-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1386,28-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,234,28-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Onion,23,57,28-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,55,28-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,511,28-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,60,28-Dec-17
+Karnataka,KK,Hassan,Hassan,Onion,23,490,28-Dec-17
+Karnataka,KK,Kolar,Malur,Onion,23,4,28-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,124,28-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,50,28-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1436,29-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,51,29-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,53,29-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,227,29-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,38,29-Dec-17
+Karnataka,KK,Haveri,Ranebennur,Onion,23,81,29-Dec-17
+Karnataka,KK,Kolar,Chickkaballapura,Onion,23,15,29-Dec-17
+Karnataka,KK,Kolar,Gowribidanoor,Onion,23,2,29-Dec-17
+Karnataka,KK,Kolar,Kolar,Onion,23,2,29-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,81,29-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,52,29-Dec-17
+Karnataka,KK,Tumkur,Tumkur,Onion,23,1,29-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Onion,23,1539,30-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,311,30-Dec-17
+Karnataka,KK,Bellary,Hospet,Onion,23,4,30-Dec-17
+Karnataka,KK,Chikmagalur,Chikkamagalore,Onion,23,1,30-Dec-17
+Karnataka,KK,Chikmagalur,Tarikere,Onion,23,3,30-Dec-17
+Karnataka,KK,Davangere,Davangere,Onion,23,40,30-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Onion,23,409,30-Dec-17
+Karnataka,KK,Gadag,Gadag,Onion,23,75,30-Dec-17
+Karnataka,KK,Hassan,Hassan,Onion,23,278,30-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Onion,23,150,30-Dec-17
+Karnataka,KK,Raichur,Raichur,Onion,23,51,30-Dec-17
+Karnataka,KK,Belgaum,Belgaum,Onion,23,274,31-Dec-17

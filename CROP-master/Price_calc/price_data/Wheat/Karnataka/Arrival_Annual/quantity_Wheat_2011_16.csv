@@ -1,0 +1,2483 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,20,01-Jan-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,1,01-Jan-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,26,01-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,67,03-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,67,05-Jan-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,2,05-Jan-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,05-Jan-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,2,06-Jan-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,11,06-Jan-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,06-Jan-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,4,07-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,56,07-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,105,10-Jan-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,6,10-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,83,11-Jan-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,11-Jan-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,38,11-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,63,12-Jan-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,9,12-Jan-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,12-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,94,13-Jan-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,14,13-Jan-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,6,13-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,149,14-Jan-2011
+Karnataka,KK,Haveri,Ranebennur,Wheat,1,16,14-Jan-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,14-Jan-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,15-Jan-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,4,17-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,296,17-Jan-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,5,17-Jan-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,17-Jan-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,1,17-Jan-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,17-Jan-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,17-Jan-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,22,17-Jan-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,14,17-Jan-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,11,17-Jan-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,37,17-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,132,18-Jan-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,1,18-Jan-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,18-Jan-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,18-Jan-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,17,18-Jan-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,18,18-Jan-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,12,18-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,69,19-Jan-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,50,19-Jan-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,19-Jan-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,2,19-Jan-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,32,19-Jan-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,2,19-Jan-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,19-Jan-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,349,19-Jan-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,19-Jan-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,3,19-Jan-2011
+Karnataka,KK,Mysore,K.R.Nagar,Wheat,1,560,19-Jan-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,24,19-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,112,20-Jan-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,2,20-Jan-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,20-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,44,21-Jan-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,21-Jan-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,21-Jan-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,21-Jan-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,1,21-Jan-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,22,21-Jan-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,27,21-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,59,22-Jan-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,42,22-Jan-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,15,22-Jan-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,27,23-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,180,24-Jan-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,24-Jan-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,24-Jan-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,1,24-Jan-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,24-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,174,25-Jan-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,5,25-Jan-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,10,27-Jan-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,27,27-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,47,28-Jan-2011
+Karnataka,KK,Haveri,Ranebennur,Wheat,1,11,28-Jan-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,17,28-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,139,29-Jan-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,14,29-Jan-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,2,29-Jan-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,30-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,21,31-Jan-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,31-Jan-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,31-Jan-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,16,01-Feb-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,01-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,2,01-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,01-Feb-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,01-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,01-Feb-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,01-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,25,02-Feb-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,6,02-Feb-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,02-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,1,02-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,02-Feb-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,59,02-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,02-Feb-2011
+Karnataka,KK,Hassan,Arasikere,Wheat,1,5,02-Feb-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,64,02-Feb-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,02-Feb-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,7,02-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,21,03-Feb-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,03-Feb-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,11,03-Feb-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,25,03-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,16,04-Feb-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,04-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,2,04-Feb-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,15,04-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,04-Feb-2011
+Karnataka,KK,Haveri,Ranebennur,Wheat,1,38,04-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,53,05-Feb-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,10,05-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,05-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,05-Feb-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,3,06-Feb-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,7,06-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,50,07-Feb-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,07-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,07-Feb-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,11,07-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,07-Feb-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,6,07-Feb-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,7,07-Feb-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,40,07-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,33,08-Feb-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,5,08-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,08-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,08-Feb-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,15,08-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,08-Feb-2011
+Karnataka,KK,Kolar,Bangarpet,Wheat,1,4,08-Feb-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,9,08-Feb-2011
+Karnataka,KK,Bagalkot,Hungund,Wheat,1,1,09-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,15,09-Feb-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,09-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,09-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,09-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,09-Feb-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,09-Feb-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,28,09-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,115,10-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,10-Feb-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,15,10-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,8,10-Feb-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,13,10-Feb-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,10-Feb-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,30,10-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,52,11-Feb-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,19,11-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,11-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,17,11-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,6,11-Feb-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,5,11-Feb-2011
+Karnataka,KK,Haveri,Ranebennur,Wheat,1,11,11-Feb-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,36,11-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,128,14-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,14-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,14-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,6,14-Feb-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,50,14-Feb-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,14-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,61,15-Feb-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,40,15-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,15-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,15-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,7,15-Feb-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,23,15-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,22,17-Feb-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,17-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,2,17-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,17-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,17-Feb-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,63,17-Feb-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,45,17-Feb-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,17-Feb-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,13,17-Feb-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,8,17-Feb-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,49,17-Feb-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,18-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,36,18-Feb-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,10,18-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,119,19-Feb-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,19-Feb-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,6,19-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,19-Feb-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,81,19-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,19-Feb-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,70,19-Feb-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,67,20-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,108,21-Feb-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,3,21-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,2,21-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,21-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,21-Feb-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,11,21-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,96,22-Feb-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,7,22-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,22-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,22-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,22-Feb-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,169,22-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,95,23-Feb-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,11,23-Feb-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,23-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,23-Feb-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,27,23-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,23-Feb-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,13,24-Feb-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,3,24-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,57,24-Feb-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,5,24-Feb-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,24-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,24-Feb-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,28,24-Feb-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,4,24-Feb-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,1,24-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,24-Feb-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,69,24-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,24-Feb-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,18,24-Feb-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,3,24-Feb-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,25-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,37,25-Feb-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,25-Feb-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,25-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,25-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,25-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,25-Feb-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,21,25-Feb-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,8,25-Feb-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,25-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,83,26-Feb-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,4,26-Feb-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,35,26-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,26-Feb-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,6,26-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,26-Feb-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,9,26-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,26-Feb-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,10,26-Feb-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,20,28-Feb-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,28-Feb-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,10,28-Feb-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,6,28-Feb-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,28-Feb-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,28-Feb-2011
+Karnataka,KK,Koppal,Koppal,Wheat,1,1,28-Feb-2011
+Karnataka,KK,Mysore,Nanjangud,Wheat,1,330,28-Feb-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,16,28-Feb-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,205,01-Mar-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,33,01-Mar-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,1,01-Mar-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,13,01-Mar-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,01-Mar-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,5,01-Mar-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,6,01-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,117,03-Mar-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,6,03-Mar-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,12,03-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,70,04-Mar-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,04-Mar-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,14,04-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,41,05-Mar-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,05-Mar-2011
+Karnataka,KK,Chikmagalur,Chikkamagalore,Wheat,1,11,05-Mar-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,28,05-Mar-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,05-Mar-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,19,05-Mar-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,7,05-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,88,07-Mar-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,07-Mar-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,19,07-Mar-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,07-Mar-2011
+Karnataka,KK,Koppal,Koppal,Wheat,1,1,07-Mar-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,16,07-Mar-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,28,07-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,79,08-Mar-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,5,08-Mar-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,08-Mar-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,7,09-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,63,09-Mar-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,91,09-Mar-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,17,09-Mar-2011
+Karnataka,KK,Mysore,Nanjangud,Wheat,1,1000,09-Mar-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,1,10-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,59,10-Mar-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,10-Mar-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,64,10-Mar-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,22,11-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,190,11-Mar-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,11-Mar-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,15,11-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,597,14-Mar-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,5,14-Mar-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,15,14-Mar-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,60,14-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,218,15-Mar-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,15,15-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,162,16-Mar-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,13,16-Mar-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,2,16-Mar-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,24,16-Mar-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,78,16-Mar-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,24,16-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,59,17-Mar-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,11,17-Mar-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,47,17-Mar-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,26,17-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,103,18-Mar-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,3,18-Mar-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,50,18-Mar-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,71,18-Mar-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,19-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,124,19-Mar-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,26,19-Mar-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,41,19-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,75,21-Mar-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,18,21-Mar-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,2,22-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,123,22-Mar-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,18,22-Mar-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,21,22-Mar-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,23-Mar-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,5,23-Mar-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,17,23-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,65,24-Mar-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,12,24-Mar-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,2,24-Mar-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,2,25-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,57,25-Mar-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,17,25-Mar-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,7,25-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,62,26-Mar-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,26-Mar-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,41,26-Mar-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,8,28-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,166,28-Mar-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,11,28-Mar-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,14,28-Mar-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,13,28-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,69,29-Mar-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,9,29-Mar-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,13,29-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,74,30-Mar-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,10,30-Mar-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,114,31-Mar-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,64,31-Mar-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,61,31-Mar-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,8,31-Mar-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,12,01-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,42,01-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,5,01-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,01-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,19,01-Apr-2011
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,01-Apr-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,87,01-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,23,01-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,163,02-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,02-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,14,02-Apr-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,02-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,18,02-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,17,02-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,272,05-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,05-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,05-Apr-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,16,05-Apr-2011
+Karnataka,KK,Davangere,Harappana Halli,Wheat,1,13,05-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,17,05-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,12,05-Apr-2011
+Karnataka,KK,Koppal,Koppal,Wheat,1,1,05-Apr-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,8,06-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,143,06-Apr-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,121,06-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,06-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,06-Apr-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,3,06-Apr-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,5,06-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,25,06-Apr-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,06-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,14,06-Apr-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,14,06-Apr-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,9,07-Apr-2011
+Karnataka,KK,Bagalkot,Hungund,Wheat,1,1,07-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,147,07-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,07-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,07-Apr-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,4,07-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,07-Apr-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,07-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,16,07-Apr-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,07-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,8,07-Apr-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,25,07-Apr-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,8,07-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,131,08-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,08-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,08-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,08-Apr-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,3,08-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,08-Apr-2011
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,08-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,08-Apr-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,160,08-Apr-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,3,09-Apr-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,5,10-Apr-2011
+Karnataka,KK,Bagalkot,Hungund,Wheat,1,1,11-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,329,11-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,20,11-Apr-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,18,11-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,11-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,11-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,11-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,15,11-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,11-Apr-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,12,11-Apr-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,33,11-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,165,12-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,38,12-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,12-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,18,12-Apr-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,172,12-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,10,12-Apr-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,14,12-Apr-2011
+Karnataka,KK,Kolar,Bangarpet,Wheat,1,8,12-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,130,13-Apr-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,10,13-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,13-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,13-Apr-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,7,13-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,19,13-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,18,13-Apr-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,52,13-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,10,13-Apr-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,30,13-Apr-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,13-Apr-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,71,13-Apr-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,4,15-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,281,15-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,35,15-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,15-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,15-Apr-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,4,15-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,15-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,26,15-Apr-2011
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,15-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,10,15-Apr-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,36,15-Apr-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,23,15-Apr-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,70,17-Apr-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,4,18-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,407,18-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,18-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,18-Apr-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,18-Apr-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,66,18-Apr-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,33,18-Apr-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,22,18-Apr-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,36,18-Apr-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,18-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,159,19-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,19-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,19-Apr-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,2,19-Apr-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,19-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,45,19-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,19-Apr-2011
+Karnataka,KK,Mysore,K.R.Nagar,Wheat,1,15,19-Apr-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,30,19-Apr-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,9,19-Apr-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,9,19-Apr-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,42,19-Apr-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,9,20-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,177,20-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,20-Apr-2011
+Karnataka,KK,Bellary,Bellary,Wheat,1,2,20-Apr-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,15,20-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,20-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,20-Apr-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,6,20-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,20-Apr-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,2,20-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,12,20-Apr-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,63,20-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,8,20-Apr-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,4,20-Apr-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,17,20-Apr-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,20,20-Apr-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,67,20-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,71,21-Apr-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,12,21-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,21-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,21-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,20,21-Apr-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,99,21-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,21-Apr-2011
+Karnataka,KK,Koppal,Yalburga,Wheat,1,1,21-Apr-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,14,21-Apr-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,32,21-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,360,23-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,25,23-Apr-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,23-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,23-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,23-Apr-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,23-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,45,23-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,8,23-Apr-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,23-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,243,25-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,25-Apr-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,14,25-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,25-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,25-Apr-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,6,25-Apr-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,16,25-Apr-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,5,25-Apr-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,116,25-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,25-Apr-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,34,25-Apr-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,18,25-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,60,26-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,26-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,26-Apr-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,61,26-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,32,26-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,26-Apr-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,804,26-Apr-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,16,26-Apr-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,3,27-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,41,27-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,27-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,15,27-Apr-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,3,27-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,27-Apr-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,25,27-Apr-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,12,27-Apr-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,5,27-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,80,28-Apr-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,11,28-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,13,28-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,28-Apr-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,6,28-Apr-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,28-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,18,28-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,10,28-Apr-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,18,28-Apr-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,3,29-Apr-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,29-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,70,29-Apr-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,4,29-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,29-Apr-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,7,29-Apr-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,29-Apr-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,29-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,29-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,29-Apr-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,7,29-Apr-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,44,29-Apr-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,3,29-Apr-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,51,30-Apr-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,26,30-Apr-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,30-Apr-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,11,30-Apr-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,30-Apr-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,32,30-Apr-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,6,30-Apr-2011
+Karnataka,KK,Hassan,Arasikere,Wheat,1,8,30-Apr-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,16,30-Apr-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,36,30-Apr-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,32,30-Apr-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,6,01-May-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,02-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,112,02-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,02-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,02-May-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,02-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,18,02-May-2011
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,02-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,8,02-May-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,4,02-May-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,32,02-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,158,03-May-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,03-May-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,39,03-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,03-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,03-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,101,04-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,04-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,11,04-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,04-May-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,04-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,13,04-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,33,04-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,52,05-May-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,8,05-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,05-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,05-May-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,1,05-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,05-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,7,05-May-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,68,05-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,05-May-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,15,05-May-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,05-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,109,07-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,07-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,07-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,07-May-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,07-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,25,07-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,20,07-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,8,07-May-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,25,07-May-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,1,08-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,73,09-May-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,25,09-May-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,11,09-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,09-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,16,09-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,13,09-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,17,09-May-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,09-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,27,10-May-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,19,10-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,10-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,3,10-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,10-May-2011
+Karnataka,KK,Davangere,Davangere,Wheat,1,15,10-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,10-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,10-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,18,10-May-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,4,10-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,10-May-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,42,10-May-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,5,11-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,49,11-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,11-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,11-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,11-May-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,11-May-2011
+Karnataka,KK,Davangere,Davangere,Wheat,1,20,11-May-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,16,11-May-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,5,11-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,11-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,11-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,11-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,109,12-May-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,11,12-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,12-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,7,12-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,12-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,15,12-May-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,7,12-May-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,12-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,16,12-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,14,12-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,12-May-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,34,12-May-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,6,12-May-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,13,12-May-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,2,13-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,44,13-May-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,50,13-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,13-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,13-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,13-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,18,13-May-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,13-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,6,13-May-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,19,13-May-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,13-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,14-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,14-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,14-May-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,5,14-May-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,14-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,20,14-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,14-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,105,16-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,16-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,16-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,16-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,16-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,7,16-May-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,16,16-May-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,74,16-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,54,17-May-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,2,17-May-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,15,17-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,17-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,17-May-2011
+Karnataka,KK,Davangere,Davangere,Wheat,1,80,17-May-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,17-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,17-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,15,17-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,8,17-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,17-May-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,14,17-May-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,24,17-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,56,18-May-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,12,18-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,18-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,18-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,18-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,18-May-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,44,18-May-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,55,18-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,68,19-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,19-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,19-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,19-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,19-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,19-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,19-May-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,200,19-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,19-May-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,19-May-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,10,19-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,39,20-May-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,14,20-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,20-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,20-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,20-May-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,32,20-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,20-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,20-May-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,18,20-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,18,21-May-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,17,21-May-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,15,21-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,21-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,21-May-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,21-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,21-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,7,21-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,21-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,18,21-May-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,35,21-May-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,6,22-May-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,3,22-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,22-May-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,5,23-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,78,23-May-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,23-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,23-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,23-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,23-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,23-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,66,23-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,19,23-May-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,6,23-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,36,23-May-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,13,23-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,93,24-May-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,24-May-2011
+Karnataka,KK,Bellary,H.B. Halli,Wheat,1,84,24-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,24-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,24-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,24-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,24-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,32,24-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,22,24-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,20,24-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,75,25-May-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,16,25-May-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,25-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,25-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,25-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,25-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,15,25-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,12,25-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,43,26-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,26-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,26-May-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,5,26-May-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,5,26-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,26-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,45,26-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,26-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,26-May-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,8,26-May-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,6,26-May-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,1,27-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,18,27-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,13,27-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,27-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,27-May-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,2,27-May-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,6,27-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,27-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,27-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,27-May-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,20,27-May-2011
+Karnataka,KK,Koppal,Koppal,Wheat,1,1,27-May-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,27-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,40,28-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,28-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,28-May-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,105,28-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,16,28-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,28-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,10,28-May-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,28-May-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,2,29-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,38,30-May-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,44,30-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,30-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,30-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,30-May-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,6,30-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,18,30-May-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,30-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,30-May-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,38,30-May-2011
+Karnataka,KK,Koppal,Koppal,Wheat,1,1,30-May-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,31,30-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,58,31-May-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,15,31-May-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,31-May-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,31-May-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,31-May-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,31-May-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,31-May-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,31-May-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,31-May-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,42,01-Jun-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,8,01-Jun-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,4,01-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,01-Jun-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,13,01-Jun-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,30,01-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,22,02-Jun-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,11,02-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,02-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,02-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,02-Jun-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,3,02-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,14,02-Jun-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,32,02-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,19,02-Jun-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,3,02-Jun-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,18,02-Jun-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,7,03-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,44,03-Jun-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,10,03-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,03-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,14,03-Jun-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,03-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,03-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,03-Jun-2011
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,03-Jun-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,63,03-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,03-Jun-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,46,03-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,77,04-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,04-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,13,04-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,04-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,18,04-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,8,04-Jun-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,04-Jun-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,16,05-Jun-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,3,05-Jun-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,05-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,35,06-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,06-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,06-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,06-Jun-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,06-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,06-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,06-Jun-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,17,06-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,159,07-Jun-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,07-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,07-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,07-Jun-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,07-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,07-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,14,07-Jun-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,27,07-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,10,07-Jun-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,17,07-Jun-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,07-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,68,08-Jun-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,10,08-Jun-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,08-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,08-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,08-Jun-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,08-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,08-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,08-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,10,08-Jun-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,12,08-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,70,09-Jun-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,7,09-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,09-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,09-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,09-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,09-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,16,09-Jun-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,09-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,48,10-Jun-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,14,10-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,10-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,10-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,10-Jun-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,8,10-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,10-Jun-2011
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,10-Jun-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,32,10-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,14,10-Jun-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,33,10-Jun-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,10,10-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,11-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,11-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,12,11-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,11-Jun-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,5,12-Jun-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,2,12-Jun-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,68,12-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,233,13-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,13-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,13-Jun-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,37,13-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,18,13-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,13-Jun-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,208,13-Jun-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,34,13-Jun-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,26,13-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,77,14-Jun-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,20,14-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,14-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,14-Jun-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,14-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,14-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,14,14-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,107,15-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,15-Jun-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,37,15-Jun-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,7,15-Jun-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,30,15-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,53,16-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,16-Jun-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,11,16-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,16-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,16-Jun-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,1,16-Jun-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,26,16-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,63,17-Jun-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,12,17-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,17-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,17-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,15,17-Jun-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,60,17-Jun-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,2,17-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,17-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,9,17-Jun-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,31,17-Jun-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,17,17-Jun-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,38,17-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,16,18-Jun-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,6,18-Jun-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,34,18-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,18-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,18-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,18,18-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,18-Jun-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,29,18-Jun-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,2,19-Jun-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,19-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,183,20-Jun-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,1,20-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,20-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,20-Jun-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,20-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,20-Jun-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,2,20-Jun-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,13,20-Jun-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,36,20-Jun-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,4,20-Jun-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,22,20-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,129,21-Jun-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,29,21-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,21-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,21-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,21-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,7,21-Jun-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,21-Jun-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,39,21-Jun-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,30,21-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,144,22-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,22-Jun-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,22-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,22-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,22-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,22-Jun-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,32,22-Jun-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,15,22-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,124,23-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,23-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,14,23-Jun-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,23-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,14,23-Jun-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,33,23-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,23-Jun-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,20,23-Jun-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,32,23-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,27,24-Jun-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,46,24-Jun-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,19,24-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,16,24-Jun-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,10,24-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,24-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,24-Jun-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,16,24-Jun-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,25,24-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,10,25-Jun-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,42,25-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,25-Jun-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,13,25-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,16,25-Jun-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,3,25-Jun-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,25-Jun-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,25-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,25-Jun-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,25-Jun-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,2,26-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,125,27-Jun-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,24,27-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,27-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,25,27-Jun-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,5,27-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,26,27-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,27-Jun-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,17,27-Jun-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,6,27-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,92,28-Jun-2011
+Karnataka,KK,Bangalore,Doddaballa Pur,Wheat,1,20,28-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,28-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,28-Jun-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,1,28-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,28-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,28-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,51,29-Jun-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,29-Jun-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,29-Jun-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,29-Jun-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,29-Jun-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,13,29-Jun-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,10,29-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,29-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,29-Jun-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,24,29-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,65,30-Jun-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,30-Jun-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,30-Jun-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,125,30-Jun-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,48,01-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,23,01-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,13,01-Jul-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,3,01-Jul-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,37,01-Jul-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,01-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,62,02-Jul-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,02-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,02-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,10,02-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,13,02-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,02-Jul-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,6,02-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,28,02-Jul-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,3,03-Jul-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,03-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,26,04-Jul-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,11,04-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,5,04-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,04-Jul-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,39,04-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,13,04-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,04-Jul-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,27,04-Jul-2011
+Karnataka,KK,Koppal,Koppal,Wheat,1,1,04-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,04-Jul-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,04-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,28,05-Jul-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,05-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,05-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,11,05-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,05-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,05-Jul-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,10,05-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,135,06-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,06-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,06-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,1,06-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,06-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,06-Jul-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,15,06-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,06-Jul-2011
+Karnataka,KK,Bagalkot,Bilagi,Wheat,1,10,07-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,15,07-Jul-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,6,07-Jul-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,07-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,07-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,07-Jul-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,07-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,07-Jul-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,2,07-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,96,08-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,5,08-Jul-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,08-Jul-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,08-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,08-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,12,08-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,08-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,08-Jul-2011
+Karnataka,KK,Hassan,Arasikere,Wheat,1,2,08-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,41,08-Jul-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,17,08-Jul-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,09-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,10,09-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,15,09-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,09-Jul-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,3,10-Jul-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,18,10-Jul-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,10-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,171,11-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,11-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,17,11-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,13,11-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,11-Jul-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,17,11-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,11-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,120,12-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,5,12-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,12-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,12-Jul-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,20,12-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,12-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,89,13-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,13-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,13-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,7,13-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,13-Jul-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,9,13-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,13-Jul-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,6,13-Jul-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,42,13-Jul-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,21,13-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,72,14-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,14-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,21,14-Jul-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,10,14-Jul-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,14-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,14-Jul-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,19,14-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,14-Jul-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,5,14-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,91,15-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,15-Jul-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,15-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,15-Jul-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,49,15-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,15-Jul-2011
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,15-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,15-Jul-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,4,15-Jul-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,16,15-Jul-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,19,15-Jul-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,2,16-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,54,16-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,16-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,16-Jul-2011
+Karnataka,KK,Chikmagalur,Tarikere,Wheat,1,1,16-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,13,16-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,16-Jul-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,10,16-Jul-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,2,17-Jul-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,3,18-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,140,18-Jul-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,18-Jul-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,18-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,18-Jul-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,6,18-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,18-Jul-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,18-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,18-Jul-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,67,18-Jul-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,59,18-Jul-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,66,18-Jul-2011
+Karnataka,KK,Bagalkot,Hungund,Wheat,1,10,19-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,97,19-Jul-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,18,19-Jul-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,10,19-Jul-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,19-Jul-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,19-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,19-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,19-Jul-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,32,19-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,19-Jul-2011
+Karnataka,KK,Mysore,K.R.Nagar,Wheat,1,69,19-Jul-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,21,19-Jul-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,3,19-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,42,20-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,20-Jul-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,20-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,20-Jul-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,16,20-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,16,20-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,20-Jul-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,10,20-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,20-Jul-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,3,20-Jul-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,12,20-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,20-Jul-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,3,20-Jul-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,10,20-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,60,21-Jul-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,12,21-Jul-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,21-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,21-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,5,21-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,21-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,21-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,21-Jul-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,20,21-Jul-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,21-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,99,22-Jul-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,22-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,22-Jul-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,16,22-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,1,22-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,22-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,22-Jul-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,24,22-Jul-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,10,22-Jul-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,17,22-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,79,23-Jul-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,23-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,23-Jul-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,23-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,23-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,17,23-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,23-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,24,23-Jul-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,16,23-Jul-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,2,24-Jul-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,18,24-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,138,25-Jul-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,10,25-Jul-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,25-Jul-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,25-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,25-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,28,25-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,25-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,25-Jul-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,62,25-Jul-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,45,25-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,25-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,73,26-Jul-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,26-Jul-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,26-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,26-Jul-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,26-Jul-2011
+Karnataka,KK,Davangere,Davangere,Wheat,1,195,26-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,26-Jul-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,32,26-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,26-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,35,26-Jul-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,8,26-Jul-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,7,27-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,53,27-Jul-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,10,27-Jul-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,27-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,27-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,17,27-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,27-Jul-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,27-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,27-Jul-2011
+Karnataka,KK,Kolar,Bangarpet,Wheat,1,15,27-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,27-Jul-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,27-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,25,28-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,28-Jul-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,28-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,28-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,28-Jul-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,28-Jul-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,21,28-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,100,29-Jul-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,29-Jul-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,10,29-Jul-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,29-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,29-Jul-2011
+Karnataka,KK,Davangere,Davangere,Wheat,1,16,29-Jul-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,20,29-Jul-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,12,29-Jul-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,40,29-Jul-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,29-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,3,30-Jul-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,10,30-Jul-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,30-Jul-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,16,30-Jul-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,30-Jul-2011
+Karnataka,KK,Hassan,Belur,Wheat,1,58,30-Jul-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,30-Jul-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,15,30-Jul-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,3,31-Jul-2011
+Karnataka,KK,Bellary,H.B. Halli,Wheat,1,3,31-Jul-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,31-Jul-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,81,31-Jul-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,63,01-Aug-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,11,01-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,01-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,01-Aug-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,01-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,17,01-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,01-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,01-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,01-Aug-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,01-Aug-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,81,01-Aug-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,10,01-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,106,02-Aug-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,1,02-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,02-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,02-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,02-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,17,02-Aug-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,7,02-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,02-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,32,02-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,02-Aug-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,6,02-Aug-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,02-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,28,03-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,03-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,03-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,03-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,03-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,03-Aug-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,11,03-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,71,04-Aug-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,33,04-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,04-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,67,05-Aug-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,6,05-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,05-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,05-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,30,05-Aug-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,3,05-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,05-Aug-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,13,05-Aug-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,42,05-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,18,06-Aug-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,06-Aug-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,12,06-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,06-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,06-Aug-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,18,06-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,10,06-Aug-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,06-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,06-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,06-Aug-2011
+Karnataka,KK,Kolar,Chickkaballapura,Wheat,1,20,06-Aug-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,10,06-Aug-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,2,07-Aug-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,16,07-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,63,08-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,08-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,08-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,18,08-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,08-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,08-Aug-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,17,08-Aug-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,13,08-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,72,09-Aug-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,1,09-Aug-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,10,09-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,09-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,09-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,09-Aug-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,17,09-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,09-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,68,09-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,09-Aug-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,09-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,74,10-Aug-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,59,10-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,10-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,10-Aug-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,3,10-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,17,10-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,10-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,10,10-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,10-Aug-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,2,10-Aug-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,10-Aug-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,10,10-Aug-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,12,10-Aug-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,10-Aug-2011
+Karnataka,KK,Tumkur,Sira,Wheat,1,1,10-Aug-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,2,11-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,84,11-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,11-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,11-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,11-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,16,11-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,11-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,11-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,11-Aug-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,18,11-Aug-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,26,11-Aug-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,11-Aug-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,12-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,50,12-Aug-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,12-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,12-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,12-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,17,12-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,12-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,12-Aug-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,15,12-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,13-Aug-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,18,14-Aug-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,17,14-Aug-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,5,16-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,249,16-Aug-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,6,16-Aug-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,59,16-Aug-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,12,16-Aug-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,10,16-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,16-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,16-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,13,16-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,44,16-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,16-Aug-2011
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,16-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,9,16-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,16-Aug-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,6,16-Aug-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,34,16-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,93,17-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,17-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,17-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,17-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,1,17-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,17-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,17-Aug-2011
+Karnataka,KK,Kolar,Bangarpet,Wheat,1,13,17-Aug-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,11,17-Aug-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,4,18-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,93,18-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,18-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,18-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,18-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,18-Aug-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,18-Aug-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,17,18-Aug-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,9,18-Aug-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,3,19-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,161,19-Aug-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,10,19-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,19-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,19-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,19-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,9,19-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,19-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,19-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,19-Aug-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,1,19-Aug-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,20,19-Aug-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,20,19-Aug-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,5,20-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,44,20-Aug-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,2,20-Aug-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,20-Aug-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,12,20-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,20-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,20-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,5,20-Aug-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,20-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,20-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,49,20-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,20-Aug-2011
+Karnataka,KK,Hassan,Arasikere,Wheat,1,3,20-Aug-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,3,21-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,91,22-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,22-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,22-Aug-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,20,22-Aug-2011
+Karnataka,KK,Koppal,Koppal,Wheat,1,1,22-Aug-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,17,22-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,87,23-Aug-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,2,23-Aug-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,23-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,23-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,23-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,23-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,23-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,23-Aug-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,16,23-Aug-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,19,23-Aug-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,23-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,20,24-Aug-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,34,24-Aug-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,5,24-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,24-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,24-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,24-Aug-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,24-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,18,24-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,11,24-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,15,24-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,24-Aug-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,9,24-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,25-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,25-Aug-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,17,25-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,6,25-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,25-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,25-Aug-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,21,25-Aug-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,20,25-Aug-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,25-Aug-2011
+Karnataka,KK,Bagalkot,Badami,Wheat,1,41,26-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,59,26-Aug-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,26-Aug-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,14,26-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,26-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,26-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,48,26-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,26-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,48,26-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,26-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,84,27-Aug-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,5,27-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,27-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,27-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,27-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,27-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,27-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,27-Aug-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,14,28-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,95,29-Aug-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,1,29-Aug-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,20,29-Aug-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,29-Aug-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,10,29-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,36,30-Aug-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,30-Aug-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,34,30-Aug-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,30-Aug-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,7,30-Aug-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,30-Aug-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,17,30-Aug-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,30-Aug-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,30-Aug-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,6,31-Aug-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,222,02-Sep-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,7,02-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,14,02-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,02-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,02-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,02-Sep-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,17,02-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,02-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,33,02-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,02-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,184,03-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,03-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,03-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,03-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,11,03-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,03-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,50,03-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,03-Sep-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,37,04-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,209,05-Sep-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,21,05-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,05-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,05-Sep-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,16,05-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,37,05-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,05-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,64,05-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,05-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,113,06-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,06-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,06-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,7,06-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,06-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,21,06-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,06-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,06-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,24,06-Sep-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,2,07-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,56,07-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,07-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,07-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,07-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,07-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,24,07-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,07-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,7,07-Sep-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,07-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,93,08-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,6,08-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,08-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,08-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,16,08-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,08-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,08-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,08-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,22,08-Sep-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,7,08-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,96,09-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,09-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,09-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,09-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,17,09-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,09-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,09-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,10-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,7,10-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,10-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,10-Sep-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,11-Sep-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,6,11-Sep-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,5,11-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,126,12-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,38,12-Sep-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,12,12-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,12-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,12-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,17,12-Sep-2011
+Karnataka,KK,Chikmagalur,Tarikere,Wheat,1,4,12-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,33,12-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,12-Sep-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,5,12-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,26,12-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,43,13-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,25,13-Sep-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,16,13-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,13-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,13,13-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,20,13-Sep-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,13-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,28,13-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,13-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,15,13-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,13-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,17,13-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,50,14-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,14-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,14-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,14-Sep-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,4,14-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,50,14-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,14-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,13,14-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,14-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,100,15-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,15-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,15-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,15-Sep-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,13,15-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,15-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,15-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,15-Sep-2011
+Karnataka,KK,Koppal,Koppal,Wheat,1,1,15-Sep-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,5,15-Sep-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,12,15-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,17,16-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,16-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,16-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,16-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,16-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,16-Sep-2011
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,16-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,16-Sep-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,17-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,125,17-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,17-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,26,17-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,17-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,13,17-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,17-Sep-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,27,17-Sep-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,5,18-Sep-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,2,18-Sep-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,18-Sep-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,5,19-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,50,19-Sep-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,1,19-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,19-Sep-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,4,19-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,7,19-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,21,19-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,12,19-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,19-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,37,19-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,19-Sep-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,6,19-Sep-2011
+Karnataka,KK,Koppal,Koppal,Wheat,1,1,19-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,12,19-Sep-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,16,19-Sep-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,2,19-Sep-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,16,19-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,23,20-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,18,20-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,20-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,13,20-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,4,20-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,20-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,32,20-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,20-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,20-Sep-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,34,20-Sep-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,61,20-Sep-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,12,20-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,77,21-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,8,21-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,21-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,18,21-Sep-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,18,21-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,35,21-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,21-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,21-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,21-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,19,21-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,30,22-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,4,22-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,7,22-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,22-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,22-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,10,22-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,22-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,41,22-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,22-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,18,22-Sep-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,15,22-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,17,23-Sep-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,1,23-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,23-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,23-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,23-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,23-Sep-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,35,23-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,23-Sep-2011
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,23-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,23-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,23-Sep-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,23-Sep-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,5,24-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,48,24-Sep-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,24-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,24-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,24-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,24-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,34,24-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,24-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,49,24-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,24-Sep-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,12,24-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,24-Sep-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,17,24-Sep-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,25-Sep-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,7,25-Sep-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,25-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,100,26-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,26-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,26-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,26-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,6,26-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,26-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,26-Sep-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,17,26-Sep-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,26-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,27-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,152,28-Sep-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,28-Sep-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,16,28-Sep-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,9,28-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,28-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,28-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,28-Sep-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,28-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,62,29-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,29-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,29-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,29-Sep-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,18,29-Sep-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,33,29-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,29-Sep-2011
+Karnataka,KK,Tumkur,Sira,Wheat,1,3,29-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,45,30-Sep-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,30-Sep-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,30-Sep-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,30-Sep-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,12,30-Sep-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,30-Sep-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,30-Sep-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,65,01-Oct-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,01-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,01-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,01-Oct-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,10,01-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,01-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,01-Oct-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,13,01-Oct-2011
+Karnataka,KK,Raichur,Sindhanur,Wheat,1,9,01-Oct-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,8,02-Oct-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,9,02-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,48,03-Oct-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,6,03-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,03-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,03-Oct-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,17,03-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,03-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,7,03-Oct-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,21,03-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,34,04-Oct-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,04-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,04-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,04-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,04-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,7,04-Oct-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,04-Oct-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,8,04-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,173,07-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,07-Oct-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,07-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,07-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,07-Oct-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,08-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,08-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,08-Oct-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,9,09-Oct-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,9,09-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,146,10-Oct-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,1,10-Oct-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,10-Oct-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,10-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,10-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,10-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,10-Oct-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,10-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,169,12-Oct-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,6,12-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,12-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,12-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,15,12-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,12-Oct-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,20,12-Oct-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,59,12-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,50,13-Oct-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,13-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,18,13-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,13-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,13-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,13-Oct-2011
+Karnataka,KK,Kolar,Chintamani,Wheat,1,46,13-Oct-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,3,13-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,76,14-Oct-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,20,14-Oct-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,14-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,14-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,14-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,14-Oct-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,14-Oct-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,1,14-Oct-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,10,14-Oct-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,34,14-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,136,15-Oct-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,20,15-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,15-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,15-Oct-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,17,15-Oct-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,15-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,15-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,15-Oct-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,168,15-Oct-2011
+Karnataka,KK,Kolar,Bangarpet,Wheat,1,10,15-Oct-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,17,15-Oct-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,5,16-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,88,17-Oct-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,24,17-Oct-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,4,17-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,17-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,17-Oct-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,39,17-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,17-Oct-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,20,17-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,17-Oct-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,24,17-Oct-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,33,17-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,95,18-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,18-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,18-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,18-Oct-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,14,18-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,18-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,25,19-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,19-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,19-Oct-2011
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,105,19-Oct-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,30,19-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,19-Oct-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,19-Oct-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,5,19-Oct-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,51,19-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,80,20-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,20-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,20-Oct-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,13,20-Oct-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,15,20-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,20-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,20-Oct-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,13,20-Oct-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,17,20-Oct-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,7,20-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,84,21-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,21-Oct-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,2,21-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,21-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,21-Oct-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,3,21-Oct-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,13,21-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,74,22-Oct-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,6,22-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,22-Oct-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,20,22-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,22-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,22-Oct-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,22-Oct-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,6,23-Oct-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,24-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,64,24-Oct-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,24-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,21,24-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,24-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,24-Oct-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,10,24-Oct-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,5,24-Oct-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,370,24-Oct-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,15,24-Oct-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,12,24-Oct-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,17,25-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,113,26-Oct-2011
+Karnataka,KK,Hassan,Arasikere,Wheat,1,2,26-Oct-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,22,26-Oct-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,9,26-Oct-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,7,26-Oct-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,3,27-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,27-Oct-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,28-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,12,28-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,28-Oct-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,48,28-Oct-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,19,28-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,28-Oct-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,117,28-Oct-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,4,28-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,66,29-Oct-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,1,29-Oct-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,29-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,17,29-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,29-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,29-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,29-Oct-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,23,29-Oct-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,3,30-Oct-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,6,30-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,73,31-Oct-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,31-Oct-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,31-Oct-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,16,31-Oct-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,15,31-Oct-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,31-Oct-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,31-Oct-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,13,31-Oct-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,68,31-Oct-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,178,02-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,02-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,02-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,15,02-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,20,02-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,12,02-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,02-Nov-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,3,02-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,02-Nov-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,10,02-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,69,03-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,14,03-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,03-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,27,03-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,03-Nov-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,14,03-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,03-Nov-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,12,03-Nov-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,10,03-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,17,03-Nov-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,9,03-Nov-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,04-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,04-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,04-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,10,04-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,04-Nov-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,20,04-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,04-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,106,05-Nov-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,05-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,05-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,05-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,05-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,27,05-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,05-Nov-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,31,05-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,05-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,05-Nov-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,4,06-Nov-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,5,06-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,251,08-Nov-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,3,08-Nov-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,40,08-Nov-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,12,08-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,08-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,08-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,08-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,12,08-Nov-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,3,08-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,08-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,08-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,08-Nov-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,45,08-Nov-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,09-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,26,09-Nov-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,10,09-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,09-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,13,09-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,09-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,11,09-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,09-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,09-Nov-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,4,09-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,62,10-Nov-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,6,10-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,10-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,10-Nov-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,11,10-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,10-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,10-Nov-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,31,10-Nov-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,37,10-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,10-Nov-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,11-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,91,11-Nov-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,20,11-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,11-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,11-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,11-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,24,11-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,11-Nov-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,11,11-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,12-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,12-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,31,12-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,12-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,12-Nov-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,3,13-Nov-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,2,13-Nov-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,4,13-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,311,15-Nov-2011
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,37,15-Nov-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,15-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,15-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,15-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,15-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,14,15-Nov-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,15-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,15-Nov-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,15,15-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,15-Nov-2011
+Karnataka,KK,Hassan,Arasikere,Wheat,1,4,15-Nov-2011
+Karnataka,KK,Madikeri(Kodagu),Gonikappal,Wheat,1,39,15-Nov-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,26,15-Nov-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,23,15-Nov-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,16-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,42,16-Nov-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,27,16-Nov-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,12,16-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,16-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,16-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,16-Nov-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,99,16-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,10,16-Nov-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,16-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,16-Nov-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,16-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,16-Nov-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,3,16-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,16-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,50,17-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,17-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,17-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,17-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,17-Nov-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,93,17-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,17-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,20,17-Nov-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,13,17-Nov-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,2,18-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,34,18-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,18-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,18-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,18-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,29,18-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,18-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,18-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,23,18-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,73,19-Nov-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,18,19-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,19-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,19-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,19-Nov-2011
+Karnataka,KK,Chikmagalur,Chikkamagalore,Wheat,1,5,19-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,19-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,19-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,20,19-Nov-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,27,19-Nov-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,19-Nov-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,3,20-Nov-2011
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,20-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,44,21-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,21-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,21-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,21-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,11,21-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,21-Nov-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,32,21-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,11,21-Nov-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,1,21-Nov-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,11,21-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,54,22-Nov-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,22-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,22-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,22-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,22-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,1,22-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,22-Nov-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,22-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,22-Nov-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,63,22-Nov-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,23-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,78,23-Nov-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,23-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,23-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,23-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,23-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,31,23-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,23-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,23-Nov-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,63,23-Nov-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,18,23-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,23-Nov-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,16,23-Nov-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,44,23-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,26,24-Nov-2011
+Karnataka,KK,Belgaum,Athani,Wheat,1,2,24-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,24-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,24-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,24-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,24-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,24-Nov-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,24-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,98,25-Nov-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,30,25-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,25-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,151,26-Nov-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,4,26-Nov-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,26-Nov-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,15,26-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,26-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,26-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,26-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,20,26-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,26-Nov-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,26-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,26-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,17,26-Nov-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,4,26-Nov-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,3,27-Nov-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,10,27-Nov-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,28-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,170,28-Nov-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,1,28-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,28-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,28-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,28-Nov-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,3,28-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,28-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,28-Nov-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,20,28-Nov-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,15,28-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,49,29-Nov-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,29-Nov-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,13,29-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,29-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,29-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,29-Nov-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,29-Nov-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,36,29-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,29-Nov-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,9,29-Nov-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,7,29-Nov-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,2,30-Nov-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,82,30-Nov-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,3,30-Nov-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,30-Nov-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,30-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,30-Nov-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,11,30-Nov-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,20,30-Nov-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,30-Nov-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,17,30-Nov-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,01-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,12,01-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,5,01-Dec-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,16,01-Dec-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,3,01-Dec-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,7,02-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,73,02-Dec-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,20,02-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,02-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,7,02-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,02-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,1,02-Dec-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,15,02-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,32,02-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,02-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,45,03-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,03-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,03-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,03-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,15,03-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,03-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,03-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,12,03-Dec-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,03-Dec-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,4,04-Dec-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,04-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,78,05-Dec-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,25,05-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,05-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,05-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,05-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,05-Dec-2011
+Karnataka,KK,Hassan,Arasikere,Wheat,1,1,05-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,12,05-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,112,07-Dec-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,28,07-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,07-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,07-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,14,07-Dec-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,20,07-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,12,07-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,07-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,36,07-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,07-Dec-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,8,07-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,4,07-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,59,08-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,08-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,08-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,08-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,08-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,6,08-Dec-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,38,08-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,25,09-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,09-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,09-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,09-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,09-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,19,09-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,09-Dec-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,10,09-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,10-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,29,10-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,10-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,10-Dec-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,3,11-Dec-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,12,11-Dec-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,12-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,265,12-Dec-2011
+Karnataka,KK,Belgaum,Nippani,Wheat,1,10,12-Dec-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,46,12-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,12-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,12-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,12-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,12-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,56,12-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,20,12-Dec-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,21,12-Dec-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,4,12-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,97,13-Dec-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,13-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,13-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,13-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,13,13-Dec-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,6,13-Dec-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,19,13-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,22,13-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,37,13-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,13-Dec-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,2,13-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,13-Dec-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,33,13-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,78,14-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,14-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,14-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,16,14-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,24,14-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,13,14-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,14-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,14-Dec-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,15,14-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,153,15-Dec-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,51,15-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,15-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,15-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,15-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,15-Dec-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,7,15-Dec-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,16-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,108,16-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,16-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,16-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,16-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,21,16-Dec-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,39,16-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,16-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,16-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,16-Dec-2011
+Karnataka,KK,Raichur,Sindhanur,Wheat,1,10,16-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,70,17-Dec-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,15,17-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,17-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,22,17-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,20,17-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,17-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,20,17-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,17-Dec-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,1001,17-Dec-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,18,17-Dec-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,17,17-Dec-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,12,17-Dec-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,5,18-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,105,19-Dec-2011
+Karnataka,KK,Belgaum,Soundati,Wheat,1,10,19-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,19-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,19-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,19-Dec-2011
+Karnataka,KK,Dharwad,Annigeri,Wheat,1,19,19-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,51,19-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,19,19-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,19-Dec-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,17,19-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,33,19-Dec-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,51,19-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,71,20-Dec-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,18,20-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,20-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,7,20-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,20-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,15,20-Dec-2011
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,12,20-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,29,20-Dec-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,17,20-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,5,21-Dec-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,21-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,21-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,21-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,21-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,7,21-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,21-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,38,21-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,21-Dec-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,1,21-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,21-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,40,22-Dec-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,14,22-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,22-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,22-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,22-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,22-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,22-Dec-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,1,22-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,22-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,130,23-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,9,23-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,23-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,21,23-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,23-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,23-Dec-2011
+Karnataka,KK,Haveri,Hanagal,Wheat,1,42,23-Dec-2011
+Karnataka,KK,Haveri,Haveri,Wheat,1,75,23-Dec-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,22,23-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,23-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,157,24-Dec-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,19,24-Dec-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,24,24-Dec-2011
+Karnataka,KK,Belgaum,Ramdurga,Wheat,1,5,25-Dec-2011
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,7,25-Dec-2011
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,6,26-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,88,26-Dec-2011
+Karnataka,KK,Bellary,Hospet,Wheat,1,28,26-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,26-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,26-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,26-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,26-Dec-2011
+Karnataka,KK,Hassan,Hassan,Wheat,1,5,26-Dec-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,37,26-Dec-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,16,26-Dec-2011
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,16,26-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,62,27-Dec-2011
+Karnataka,KK,Bangalore,Doddaballa Pur,Wheat,1,101,27-Dec-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,20,27-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,27-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,12,27-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,27-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,22,27-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,27-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,54,27-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,27-Dec-2011
+Karnataka,KK,Hassan,Arasikere,Wheat,1,2,27-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,28,27-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,71,28-Dec-2011
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,14,28-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,28-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,28-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,15,28-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,28-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,11,28-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,28-Dec-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,40,28-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,65,29-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,29-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,29-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,29-Dec-2011
+Karnataka,KK,Gadag,Nargunda,Wheat,1,79,29-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,29-Dec-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,13,29-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,29-Dec-2011
+Karnataka,KK,Raichur,Manvi,Wheat,1,17,29-Dec-2011
+Karnataka,KK,Tumkur,Sira,Wheat,1,2,29-Dec-2011
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,4,30-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,56,30-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,30-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,30-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,30-Dec-2011
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,12,30-Dec-2011
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,30-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,30-Dec-2011
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,13,30-Dec-2011
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,30-Dec-2011
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,28,31-Dec-2011
+Karnataka,KK,Bidar,Aurad,Wheat,1,12,31-Dec-2011
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,31-Dec-2011
+Karnataka,KK,Bidar,Bidar,Wheat,1,11,31-Dec-2011
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,31-Dec-2011
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,31-Dec-2011
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,31-Dec-2011
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,37,31-Dec-2011

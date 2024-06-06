@@ -1,0 +1,530 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,185,25-May-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,25-May-2013
+Karnataka,KK,Kolar,Chintamani,Arhar,260,10,26-May-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,164,27-May-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,34,27-May-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,27-May-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,215,28-May-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,3,28-May-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,24,28-May-2013
+Karnataka,KK,Kolar,Chintamani,Arhar,260,5,28-May-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,28-May-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,28-May-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,7,28-May-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,98,29-May-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,29-May-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,103,30-May-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,2,30-May-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,30-May-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,80,31-May-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,31-May-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,31-May-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,113,01-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,01-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,01-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,363,03-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,26,03-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,03-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,165,04-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,04-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,123,05-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,46,05-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,05-Jun-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,2,05-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,207,06-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,06-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,170,07-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,07-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,531,10-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,10-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,171,11-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,70,11-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,11-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,107,12-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,22,12-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,12-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,237,13-Jun-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,64,13-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,9,13-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,13-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,213,14-Jun-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,1,14-Jun-2013
+Karnataka,KK,Madikeri(Kodagu),Madikeri,Arhar,260,1,14-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,21,14-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,14-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,286,15-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,37,15-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,15-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,432,17-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,51,17-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,17-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,211,18-Jun-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,18-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,18-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,18-Jun-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,5,18-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,205,19-Jun-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,7,19-Jun-2013
+Karnataka,KK,Kolar,Chickkaballapura,Arhar,260,1,19-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,7,19-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,19-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,193,20-Jun-2013
+Karnataka,KK,Belgaum,Soundati,Arhar,260,1,20-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,9,20-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,20-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,121,21-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,7,21-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,21-Jun-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,2,21-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,135,22-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,6,22-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,22-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,297,24-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,105,25-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,6,25-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,25-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,218,26-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,213,27-Jun-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,4,27-Jun-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,15,27-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,27,27-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,115,28-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,10,28-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,134,29-Jun-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,16,29-Jun-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,29-Jun-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,259,01-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,18,01-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,01-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,158,02-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,12,02-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,95,03-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,24,03-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,03-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,166,04-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,04-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,119,05-Jul-2013
+Karnataka,KK,Chikmagalur,Chikkamagalore,Arhar,260,9,05-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,05-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,134,06-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,9,06-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,223,08-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,9,08-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,08-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,261,09-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,09-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,09-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,91,10-Jul-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,34,10-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,10-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,174,11-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,32,11-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,11-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,208,12-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,14,12-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,12-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,509,15-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,15-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,277,16-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,16-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,83,17-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,17-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,218,18-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,39,18-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,18-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,202,19-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,19-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,200,20-Jul-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,8,20-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,19,20-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,263,22-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,8,22-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,22-Jul-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,2,22-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,126,23-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,14,23-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,23-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,139,24-Jul-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,11,24-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,21,24-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,24-Jul-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,2,24-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,103,25-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,24,25-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,25-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,90,26-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,17,26-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,14,26-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,166,27-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,22,27-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,27-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,286,29-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,29-Jul-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,1,29-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,204,30-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,32,30-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,30-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,130,31-Jul-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,5,31-Jul-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,31-Jul-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,175,01-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,01-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,130,02-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,32,02-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,02-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,108,03-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,03-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,295,05-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,05-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,171,06-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,06-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,241,07-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,14,07-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,07-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,171,08-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,14,08-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,08-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,777,12-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,44,12-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,9,12-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,335,13-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,13-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,251,14-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,22,14-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,14-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,434,16-Aug-2013
+Karnataka,KK,Davangere,Davangere,Arhar,260,8,16-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,263,17-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,25,17-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,16,17-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,297,19-Aug-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,1,19-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,19-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,207,20-Aug-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,10,20-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,16,20-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,20-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,219,21-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,5,21-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,21-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,208,22-Aug-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,2,22-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,17,22-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,22-Aug-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,2,22-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,250,23-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,25,23-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,23-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,251,24-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,24-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,290,26-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,26-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,26-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,179,27-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,27-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,27-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,122,28-Aug-2013
+Karnataka,KK,Chikmagalur,Chikkamagalore,Arhar,260,3,28-Aug-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,21,28-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,5,28-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,28-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,125,29-Aug-2013
+Karnataka,KK,Gulbarga,Sedam,Arhar,260,2,29-Aug-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,17,29-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,29-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,296,30-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,30-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,69,31-Aug-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,31-Aug-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,330,02-Sep-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,3,02-Sep-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,3,02-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,40,02-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,02-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,242,03-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,03-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,99,04-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,04-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,04-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,169,05-Sep-2013
+Karnataka,KK,Madikeri(Kodagu),Madikeri,Arhar,260,1,05-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,1,05-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,05-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,230,06-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,06-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,06-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,71,07-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,07-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,07-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,277,10-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,40,10-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,10-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,110,11-Sep-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,4,11-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,11-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,11-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,76,12-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,1,12-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,40,13-Sep-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,2,13-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,18,13-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,11,13-Sep-2013
+Karnataka,KK,Kolar,Chintamani,Arhar,260,6,15-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,501,16-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,7,16-Sep-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,1,16-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,268,17-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,179,18-Sep-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,9,18-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,158,19-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,19-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,104,20-Sep-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,47,20-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,20-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,189,21-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,223,23-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,18,23-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,23-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,104,24-Sep-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,3,24-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,32,24-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,24-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,205,25-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,151,25-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,25-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,111,26-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,243,27-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,27-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,149,28-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,28-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,380,30-Sep-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,5,30-Sep-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,21,30-Sep-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,30-Sep-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,4,30-Sep-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,203,01-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,13,01-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,01-Oct-2013
+Karnataka,KK,Tumkur,Sira,Arhar,260,1,01-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,368,03-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,79,03-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,03-Oct-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,2,03-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,457,05-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,19,05-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,05-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,171,07-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,07-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,07-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,358,08-Oct-2013
+Karnataka,KK,Chikmagalur,Chikkamagalore,Arhar,260,5,08-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,14,08-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,08-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,191,09-Oct-2013
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,09-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,17,09-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,09-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,287,10-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,33,10-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,10-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,224,11-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,11-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,11-Oct-2013
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,27,14-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,796,15-Oct-2013
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,15-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,10,15-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,15-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,155,17-Oct-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,4,17-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,17-Oct-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,13,17-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,129,18-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,157,19-Oct-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,4,19-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,88,19-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,5,19-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,325,21-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,56,21-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,12,21-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,207,22-Oct-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,3,22-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,36,22-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,22-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,226,23-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,55,23-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,23-Oct-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,3,23-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,264,24-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,31,24-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,24-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,254,25-Oct-2013
+Karnataka,KK,Madikeri(Kodagu),Madikeri,Arhar,260,1,25-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,22,25-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,25-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,260,26-Oct-2013
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,2,26-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,30,26-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,26-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,265,28-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,22,28-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,28-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,221,29-Oct-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,29-Oct-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,2,29-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,36,29-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,8,29-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,115,30-Oct-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,6,30-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,30-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,30-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,289,31-Oct-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,16,31-Oct-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,44,31-Oct-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,31-Oct-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,391,02-Nov-2013
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,8,02-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,35,03-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,45,04-Nov-2013
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,6,04-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,167,05-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,8,05-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,110,06-Nov-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,6,06-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,06-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,06-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,115,07-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,7,07-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,07-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,226,08-Nov-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,2,08-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,32,08-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,08-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,204,09-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,234,11-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,25,11-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,11-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,222,12-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,60,12-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,12-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,129,13-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,13-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,13-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,128,14-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,16,14-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,14-Nov-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,1,14-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,120,15-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,332,16-Nov-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,3,16-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,16-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,365,18-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,18-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,195,19-Nov-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,1,19-Nov-2013
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,19-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,17,19-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,19-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,200,20-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,169,21-Nov-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,11,21-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,44,21-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,21-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,243,22-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,22-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,216,23-Nov-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,9,23-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,23-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,23-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,217,25-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,25-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,109,26-Nov-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,5,26-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,26,26-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,3,26-Nov-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,2,26-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,52,27-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,27-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,27-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,28,28-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,28-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,68,29-Nov-2013
+Karnataka,KK,Belgaum,Nippani,Arhar,260,2,29-Nov-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,27,29-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,6,29-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,29-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,87,30-Nov-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,6,30-Nov-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,30-Nov-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,330,02-Dec-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,02-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,185,03-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,03-Dec-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,32,03-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,106,04-Dec-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,04-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,46,05-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,05-Dec-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,05-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,212,06-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,169,07-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,07-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,339,09-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,11,09-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,163,10-Dec-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,10-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,418,12-Dec-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,1,12-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,45,12-Dec-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,12-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,133,13-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,30,13-Dec-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,2,13-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,184,14-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,262,16-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,187,17-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,17-Dec-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,5,17-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,246,18-Dec-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,20,18-Dec-2013
+Karnataka,KK,Madikeri(Kodagu),Madikeri,Arhar,260,1,18-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,24,18-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,105,19-Dec-2013
+Karnataka,KK,Hassan,Arasikere,Arhar,260,11,19-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,68,19-Dec-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,19-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,116,20-Dec-2013
+Karnataka,KK,Belgaum,Nippani,Arhar,260,1,20-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,15,20-Dec-2013
+Karnataka,KK,Raichur,Sindhanur,Arhar,260,1,20-Dec-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,5,20-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,181,21-Dec-2013
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,1,21-Dec-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,6,21-Dec-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,1,21-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,198,23-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,12,23-Dec-2013
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,10,23-Dec-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,23-Dec-2013
+Karnataka,KK,Kolar,Bangarpet,Arhar,260,10,24-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,229,25-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,96,26-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,42,26-Dec-2013
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,2,26-Dec-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,4,26-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,135,27-Dec-2013
+Karnataka,KK,Gadag,Laxmeshwar,Arhar,260,1,27-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,20,27-Dec-2013
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,3,27-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,246,28-Dec-2013
+Karnataka,KK,Hassan,Hassan,Arhar,260,17,28-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,23,28-Dec-2013
+Karnataka,KK,Shimoga,Bhadravathi,Arhar,260,2,28-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,436,30-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,105,30-Dec-2013
+Karnataka,KK,Shimoga,Shimoga,Arhar,260,1,30-Dec-2013
+Karnataka,KK,Bangalore,Bangalore,Arhar,260,288,31-Dec-2013
+Karnataka,KK,Chikmagalur,Chikkamagalore,Arhar,260,4,31-Dec-2013
+Karnataka,KK,Mysore,Mysore (Bandipalya),Arhar,260,63,31-Dec-2013
+Karnataka,KK,Udupi,Kundapura,Arhar,260,7,31-Dec-2013

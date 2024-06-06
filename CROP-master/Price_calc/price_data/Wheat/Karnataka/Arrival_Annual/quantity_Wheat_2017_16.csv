@@ -1,0 +1,2320 @@
+State,State_Code,District,Market,Commodity,Commodity_Code,Arrivals,Date
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,70,2-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,2-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,2-Jan-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,2-Jan-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,11,2-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,2-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,116,3-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,3-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,3-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,3-Jan-17
+Karnataka,KK,Mysore,Piriya Pattana,Wheat,1,16,3-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,102,4-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,4-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,4-Jan-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,13,4-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,4-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,4-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,56,5-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,5-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,5-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,5-Jan-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,3,5-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,5,5-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,106,6-Jan-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,25,6-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,6-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,6-Jan-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,3,6-Jan-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,29,6-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,6-Jan-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,4,6-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,37,7-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,7-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,7-Jan-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,7-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,7-Jan-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,2,7-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,7-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,173,9-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,9-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,9-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,9-Jan-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,5,9-Jan-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,2,9-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,9-Jan-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,3,10-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,62,10-Jan-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,16,10-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,10-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,10-Jan-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,10-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,10-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,40,11-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,11-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,11-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,11-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,6,12-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,12-Jan-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,18,12-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,12-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,12-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,81,13-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,13-Jan-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,5,13-Jan-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,20,13-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,13-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,29,13-Jan-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,13-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,9,13-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,157,16-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,16-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,16-Jan-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,10,16-Jan-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,9,16-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,16-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,93,17-Jan-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,3,17-Jan-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,1,17-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,17-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,17-Jan-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,20,17-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,17-Jan-17
+Karnataka,KK,Shimoga,Shikaripura,Wheat,1,6,17-Jan-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,14,18-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,85,18-Jan-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,8,18-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,18-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,18-Jan-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,18-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,18-Jan-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,3,18-Jan-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,3,18-Jan-17
+Karnataka,KK,Mysore,K.R.Nagar,Wheat,1,600,18-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,18-Jan-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,2,19-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,97,19-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,19-Jan-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,19-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,19-Jan-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,4,20-Jan-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,3,20-Jan-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,47,20-Jan-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,37,21-Jan-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,17,23-Jan-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,26,23-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,75,24-Jan-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,1,24-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,24-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,24-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,82,25-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,25-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,25-Jan-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,25-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,6,25-Jan-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,7,25-Jan-17
+Karnataka,KK,Bagalkot,Mhalingapur,Wheat,1,1,27-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,91,27-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,27-Jan-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,3,27-Jan-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,14,27-Jan-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,27-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,87,28-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,28-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,28-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,6,28-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,87,30-Jan-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,8,30-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,30-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,30-Jan-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,30-Jan-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,26,31-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,80,31-Jan-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,31-Jan-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,31-Jan-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,5,31-Jan-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,31-Jan-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,14,31-Jan-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,31-Jan-17
+Karnataka,KK,Raichur,Manvi,Wheat,1,20,31-Jan-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,30,1-Feb-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,2,1-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,1-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,1-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,1-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,1-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,72,2-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,2-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,2-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,2-Feb-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,10,2-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,2-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,2-Feb-17
+Karnataka,KK,Bagalkot,Mhalingapur,Wheat,1,1,3-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,110,3-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,3-Feb-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,24,3-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,3-Feb-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,24,3-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,7,3-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,13,4-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,88,4-Feb-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,15,4-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,4-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,4-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,4-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,28,6-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,132,6-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,6-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,6-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,6-Feb-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,6-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,6-Feb-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,15,6-Feb-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,2,6-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,74,7-Feb-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,13,7-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,7-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,7-Feb-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,11,7-Feb-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,3,7-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,19,7-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,35,8-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,8-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,8-Feb-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,11,8-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,8-Feb-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,14,8-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,8-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,61,9-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,9-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,9-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,9-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,9-Feb-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,16,9-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,9-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,19,10-Feb-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,53,10-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,10-Feb-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,49,10-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,10-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,10-Feb-17
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,19,10-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,10-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,11-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,11-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,11-Feb-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,12,12-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,13,13-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,295,13-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,13-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,13-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,13-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,5,13-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,38,14-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,60,14-Feb-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,14-Feb-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,13,14-Feb-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,1,14-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,14-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,14-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,14-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,14-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,14-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,30,15-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,15-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,15-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,15-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,15-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,43,16-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,30,16-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,16-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,16-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,16-Feb-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,20,16-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,16-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,16-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,10,17-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,98,17-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,17-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,17-Feb-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,13,17-Feb-17
+Karnataka,KK,Davangere,Honnali,Wheat,1,12,17-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,17-Feb-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,15,17-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,17-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,5,17-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,28,18-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,69,18-Feb-17
+Karnataka,KK,Chikmagalur,Tarikere,Wheat,1,12,18-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,15,20-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,11,21-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,95,21-Feb-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,21-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,21-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,21-Feb-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,2,21-Feb-17
+Karnataka,KK,Chikmagalur,Tarikere,Wheat,1,3,21-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,21-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,21-Feb-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,16,21-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,19,21-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,20,22-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,112,22-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,22-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,22-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,22-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,22-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,17,22-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,76,23-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,35,23-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,23-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,23-Feb-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,11,23-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,23-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,23-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,23-Feb-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,23-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,28,24-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,38,25-Feb-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,4,25-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,23,27-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,92,27-Feb-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,27-Feb-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,3,27-Feb-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,27-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,27-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,27-Feb-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,6,27-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,27-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,27-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,23,28-Feb-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,51,28-Feb-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,28-Feb-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,28-Feb-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,28-Feb-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,28-Feb-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,28-Feb-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,14,28-Feb-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,58,1-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,62,1-Mar-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,3,1-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,1-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,1-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,17,1-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,1-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,1-Mar-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,2,1-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,11,1-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,73,2-Mar-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,20,2-Mar-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,15,2-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,2-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,2-Mar-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,5,2-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,2-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,13,2-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,34,3-Mar-17
+Karnataka,KK,Bagalkot,Mhalingapur,Wheat,1,2,3-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,45,3-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,3-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,3-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,3-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,3-Mar-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,18,3-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,3-Mar-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,22,3-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,3-Mar-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,8,3-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,56,4-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,96,4-Mar-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,9,4-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,6,4-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,4-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,19,4-Mar-17
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,1,4-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,4-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,4-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,2,5-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,138,6-Mar-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,6-Mar-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,82,6-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,6-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,6-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,6-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,6-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,6-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,48,7-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,86,7-Mar-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,5,7-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,7-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,7-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,8,7-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,15,7-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,4,7-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,7-Mar-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,18,7-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,7-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,7-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,153,8-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,8-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,8-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,40,8-Mar-17
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,1,8-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,8-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,8-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,8-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,153,9-Mar-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,9-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,9-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,9-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,5,9-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,20,9-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,9-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,9-Mar-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,5,9-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,9-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,8,9-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,33,10-Mar-17
+Karnataka,KK,Bagalkot,Mhalingapur,Wheat,1,3,10-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,81,10-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,6,10-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,10-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,5,10-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,39,10-Mar-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,77,10-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,11,10-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,10-Mar-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,4,10-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,10-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,29,11-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,8,11-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,11-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,18,11-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,11-Mar-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,1,12-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,291,13-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,16,13-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,13-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,13-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,47,13-Mar-17
+Karnataka,KK,Shimoga,Shikaripura,Wheat,1,2,13-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,13-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,154,14-Mar-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,26,14-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,14-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,14-Mar-17
+Karnataka,KK,Chikmagalur,Tarikere,Wheat,1,6,14-Mar-17
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,41,14-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,14-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,14-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,150,15-Mar-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,9,15-Mar-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,1,15-Mar-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,6,15-Mar-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,4,15-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,9,15-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,15-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,10,15-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,15-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,15-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,6,15-Mar-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,17,15-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,8,15-Mar-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,3,15-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,15-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,77,16-Mar-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,1,16-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,6,16-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,16-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,16-Mar-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,16-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,16-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,16-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,39,17-Mar-17
+Karnataka,KK,Bagalkot,Mhalingapur,Wheat,1,3,17-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,125,17-Mar-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,17-Mar-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,25,17-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,7,17-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,17-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,17-Mar-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,3,17-Mar-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,11,17-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,17-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,17-Mar-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,16,17-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,17-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,7,18-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,103,18-Mar-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,17,18-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,8,18-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,18-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,9,18-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,18-Mar-17
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,3,18-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,21,18-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,18-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,8,18-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,18-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,9,19-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,28,20-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,143,20-Mar-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,18,20-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,8,20-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,20-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,20-Mar-17
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,10,20-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,3,20-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,20-Mar-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,33,20-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,20-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,37,21-Mar-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,7,21-Mar-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,20,21-Mar-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,4,21-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,10,21-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,21-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,7,21-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,21-Mar-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,2,21-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,21-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,9,21-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,21-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,15,21-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,188,22-Mar-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,25,22-Mar-17
+Karnataka,KK,Bellary,Hoovinahadagali,Wheat,1,13,22-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,9,22-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,22-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,12,22-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,22-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,22-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,22-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,22-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,22,23-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,48,23-Mar-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,17,23-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,10,23-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,23-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,23-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,23-Mar-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,23-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,23-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,22,24-Mar-17
+Karnataka,KK,Bagalkot,Mhalingapur,Wheat,1,4,24-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,51,24-Mar-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,32,24-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,9,24-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,24-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,18,24-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,24-Mar-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,32,24-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,24-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,24-Mar-17
+Karnataka,KK,Haveri,Ranebennur,Wheat,1,6,24-Mar-17
+Karnataka,KK,Madikeri(Kodagu),Madikeri,Wheat,1,10,24-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,28,25-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,168,25-Mar-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,2,25-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,14,25-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,25-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,5,25-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,25-Mar-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,25-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,24,25-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,7,25-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,6,26-Mar-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,5,27-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,164,27-Mar-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,19,27-Mar-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,11,27-Mar-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,16,27-Mar-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,27-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,5,27-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,23,27-Mar-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,3,27-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,12,27-Mar-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,45,27-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,27-Mar-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,17,27-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,164,28-Mar-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,5,28-Mar-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,21,28-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,10,28-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,28-Mar-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,14,28-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,5,29-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,24,30-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,197,30-Mar-17
+Karnataka,KK,Belgaum,Gokak,Wheat,1,1,30-Mar-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,50,30-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,13,30-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,5,30-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,30-Mar-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,2,30-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,12,30-Mar-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,49,30-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,30-Mar-17
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,17,30-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,48,31-Mar-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,102,31-Mar-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,7,31-Mar-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,11,31-Mar-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,10,31-Mar-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,31-Mar-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,30,31-Mar-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,31-Mar-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,31-Mar-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,252,31-Mar-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,3,31-Mar-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,5,31-Mar-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,18,31-Mar-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,13,1-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,135,1-Apr-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,5,1-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,10,1-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,13,1-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,20,1-Apr-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,25,1-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,1-Apr-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,10,1-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,1-Apr-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,11,2-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,15,3-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,233,3-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,11,3-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,3-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,3-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,3-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,11,3-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,3-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,22,4-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,187,4-Apr-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,9,4-Apr-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,8,4-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,10,4-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,4-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,4-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,4-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,4-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,124,5-Apr-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,16,5-Apr-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,2,5-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,3,5-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,5-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,32,6-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,126,6-Apr-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,14,6-Apr-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,7,6-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,16,6-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,6-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,6-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,6-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,3,6-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,2,7-Apr-17
+Karnataka,KK,Bagalkot,Mhalingapur,Wheat,1,4,7-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,101,7-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,11,7-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,7-Apr-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,57,7-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,7-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,7-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,11,8-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,19,8-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,141,10-Apr-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,3,10-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,10,10-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,10-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,21,10-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,10-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,10-Apr-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,22,10-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,10-Apr-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,9,10-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,10-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,21,11-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,161,11-Apr-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,39,11-Apr-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,4,11-Apr-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,2,11-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,11-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,11-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,68,12-Apr-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,2,12-Apr-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,9,12-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,12,12-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,12-Apr-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,24,12-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,3,12-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,12-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,12-Apr-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,5,12-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,4,12-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,33,13-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,53,13-Apr-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,2,13-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,13-Apr-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,12,13-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,13-Apr-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,12,13-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,13-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,13-Apr-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,36,13-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,13-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,32,15-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,135,15-Apr-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,2,15-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,10,15-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,15-Apr-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,9,15-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,19,15-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,15-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,17,15-Apr-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,10,15-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,15-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,15-Apr-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,14,16-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,155,17-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,9,17-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,17-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,17-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,12,17-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,17-Apr-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,14,17-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,75,18-Apr-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,4,18-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,9,18-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,18-Apr-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,6,18-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,18-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,18-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,18-Apr-17
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,25,18-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,22,19-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,146,19-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,6,19-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,19-Apr-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,7,19-Apr-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,1,19-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,19-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,19-Apr-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,6,19-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,29,20-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,57,20-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,20-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,20-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,18,20-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,20-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,20-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,82,21-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,7,21-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,21-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,21-Apr-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,29,21-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,21-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,6,21-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,4,21-Apr-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,21,22-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,32,22-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,10,22-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,22-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,22-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,21,22-Apr-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,12,22-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,22-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,24,22-Apr-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,11,23-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,65,24-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,24-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,24-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,24-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,24-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,24-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,79,25-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,25-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,25-Apr-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,4,25-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,25-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,25-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,8,25-Apr-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,6,25-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,54,26-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,23,26-Apr-17
+Karnataka,KK,Chikmagalur,Tarikere,Wheat,1,10,26-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,124,27-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,27-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,27-Apr-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,15,27-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,27-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,27-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,27-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,27-Apr-17
+Karnataka,KK,Hassan,Sakaleshpura,Wheat,1,8,27-Apr-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,29,27-Apr-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,1,28-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,68,28-Apr-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,28-Apr-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,28-Apr-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,28-Apr-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,23,28-Apr-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,28-Apr-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,28-Apr-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,28-Apr-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,23,28-Apr-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,28-Apr-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,15,30-Apr-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,3,30-Apr-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,250,2-May-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,10,2-May-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,12,2-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,2-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,2-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,21,2-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,2-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,2-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,2-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,2,3-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,12,3-May-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,13,3-May-17
+Karnataka,KK,Bellary,Hoovinahadagali,Wheat,1,15,3-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,3-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,3-May-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,13,3-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,3-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,6,3-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,3-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,23,4-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,4-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,4-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,4-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,4-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,4-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,4-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,3,5-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,40,5-May-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,8,5-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,8,5-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,5-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,5-May-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,7,5-May-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,24,5-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,5-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,5-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,34,6-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,5,6-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,6-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,6-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,11,6-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,6-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,6-May-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,6,7-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,5,8-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,8-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,8-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,8-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,6,8-May-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,3,8-May-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,12,8-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,29,9-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,8,9-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,9-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,15,9-May-17
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,2,9-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,9-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,9-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,26,10-May-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,1,10-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,10-May-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,14,10-May-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,4,10-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,10-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,10-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,10-May-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,9,11-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,12,11-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,9,11-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,11-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,11-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,11-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,11-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,7,11-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,11-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,85,12-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,12-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,12-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,9,12-May-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,65,12-May-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,89,12-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,12-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,12-May-17
+Karnataka,KK,Haveri,Ranebennur,Wheat,1,18,12-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,12-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,13-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,13-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,13-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,13-May-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,12,14-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,112,15-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,15-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,15-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,15-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,15-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,15-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,15-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,15-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,28,16-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,16-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,16-May-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,8,16-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,16-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,16-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,16-May-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,4,16-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,4,17-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,9,17-May-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,1,17-May-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,5,17-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,17-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,17-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,17-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,17-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,17-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,17-May-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,9,18-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,32,18-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,18-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,18-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,18-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,18-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,18-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,25,19-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,19-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,19-May-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,21,19-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,19-May-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,12,19-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,80,20-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,20-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,20-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,20-May-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,7,20-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,20-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,20-May-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,4,21-May-17
+Karnataka,KK,Bagalkot,Badami,Wheat,1,2,22-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,36,22-May-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,20,22-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,22-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,22-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,22-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,22-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,22-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,22-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,81,23-May-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,17,23-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,23-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,23-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,23-May-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,23-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,23-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,23-May-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,3,23-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,23-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,7,24-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,93,24-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,24-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,24-May-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,9,24-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,10,24-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,24-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,24-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,24-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,47,25-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,25-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,61,26-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,26-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,26-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,26-May-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,4,26-May-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,11,26-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,26-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,26-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,24,27-May-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,13,27-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,27-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,27-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,27-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,27-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,27-May-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,4,28-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,92,29-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,29-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,29-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,20,29-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,29-May-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,31,29-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,29-May-17
+Karnataka,KK,Koppal,Koppal,Wheat,1,1,29-May-17
+Karnataka,KK,Raichur,Manvi,Wheat,1,29,29-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,120,30-May-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,6,30-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,30-May-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,2,30-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,30-May-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,8,30-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,30-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,30-May-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,1,31-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,6,31-May-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,31-May-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,31-May-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,9,31-May-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,31-May-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,31-May-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,31-May-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,29,31-May-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,4,31-May-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,140,1-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,1-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,1-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,1-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,1-Jun-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,1,1-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,1-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,1-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,84,2-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,2-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,2-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,2-Jun-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,9,2-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,2-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,2-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,57,3-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,3-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,3-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,3-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,3-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,3-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,3-Jun-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,7,4-Jun-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,9,5-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,71,5-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,5-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,5-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,26,5-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,5-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,14,5-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,92,6-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,6-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,6-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,6-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,6-Jun-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,3,6-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,43,7-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,7-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,7-Jun-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,14,7-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,7-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,7-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,7-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,104,8-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,8-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,8-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,8-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,8-Jun-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,2,8-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,8-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,122,9-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,18,9-Jun-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,37,9-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,9-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,9-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,10-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,10-Jun-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,6,11-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,181,12-Jun-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,2,12-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,12-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,12-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,12-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,12-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,12-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,12-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,12-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,9,13-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,13-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,13-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,13-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,2,13-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,13-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,13-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,13-Jun-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,13-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,13-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,66,14-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,14-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,14-Jun-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,9,14-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,14-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,14-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,14-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,20,14-Jun-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,2,14-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,186,15-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,15-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,15-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,15-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,15-Jun-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,10,15-Jun-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,3,15-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,15-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,15-Jun-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,15-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,15-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,57,16-Jun-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,46,16-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,16-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,16-Jun-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,13,16-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,16-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,16-Jun-17
+Karnataka,KK,Haveri,Ranebennur,Wheat,1,2,16-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,16-Jun-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,2,16-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,7,16-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,143,17-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,17-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,17-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,17-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,17-Jun-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,7,17-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,17-Jun-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,9,19-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,96,19-Jun-17
+Karnataka,KK,Bellary,Hoovinahadagali,Wheat,1,12,19-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,19-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,19-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,19-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,19-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,19-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,19-Jun-17
+Karnataka,KK,Raichur,Manvi,Wheat,1,24,19-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,9,19-Jun-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,2,20-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,33,20-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,20-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,20-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,20-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,20-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,5,20-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,32,20-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,20-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,48,21-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,21-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,21-Jun-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,11,21-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,21-Jun-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,2,21-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,21-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,21-Jun-17
+Karnataka,KK,Raichur,Manvi,Wheat,1,23,21-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,39,22-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,22-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,22-Jun-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,10,22-Jun-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,2,22-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,22-Jun-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,7,22-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,22-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,56,23-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,23-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,23-Jun-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,7,23-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,23-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,23-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,23-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,47,24-Jun-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,8,24-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,24-Jun-17
+Karnataka,KK,Mysore,Piriya Pattana,Wheat,1,15,24-Jun-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,24-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,7,24-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,105,27-Jun-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,7,27-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,27-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,27-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,27-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,27-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,27-Jun-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,2,27-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,22,27-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,27-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,51,28-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,28-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,28-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,19,28-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,28-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,28-Jun-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,6,28-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,28-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,93,29-Jun-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,48,29-Jun-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,29-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,29-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,29-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,29-Jun-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,4,29-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,29-Jun-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,29-Jun-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,8,29-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,29-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,36,30-Jun-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,30-Jun-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,30-Jun-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,22,30-Jun-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,30-Jun-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,30-Jun-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,11,30-Jun-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,30-Jun-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,31,30-Jun-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,14,30-Jun-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,10,30-Jun-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,30-Jun-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,39,1-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,1-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,1-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,1-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,1-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,30,1-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,98,3-Jul-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,2,3-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,3-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,3-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,3-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,3-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,3-Jul-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,3-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,4-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,4-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,23,4-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,4-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,4-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,4,4-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,57,5-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,5-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,5-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,5-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,5-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,5-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,1,6-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,9,6-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,6-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,2,6-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,6,6-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,6-Jul-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,6,6-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,6-Jul-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,14,6-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,6-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,68,7-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,7-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,7-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,7-Jul-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,57,7-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,7-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,7-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,7-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,8-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,8-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,8-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,8-Jul-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,17,9-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,245,10-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,22,10-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,10-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,10-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,10-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,99,11-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,11-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,11-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,19,11-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,11-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,11-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,11-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,11-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,105,12-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,12-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,12-Jul-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,7,12-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,12-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,4,12-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,13,12-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,34,13-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,13-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,13-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,13-Jul-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,3,13-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,13-Jul-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,13-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,13-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,141,14-Jul-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,107,14-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,14-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,14-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,14-Jul-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,21,14-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,14-Jul-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,26,14-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,14-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,113,15-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,15-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,15-Jul-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,3,15-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,15-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,15-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,13,15-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,15-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,75,17-Jul-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,4,17-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,17-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,17-Jul-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,10,17-Jul-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,1,17-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,17-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,33,17-Jul-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,17-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,17-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,116,18-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,18-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,29,18-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,18-Jul-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,6,18-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,13,18-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,18-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,164,19-Jul-17
+Karnataka,KK,Bellary,Hoovinahadagali,Wheat,1,30,19-Jul-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,2,19-Jul-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,1,19-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,19-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,19-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,19-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,58,20-Jul-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,14,20-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,20-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,20-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,20-Jul-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,1,20-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,20-Jul-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,11,20-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,132,21-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,21-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,21-Jul-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,26,21-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,21-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,21-Jul-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,3,21-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,1,22-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,41,22-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,22-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,22-Jul-17
+Karnataka,KK,Bidar,Humanabad,Wheat,1,3,22-Jul-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,11,22-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,22-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,22-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,22-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,127,24-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,2,24-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,24-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,24-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,12,24-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,51,25-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,25-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,25-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,25-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,25-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,25-Jul-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,1,26-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,81,26-Jul-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,4,26-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,26-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,26-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,26-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,6,26-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,26-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,41,27-Jul-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,27-Jul-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,3,27-Jul-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,1,27-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,27-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,27-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,27,28-Jul-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,7,28-Jul-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,18,28-Jul-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,28-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,28-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,8,29-Jul-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,4,29-Jul-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,8,29-Jul-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,29-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,29-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,29-Jul-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,3,29-Jul-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,57,31-Jul-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,31-Jul-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,31-Jul-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,22,31-Jul-17
+Karnataka,KK,Raichur,Manvi,Wheat,1,15,31-Jul-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,31-Jul-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,14,1-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,1-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,1-Aug-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,1-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,1-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,1-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,52,2-Aug-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,2-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,2-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,2-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,2-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,8,2-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,2-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,52,3-Aug-17
+Karnataka,KK,Belgaum,Gokak,Wheat,1,10,3-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,3-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,3-Aug-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,2,3-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,3-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,3-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,24,4-Aug-17
+Karnataka,KK,Belgaum,Gokak,Wheat,1,1,4-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,4-Aug-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,20,4-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,4-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,8,4-Aug-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,22,5-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,33,5-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,5-Aug-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,151,5-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,5-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,5-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,64,7-Aug-17
+Karnataka,KK,Bellary,Hoovinahadagali,Wheat,1,25,7-Aug-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,7,7-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,7-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,7-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,99,8-Aug-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,5,8-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,8-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,8-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,8,8-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,25,9-Aug-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,6,9-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,9-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,9-Aug-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,10,9-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,9-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,26,9-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,9-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,12,10-Aug-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,2,10-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,10-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,10-Aug-17
+Karnataka,KK,Davangere,Honnali,Wheat,1,9,10-Aug-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,1,10-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,10-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,10-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,73,11-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,11-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,11-Aug-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,1,11-Aug-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,69,11-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,11-Aug-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,2,11-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,12-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,12-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,12-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,240,14-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,8,14-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,5,14-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,85,16-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,16-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,16-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,16-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,16-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,80,17-Aug-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,216,17-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,17-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,17-Aug-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,1,17-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,17-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,14,17-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,17-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,18-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,18-Aug-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,31,18-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,18-Aug-17
+Karnataka,KK,Haveri,Hanagal,Wheat,1,8,18-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,2,18-Aug-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,18-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,18-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,55,19-Aug-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,36,19-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,19-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,19-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,19-Aug-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,6,19-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,19-Aug-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,22,20-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,3,21-Aug-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,9,21-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,3,21-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,43,22-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,22-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,22-Aug-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,3,22-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,22-Aug-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,22-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,22-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,102,23-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,23-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,48,24-Aug-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,30,24-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,24-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,24-Aug-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,5,24-Aug-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,1,24-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,24-Aug-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,5,24-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,24-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,56,26-Aug-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,4,26-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,26-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,26-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,26-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,26-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,4,26-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,33,28-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,28-Aug-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,28-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,28-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,7,28-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,36,29-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,29-Aug-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,29-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,29-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,29-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,61,30-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,30-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,30-Aug-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,30-Aug-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,30-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,30-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,30-Aug-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,30-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,89,31-Aug-17
+Karnataka,KK,Belgaum,Gokak,Wheat,1,1,31-Aug-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,31-Aug-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,31-Aug-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,3,31-Aug-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,31-Aug-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,37,31-Aug-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,31-Aug-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,6,31-Aug-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,47,1-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,1-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,1-Sep-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,19,1-Sep-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,4,1-Sep-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,33,1-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,1-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,1-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,58,4-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,4-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,4-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,4-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,4-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,20,4-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,4-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,4-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,4-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,43,5-Sep-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,13,5-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,5-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,5-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,5-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,5-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,27,6-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,6-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,32,6-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,18,6-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,6-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,6-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,14,6-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,98,7-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,7-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,7-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,7-Sep-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,58,7-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,7-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,49,8-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,8-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,8-Sep-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,6,8-Sep-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,21,8-Sep-17
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,8-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,3,8-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,8-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,8-Sep-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,13,9-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,9-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,7,9-Sep-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,5,9-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,9-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,9-Sep-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,39,10-Sep-17
+Karnataka,KK,Mysore,Piriya Pattana,Wheat,1,16,10-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,136,11-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,11-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,11-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,11-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,11-Sep-17
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,11-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,11-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,11-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,50,12-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,4,12-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,12-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,12-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,12-Sep-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,53,12-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,12-Sep-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,5,12-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,79,13-Sep-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,3,13-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,13-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,13-Sep-17
+Karnataka,KK,Davangere,Honnali,Wheat,1,15,13-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,13-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,10,13-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,13-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,4,13-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,13-Sep-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,1,14-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,96,14-Sep-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,5,14-Sep-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,21,14-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,14-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,14-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,14-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,17,14-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,14-Sep-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,64,14-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,12,14-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,14-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,45,15-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,15-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,15-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,15-Sep-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,41,15-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,15-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,15-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,15-Sep-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,28,15-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,15-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,15-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,17,16-Sep-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,8,16-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,16-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,16-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,16-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,16-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,16-Sep-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,4,16-Sep-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,36,17-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,102,18-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,18-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,18-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,18,18-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,18-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,18-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,18-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,18-Sep-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,141,18-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,18-Sep-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,6,18-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,18-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,19-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,215,20-Sep-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,2,20-Sep-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,5,20-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,20-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,23,20-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,20-Sep-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,1,21-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,79,21-Sep-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,24,21-Sep-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,10,21-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,21-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,21-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,21-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,21-Sep-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,21-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,21-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,32,22-Sep-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,7,22-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,22-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,22-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,22-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,22-Sep-17
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,22-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,22-Sep-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,6,22-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,8,22-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,9,22-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,49,23-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,23-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,23-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,23-Sep-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,17,23-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,10,23-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,3,23-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,23-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,23-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,23-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,86,25-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,25-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,25-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,25-Sep-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,10,25-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,25-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,25-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,25-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,22,25-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,36,26-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,26-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,26-Sep-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,26-Sep-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,26-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,26-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,26-Sep-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,47,26-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,26-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,52,27-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,27-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,27-Sep-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,4,27-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,27-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,27-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,27-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,42,28-Sep-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,28-Sep-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,3,28-Sep-17
+Karnataka,KK,Chikmagalur,Tarikere,Wheat,1,2,28-Sep-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,28-Sep-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,28-Sep-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,28-Sep-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,9,28-Sep-17
+Karnataka,KK,Raichur,Manvi,Wheat,1,46,28-Sep-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,28-Sep-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,264,3-Oct-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,7,3-Oct-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,3,3-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,3-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,12,3-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,3-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,3,3-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,3-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,4,3-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,3-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,47,4-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,4-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,17,4-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,4-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,2,4-Oct-17
+Karnataka,KK,Gadag,Rona,Wheat,1,1,4-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,4-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,3,4-Oct-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,6,5-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,148,6-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,6-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,6-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,27,6-Oct-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,21,6-Oct-17
+Karnataka,KK,Dharwad,Dharwar,Wheat,1,4,6-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,6-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,2,6-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,6-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,11,6-Oct-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,1,7-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,59,7-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,7-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,7-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,23,7-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,7,7-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,2,7-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,7-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,7-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,70,9-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,9-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,9-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,31,9-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,9-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,2,9-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,9-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,9-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,47,10-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,10-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,10-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,10-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,10-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,10-Oct-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,173,10-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,10-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,10-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,17,11-Oct-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,16,11-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,11-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,11-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,11-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,11-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,11-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,11-Oct-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,48,11-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,11-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,42,12-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,12-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,12-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,12-Oct-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,1,12-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,12-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,12-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,12-Oct-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,39,12-Oct-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,12-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,12-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,58,13-Oct-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,6,13-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,13-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,13-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,26,13-Oct-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,52,13-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,13-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,4,13-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,13-Oct-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,3,13-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,13-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,14-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,14-Oct-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,21,16-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,115,16-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,31,16-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,16-Oct-17
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,16-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,8,16-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,16-Oct-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,49,16-Oct-17
+Karnataka,KK,Koppal,Gangavathi,Wheat,1,10,16-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,25,16-Oct-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,16,16-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,16-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,20,17-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,17-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,17-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,17-Oct-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,38,17-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,17-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,102,19-Oct-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,9,19-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,19-Oct-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,9,19-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,4,19-Oct-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,2,19-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,20-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,118,21-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,21-Oct-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,3,21-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,21-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,21-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,8,21-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,58,23-Oct-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,3,23-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,10,23-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,23-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,23-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,23-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,23-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,72,24-Oct-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,3,24-Oct-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,7,24-Oct-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,8,24-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,24-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,24-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,24-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,24-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,24-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,22,24-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,24-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,92,25-Oct-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,4,25-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,25-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,25-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,25-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,2,25-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,25-Oct-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,13,25-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,25-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,80,26-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,26-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,26-Oct-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,19,26-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,26-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,26-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,26-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,35,27-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,27-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,27-Oct-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,26,27-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,27-Oct-17
+Karnataka,KK,Gadag,Laxmeshwar,Wheat,1,1,27-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,27-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,50,28-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,28-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,28-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,20,28-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,28-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,2,28-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,28-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,21,28-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,119,30-Oct-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,11,30-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,30-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,30-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,30-Oct-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,30-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,2,30-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,30-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,6,30-Oct-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,154,31-Oct-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,31-Oct-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,31-Oct-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,31-Oct-17
+Karnataka,KK,Chikmagalur,Tarikere,Wheat,1,2,31-Oct-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,31-Oct-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,31-Oct-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,18,31-Oct-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,22,31-Oct-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,7,31-Oct-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,6,31-Oct-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,9,2-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,126,2-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,2-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,2-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,24,2-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,2-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,2-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,2-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,89,3-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,3-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,3-Nov-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,3,3-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,3-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,3-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,3-Nov-17
+Karnataka,KK,Haveri,Ranebennur,Wheat,1,2,3-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,3-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,12,4-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,40,4-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,4-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,7,4-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,4-Nov-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,5,4-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,4-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,4-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,4-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,12,4-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,131,7-Nov-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,10,7-Nov-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,5,7-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,7-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,7-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,11,7-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,7-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,5,7-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,7-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,25,7-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,7-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,59,8-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,8-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,8-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,8-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,8-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,2,8-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,8-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,29,8-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,8-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,64,9-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,9-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,9-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,9-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,9-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,2,9-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,9-Nov-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,4,9-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,9-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,9,10-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,52,10-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,10-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,10-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,10-Nov-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,68,10-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,10-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,10-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,10-Nov-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,10-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,10-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,11-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,11-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,11-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,11-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,11-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,56,13-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,84,13-Nov-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,7,13-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,13-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,13-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,13-Nov-17
+Karnataka,KK,Chikmagalur,Koppa,Wheat,1,15,13-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,13-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,13-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,13-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,41,13-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,13-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,30,14-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,14-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,14-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,14-Nov-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,3,14-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,14-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,14-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,4,14-Nov-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,3,14-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,117,15-Nov-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,10,15-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,15-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,15-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,15-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,15-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,15-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,15-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,15-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,28,16-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,59,16-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,16-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,16-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,8,16-Nov-17
+Karnataka,KK,Bijapur,Sindagi(Hendi),Wheat,1,30,16-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,16-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,16-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,16-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,16-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,168,17-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,17-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,17-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,17-Nov-17
+Karnataka,KK,Bijapur,Sindagi(Hendi),Wheat,1,25,17-Nov-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,19,17-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,17-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,17-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,5,17-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,28,18-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,20,18-Nov-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,13,18-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,18-Nov-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,3,18-Nov-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,16,18-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,7,18-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,126,20-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,20-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,20-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,7,20-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,20-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,20-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,13,20-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,20-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,20-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,36,21-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,21-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,21-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,21-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,21-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,22,22-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,51,22-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,22-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,22-Nov-17
+Karnataka,KK,Bijapur,Sindagi(Hendi),Wheat,1,40,22-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,22-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,22-Nov-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,61,22-Nov-17
+Karnataka,KK,Mysore,K.R.Nagar,Wheat,1,63,22-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,18,22-Nov-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,22-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,22-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,38,23-Nov-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,1,23-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,23-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,23-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,23-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,23-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,23-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,23-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,23-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,34,24-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,24-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,24-Nov-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,32,24-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,6,24-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,24-Nov-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,24,24-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,24-Nov-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,1,24-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,129,25-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,25-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,25-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,25-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,25-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,25-Nov-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,6,25-Nov-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,42,26-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,33,28-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,50,28-Nov-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,7,28-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,28-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,4,28-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,28-Nov-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,28-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,28-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,28-Nov-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,12,28-Nov-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,130,28-Nov-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,6,28-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,28-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,28,29-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,79,29-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,29-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,29-Nov-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,4,29-Nov-17
+Karnataka,KK,Bijapur,Sindagi(Hendi),Wheat,1,38,29-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,29-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,29-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,14,29-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,29-Nov-17
+Karnataka,KK,Tumkur,Huliyar,Wheat,1,2,29-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,11,30-Nov-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,160,30-Nov-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,30-Nov-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,30-Nov-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,30-Nov-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,30-Nov-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,1,30-Nov-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,30-Nov-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,26,30-Nov-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,30-Nov-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,50,1-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,32,1-Dec-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,20,1-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,1-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,1-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,3,1-Dec-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,18,1-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,1-Dec-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,1-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,1-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,1-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,1-Dec-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,5,2-Dec-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,77,3-Dec-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,1,4-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,83,4-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,4-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,4-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,4-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,4-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,29,4-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,55,5-Dec-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,7,5-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,5-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,5-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,3,5-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,5-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,16,5-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,5-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,27,6-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,6-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,6-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,6-Dec-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,6-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,6-Dec-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,5,6-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,6-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,77,7-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,7-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,7-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,7-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,7-Dec-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,7-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,7-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,11,8-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,26,8-Dec-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,11,8-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,8-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,8-Dec-17
+Karnataka,KK,Bijapur,Sindagi,Wheat,1,21,8-Dec-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,54,8-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,8-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,8-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,8,8-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,8-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,9-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,9-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,9-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,9-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,11,11-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,129,11-Dec-17
+Karnataka,KK,Belgaum,Nippani,Wheat,1,5,11-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,11-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,11-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,11-Dec-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,11-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,11-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,11-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,11-Dec-17
+Karnataka,KK,Bagalkot,Bagalakot,Wheat,1,1,12-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,61,12-Dec-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,4,12-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,12-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,12-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,12-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,58,12-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,70,13-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,13-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,13-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,13-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,13-Dec-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,10,13-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,12,14-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,42,14-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,14-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,14-Dec-17
+Karnataka,KK,Gulbarga,Alanda,Wheat,1,1,14-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,14-Dec-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,14-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,4,14-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,70,15-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,87,15-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,15-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,15-Dec-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,55,15-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,15-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,8,15-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,96,16-Dec-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,10,16-Dec-17
+Karnataka,KK,Belgaum,Kudchi,Wheat,1,30,16-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,16-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,16-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,16-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,1,16-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,11,16-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,7,16-Dec-17
+Karnataka,KK,Belgaum,Athani,Wheat,1,1,17-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,68,18-Dec-17
+Karnataka,KK,Belgaum,Gokak,Wheat,1,1,18-Dec-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,6,18-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,18-Dec-17
+Karnataka,KK,Haveri,Haveri,Wheat,1,3,18-Dec-17
+Karnataka,KK,Mysore,K.R.Nagar,Wheat,1,212,18-Dec-17
+Karnataka,KK,Raichur,Manvi,Wheat,1,69,18-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,18-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,67,19-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,19-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,5,19-Dec-17
+Karnataka,KK,Gadag,Nargunda,Wheat,1,1,19-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,19-Dec-17
+Karnataka,KK,Raichur,Manvi,Wheat,1,19,19-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,170,20-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,20-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,20-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,2,20-Dec-17
+Karnataka,KK,Bijapur,Sindagi(Hendi),Wheat,1,41,20-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,20-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,15,20-Dec-17
+Karnataka,KK,Raichur,Manvi,Wheat,1,11,20-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,20-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,5,21-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,21-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,21-Dec-17
+Karnataka,KK,Dharwad,Hubli (Amaragol),Wheat,1,1,21-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,21-Dec-17
+Karnataka,KK,Hassan,Arasikere,Wheat,1,3,21-Dec-17
+Karnataka,KK,Raichur,Manvi,Wheat,1,24,21-Dec-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,21-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,21-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,95,22-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,22-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,22-Dec-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,18,22-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,22-Dec-17
+Karnataka,KK,Haveri,Shiggauv,Wheat,1,94,22-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,9,22-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,8,22-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,121,23-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,23-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,4,23-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,23-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,14,23-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,132,26-Dec-17
+Karnataka,KK,Bellary,Hospet,Wheat,1,7,26-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,3,26-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,26-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,1,26-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,2,26-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,26-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,12,26-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,26-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,21,27-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,30,27-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,2,27-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,8,27-Dec-17
+Karnataka,KK,Bijapur,Sindagi(Hendi),Wheat,1,15,27-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,3,27-Dec-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,2,27-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,10,27-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,1,27-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,29,28-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,51,28-Dec-17
+Karnataka,KK,Belgaum,Sankeshwar,Wheat,1,3,28-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,28-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,28-Dec-17
+Karnataka,KK,Bijapur,Bijapur,Wheat,1,5,28-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,8,28-Dec-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,10,28-Dec-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,4,28-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,12,29-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,81,29-Dec-17
+Karnataka,KK,Bidar,Basava Kalayana,Wheat,1,1,29-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,5,29-Dec-17
+Karnataka,KK,Davangere,Davangere,Wheat,1,26,29-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,1,29-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,4,29-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,27,29-Dec-17
+Karnataka,KK,Shimoga,Shimoga,Wheat,1,2,29-Dec-17
+Karnataka,KK,Bagalkot,Jamakhandi,Wheat,1,30,30-Dec-17
+Karnataka,KK,Bangalore,Bangalore,Wheat,1,100,30-Dec-17
+Karnataka,KK,Belgaum,Soundati,Wheat,1,24,30-Dec-17
+Karnataka,KK,Bidar,Bidar,Wheat,1,6,30-Dec-17
+Karnataka,KK,Gadag,Gadag,Wheat,1,11,30-Dec-17
+Karnataka,KK,Gulbarga,Gulbarga,Wheat,1,2,30-Dec-17
+Karnataka,KK,Hassan,Hassan,Wheat,1,4000,30-Dec-17
+Karnataka,KK,Mysore,Mysore (Bandipalya),Wheat,1,5,30-Dec-17
+Karnataka,KK,Shimoga,Bhadravathi,Wheat,1,5,30-Dec-17

@@ -1,0 +1,15 @@
+Crop ID,Name,Filename,Transport Cost
+maize,Maize,maize.csv,150
+ragi,Ragi,ragi.csv,200
+rice,Rice,rice.csv,200
+sugarcane,Sugarcane,sugarcane.csv,200
+jowar,Jowar,jowar.csv,200
+cotton,Cotton,cotton.csv,200
+bajra,Bajra,bajra.csv,200
+wheat,Wheat,wheat.csv,200
+tobacco,Tobacco,tobacco.csv,200
+tur,Tur,tur.csv,200
+gram,Gram,gram.csv,200
+groundnut,Groundnut,groundnut.csv,200
+moong,Moong,moong.csv,200
+soybean,Soybean,soybean.csv,200
